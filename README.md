@@ -5,7 +5,7 @@ Klei began as a Valentines card for my beloved wife Alisa. I had hand drawn the 
 
 My hope is that this font will fill a very real need for well drawn and complete SIL licensed typeface. We're excited to see it evolve and to see it in use in many beautiful projects. This project has been nothing but admiration and love for the art of typography; and my darling Alisa.
 
-// ![Klei type samples](https://raw.github/documentation/klei-specimens.png)
+![Klei type samples](https://raw.githubusercontent.com/Rocketroom/klei/master/%20specimens/klei-specimens.png)
 
 # About Files
 
