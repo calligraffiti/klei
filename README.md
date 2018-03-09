@@ -1,6 +1,6 @@
 # Klei
 
-Klei began as a Valentines card for my beloved wife Alisa. I had hand drawn the letters in her name, and three years later, from those glyphs, this font was born. Her childhood nickname growing up was Clay, and being that this font is so influenced by the dutch masters, of course it had do be called Klei; the Dutch word for Clay.
+Klei began as a Valentines card for my beloved wife Alisa. I had hand drawn the letters in her name, and three years later, from those rough glyphs, this font was born. Her childhood nickname growing up was Clay, and being that this font is so influenced by the dutch masters, of course it had do be called Klei; the Dutch word for Clay.
 
 My hope is that this font will fill a very real need for well drawn and complete SIL licensed typeface. We're excited to see it evolve and to see it in use in many beautiful projects. This project has been nothing but admiration and love for the art of typography; and my darling Alisa.
 
