@@ -1,6 +1,6 @@
 # Klei
 
-![Klei Dickens sample]( klei/ specimens/klei_samp1.jpg)
+![Klei Dickens sample]( klei/%20specimens/klei_samp1.jpg)
 
 Klei began as a Valentines card for my beloved wife Alisa. I had hand drawn the letters in her name, and three years later, from those rough glyphs, this font was born. Her childhood nickname growing up was Clay, and being that this font is so influenced by the dutch masters, of course it had do be called Klei; the Dutch word for Clay.
 
