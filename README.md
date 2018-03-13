@@ -1,12 +1,12 @@
 # Klei
 
-![Klei Dickens sample](https://raw.githubusercontent.com/Rocketroom/klei/master/klei/%20specimens/klei_samp1.jpg)
+![Klei Dickens sample](https://raw.githubusercontent.com/Rocketroom/klei/master/specimens/klei_samp1.jpg)
 
 Klei began as a Valentines card for my beloved wife Alisa. I had hand drawn the letters in her name, and three years later, from those rough glyphs, this font was born. Her childhood nickname growing up was Clay, and being that this font is so influenced by the dutch masters, of course it had do be called Klei; the Dutch word for Clay.
 
 My hope is that this font will fill a very real need for well drawn and complete SIL licensed typeface. We're excited to see it evolve and to see it in use in many beautiful projects. This project has been nothing but admiration and love for the art of typography; and my darling Alisa.
 
-![Klei type samples](klei/specimens/klei-specimens.png)
+![Klei type samples](https://raw.githubusercontent.com/Rocketroom/klei/master/specimens/klei-specimens.png)
 
 # About Files
 
