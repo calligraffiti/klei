@@ -27,7 +27,7 @@ The Klei.sfd folder contains the native FontForge source files. We will try and 
 - Create a heavy black weight
 - Greek Glyphs
 - Cyrillic Glyphs
-- Change to UFO masters
+- ~~Post UFO files~~
 - Upload Web Fonts
 
 Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
