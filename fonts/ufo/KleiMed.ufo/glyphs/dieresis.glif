@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="427"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="267.106" y="670.02" type="curve" smooth="yes"/>
+      <point x="267.106" y="699.537"/>
+      <point x="291.037" y="723.467"/>
+      <point x="320.554" y="723.467" type="curve" smooth="yes"/>
+      <point x="350.07" y="723.467"/>
+      <point x="374" y="699.537"/>
+      <point x="374" y="670.02" type="curve" smooth="yes"/>
+      <point x="374" y="640.503"/>
+      <point x="350.07" y="616.573"/>
+      <point x="320.554" y="616.573" type="curve" smooth="yes"/>
+      <point x="291.037" y="616.573"/>
+      <point x="267.106" y="640.503"/>
+    </contour>
+    <contour>
+      <point x="43.75" y="670.02" type="curve" smooth="yes"/>
+      <point x="43.75" y="699.537"/>
+      <point x="67.6802" y="723.467"/>
+      <point x="97.1973" y="723.467" type="curve" smooth="yes"/>
+      <point x="126.713" y="723.467"/>
+      <point x="150.644" y="699.537"/>
+      <point x="150.644" y="670.02" type="curve" smooth="yes"/>
+      <point x="150.644" y="640.503"/>
+      <point x="126.713" y="616.573"/>
+      <point x="97.1973" y="616.573" type="curve" smooth="yes"/>
+      <point x="67.6803" y="616.573"/>
+      <point x="43.75" y="640.503"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>617</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>44</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>267</integer>
+            <key>width</key>
+            <integer>107</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

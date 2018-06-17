@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron" format="1">
+  <advance width="392"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="60.4004" y="504.9" type="line"/>
+      <point x="60.4004" y="504.9"/>
+      <point x="80.3496" y="551.1"/>
+      <point x="90.8496" y="551.1" type="curve" smooth="yes"/>
+      <point x="337.6" y="551.1" type="line" smooth="yes"/>
+      <point x="337.6" y="550.05" type="line" smooth="yes"/>
+      <point x="336.55" y="543.75"/>
+      <point x="320.8" y="504.9"/>
+      <point x="307.15" y="504.9" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>505</integer>
+            <key>width</key>
+            <integer>46</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>60</integer>
+            <key>width</key>
+            <integer>277</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

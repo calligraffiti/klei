@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="671"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="684.37" y="682" type="curve"/>
+      <point x="145.37" y="33" type="line"/>
+      <point x="177.37" y="28"/>
+      <point x="216.37" y="25"/>
+      <point x="257.37" y="25" type="curve" smooth="yes"/>
+      <point x="298.37" y="25"/>
+      <point x="378.37" y="25"/>
+      <point x="426.37" y="32" type="curve" smooth="yes"/>
+      <point x="490.37" y="41"/>
+      <point x="526.37" y="85"/>
+      <point x="554.37" y="153" type="curve"/>
+      <point x="572.37" y="154" type="line"/>
+      <point x="512.37" y="0" type="line"/>
+      <point x="55.3701" y="0" type="line" smooth="yes"/>
+      <point x="48.3701" y="0"/>
+      <point x="35.3701" y="2.68262"/>
+      <point x="35.3701" y="17" type="curve" smooth="yes"/>
+      <point x="35.3701" y="23"/>
+      <point x="41.3701" y="31"/>
+      <point x="45.3701" y="36" type="curve"/>
+      <point x="605.37" y="704" type="line"/>
+      <point x="605.37" y="704"/>
+      <point x="525.37" y="708"/>
+      <point x="472.37" y="708" type="curve"/>
+      <point x="417.37" y="708"/>
+      <point x="374.37" y="707"/>
+      <point x="334.37" y="698" type="curve" smooth="yes"/>
+      <point x="267.37" y="683"/>
+      <point x="232.37" y="651"/>
+      <point x="205.37" y="591" type="curve"/>
+      <point x="190.37" y="590" type="line"/>
+      <point x="251.37" y="730" type="line"/>
+      <point x="253.37" y="733"/>
+      <point x="257.37" y="735"/>
+      <point x="261.37" y="735" type="curve" smooth="yes"/>
+      <point x="270.37" y="735"/>
+      <point x="283.37" y="730"/>
+      <point x="290.37" y="730" type="curve" smooth="yes"/>
+      <point x="698.37" y="730" type="line"/>
+      <point x="698.37" y="730"/>
+      <point x="698.37" y="716"/>
+      <point x="696.37" y="707" type="curve" smooth="yes"/>
+      <point x="694.581" y="698.95"/>
+      <point x="691.37" y="690"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>22</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

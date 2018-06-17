@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="backslash" format="1">
+  <advance width="398"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="356.168" y="-96" type="curve"/>
+      <point x="347.367" y="-100.563"/>
+      <point x="337.079" y="-103.052"/>
+      <point x="327" y="-103.052" type="curve" smooth="yes"/>
+      <point x="306.158" y="-103.052"/>
+      <point x="286.212" y="-90.3541"/>
+      <point x="282.168" y="-58" type="curve"/>
+      <point x="282.168" y="-58"/>
+      <point x="132" y="425"/>
+      <point x="43" y="676" type="curve"/>
+      <point x="43" y="689.32"/>
+      <point x="51.1804" y="696.256"/>
+      <point x="64" y="696.256" type="curve" smooth="yes"/>
+      <point x="76.2035" y="696.256"/>
+      <point x="92.6111" y="689.655"/>
+      <point x="110.168" y="676" type="curve"/>
+      <point x="182.168" y="419"/>
+      <point x="255.168" y="183"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>43</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

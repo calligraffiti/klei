@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1448675716
+ModificationTime: 1529197026
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -126,7 +126,7 @@ KernClass2: 2 2 "'kern' F - a o e c"
 KernClass2: 2 2 "'kern' f - a c d e g"
  1 f
  70 comma period colon semicolon a c d e g i j m n o p q r s t u v w x y z
- 0 {} 0 {} 0 {} -140 {}
+ 0 {} 0 {} 0 {} -130 {}
 KernClass2: 2 2 "'kern' T - a c d e"
  1 T
  66 comma period colon semicolon a c d e g m n o p q r s t u v w x y z
@@ -139,7 +139,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 0 11 5
+WinInfo: 57 19 9
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -718,7 +718,7 @@ EndChar
 StartChar: f
 Encoding: 102 102 11
 GlifName: f
-Width: 472
+Width: 496
 VWidth: 0
 Flags: W
 HStem: -179.2 28.1504<-102.173 -28.924> 447.063 44.9268<104.4 141.121 231.772 349.181> 742.775 26.0498<358.136 426.66>
@@ -754,7 +754,6 @@ SplineSet
  329.66015625 491.990234375 l 0
  346.134765625 491.990234375 360.006835938 487.936523438 360.006835938 474.899414062 c 0
 EndSplineSet
-Validated: 1
 Kerns2: 6 -101 "'kern' f - b g h k m n p y z" 13 -195 "'kern' f - b g h k m n p y z" 15 -99 "'kern' f - b g h k m n p y z" 18 -85 "'kern' f - b g h k m n p y z" 20 -116 "'kern' f - u" 21 -90 "'kern' f - b g h k m n p y z" 22 -199 "'kern' f - b g h k m n p y z" 23 -181 "'kern' f - b g h k m n p y z" 25 -137 "'kern' f - b g h k m n p y z" 28 -190 "'kern' f - b g h k m n p y z"
 EndChar
 
@@ -4805,7 +4804,7 @@ EndChar
 
 StartChar: uniFB00
 Encoding: 64256 64256 153
-Width: 685
+Width: 742
 VWidth: 0
 Flags: W
 HStem: -179.2 28.1445<135.647 226.058> -140.2 28.1504<-96.2952 -24.0624> 450.99 41<101.484 137.843 491.523 617.893> 463.298 27.8018<228.576 401.836> 739.775 29.0498<349.459 432.233 611.935 684.853>
@@ -4860,7 +4859,6 @@ SplineSet
  330.793945312 739.775390625 269.330078125 656.279296875 240.771484375 537.616210938 c 0
  228.576171875 491.099609375 l 1
 EndSplineSet
-Validated: 1
 Kerns2: 0 -136 "'kern' ff - a c d e g o q" 6 -94 "'kern' ff - b h k j m n p r s t u v w" 7 -71 "'kern' ff - a c d e g o q" 8 -157 "'kern' ff - a c d e g o q" 10 -190 "'kern' ff - a c d e g o q" 12 -148 "'kern' ff - b h k j m n p r s t u v w" 13 -193 "'kern' ff - a c d e g o q" 14 -197 "'kern' ff - a c d e g o q" 15 -96 "'kern' ff - a c d e g o q" 16 -138 "'kern' ff - a c d e g o q" 18 -109 "'kern' ff - a c d e g o q" 19 -46 "'kern' ff - a c d e g o q" 20 -74 "'kern' ff - a c d e g o q" 21 -97 "'kern' ff - b h k j m n p r s t u v w" 22 -75 "'kern' ff - b h k j m n p r s t u v w" 23 -43 "'kern' ff - b h k j m n p r s t u v w" 24 -104 "'kern' ff - a c d e g o q" 25 -138 "'kern' ff - a c d e g o q" 26 -40 "'kern' ff - b h k j m n p r s t u v w" 27 -99 "'kern' ff - a c d e g o q" 28 -52 "'kern' ff - b h k j m n p r s t u v w" 29 -100 "'kern' ff - b h k j m n p r s t u v w" 30 -135 "'kern' ff - a c d e g o q" 31 -144 "'kern' ff - a c d e g o q"
 LCarets2: 1 0
 Ligature2: "'liga' ff" f f
@@ -9873,7 +9871,7 @@ EndChar
 
 StartChar: uni1E1F
 Encoding: 7711 7711 427
-Width: 472
+Width: 496
 VWidth: 0
 Flags: W
 HStem: -179.2 28.1504<-102.173 -28.924> 447.063 44.9268<104.4 141.121 231.772 349.181> 742.775 26.0498<358.136 426.66> 819.188 116<346.308 417.621>
@@ -9882,7 +9880,6 @@ LayerCount: 2
 Fore
 Refer: 33 46 S 1 0 0 1 292.891 837.188 2
 Refer: 11 102 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E20

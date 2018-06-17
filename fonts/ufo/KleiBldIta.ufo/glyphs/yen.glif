@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen" format="1">
+  <advance width="602"/>
+  <unicode hex="00A5"/>
+  <outline>
+    <contour>
+      <point x="137.188" y="50.6133" type="curve" smooth="yes"/>
+      <point x="154.229" y="120.783"/>
+      <point x="172.202" y="189.675"/>
+      <point x="188.182" y="258.586" type="curve" smooth="yes"/>
+      <point x="196.045" y="292.397"/>
+      <point x="203.499" y="327.322"/>
+      <point x="210.097" y="361" type="curve"/>
+      <point x="41.8887" y="361" type="line"/>
+      <point x="53.6221" y="405" type="line"/>
+      <point x="209.106" y="405" type="line"/>
+      <point x="203.507" y="423.95"/>
+      <point x="197.924" y="442.685"/>
+      <point x="192.398" y="461" type="curve"/>
+      <point x="61.8887" y="461" type="line"/>
+      <point x="73.6221" y="505" type="line"/>
+      <point x="178.977" y="505" type="line"/>
+      <point x="154.706" y="583.599"/>
+      <point x="142.299" y="650.426"/>
+      <point x="125.581" y="687.205" type="curve" smooth="yes"/>
+      <point x="118.534" y="704.117"/>
+      <point x="111.639" y="707"/>
+      <point x="89" y="707" type="curve" smooth="yes"/>
+      <point x="80.0342" y="707" type="line"/>
+      <point x="87.5342" y="737" type="line"/>
+      <point x="309.435" y="737" type="line"/>
+      <point x="303.81" y="707" type="line"/>
+      <point x="298" y="707" type="line" smooth="yes"/>
+      <point x="274.206" y="707"/>
+      <point x="255.233" y="702.212"/>
+      <point x="255.233" y="684.791" type="curve" smooth="yes"/>
+      <point x="255.233" y="679.567"/>
+      <point x="256.964" y="672.514"/>
+      <point x="260.592" y="662.354" type="curve" smooth="yes"/>
+      <point x="260.648" y="662.196" type="line"/>
+      <point x="305.776" y="447.937" type="line"/>
+      <point x="461.65" y="660.522" type="line"/>
+      <point x="461.835" y="660.725" type="line" smooth="yes"/>
+      <point x="479.717" y="680.271"/>
+      <point x="487.589" y="690.88"/>
+      <point x="487.589" y="700.007" type="curve" smooth="yes"/>
+      <point x="487.589" y="703.407"/>
+      <point x="474.777" y="707"/>
+      <point x="458" y="707" type="curve" smooth="yes"/>
+      <point x="449.565" y="707" type="line"/>
+      <point x="455.19" y="737" type="line"/>
+      <point x="627.966" y="737" type="line"/>
+      <point x="620.466" y="707" type="line"/>
+      <point x="615" y="707" type="line" smooth="yes"/>
+      <point x="593.947" y="707"/>
+      <point x="574.715" y="697.554"/>
+      <point x="565.396" y="686.541" type="curve" smooth="yes"/>
+      <point x="428.933" y="505" type="line"/>
+      <point x="539.111" y="505" type="line"/>
+      <point x="527.378" y="461" type="line"/>
+      <point x="393.435" y="461" type="line"/>
+      <point x="348.255" y="405" type="line"/>
+      <point x="515.111" y="405" type="line"/>
+      <point x="503.378" y="361" type="line"/>
+      <point x="329.741" y="361" type="line"/>
+      <point x="320.443" y="325.525"/>
+      <point x="312.242" y="290.408"/>
+      <point x="303.819" y="254.419" type="curve" smooth="yes"/>
+      <point x="287.871" y="185.643"/>
+      <point x="274.799" y="121.362"/>
+      <point x="259.875" y="52.6729" type="curve"/>
+      <point x="259.875" y="52.6729"/>
+      <point x="258.181" y="41.96"/>
+      <point x="258.181" y="40.9688" type="curve" smooth="yes"/>
+      <point x="258.181" y="24.7129"/>
+      <point x="265.732" y="23"/>
+      <point x="293" y="23" type="curve" smooth="yes"/>
+      <point x="301.966" y="23" type="line"/>
+      <point x="294.466" y="-7" type="line"/>
+      <point x="75.0342" y="-7" type="line"/>
+      <point x="82.5342" y="23" type="line"/>
+      <point x="88" y="23" type="line" smooth="yes"/>
+      <point x="96.1201" y="23"/>
+      <point x="102.139" y="23"/>
+      <point x="109.43" y="24.8232" type="curve" smooth="yes"/>
+      <point x="125.821" y="28.2734"/>
+      <point x="134.747" y="40.0361"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>361</integer>
+            <key>width</key>
+            <integer>44</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>461</integer>
+            <key>width</key>
+            <integer>44</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>707</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="530"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="288" y="24" type="line"/>
+      <point x="330.386" y="24.0859" type="line"/>
+      <point x="298.169" y="-33.3506" type="line"/>
+      <point x="334" y="-33.3506"/>
+      <point x="353.778" y="-55.7363"/>
+      <point x="353.778" y="-92" type="curve" smooth="yes"/>
+      <point x="353.778" y="-135.559"/>
+      <point x="308.09" y="-151.981"/>
+      <point x="277" y="-151.981" type="curve" smooth="yes"/>
+      <point x="241.885" y="-151.981"/>
+      <point x="216.261" y="-137.818"/>
+      <point x="202.077" y="-120.072" type="curve"/>
+      <point x="213.753" y="-102.009" type="line"/>
+      <point x="229.047" y="-118.559"/>
+      <point x="250.932" y="-127.239"/>
+      <point x="267" y="-127.239" type="curve" smooth="yes"/>
+      <point x="288.057" y="-127.239"/>
+      <point x="304.775" y="-112.238"/>
+      <point x="304.775" y="-94" type="curve" smooth="yes"/>
+      <point x="304.775" y="-71.5928"/>
+      <point x="285.121" y="-53.8965"/>
+      <point x="264" y="-53.8965" type="curve" smooth="yes"/>
+      <point x="256.229" y="-53.8965"/>
+      <point x="244.261" y="-55.159"/>
+      <point x="237" y="-60" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-152</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>305</integer>
+            <key>width</key>
+            <integer>49</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

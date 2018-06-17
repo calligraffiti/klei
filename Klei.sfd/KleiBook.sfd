@@ -127,7 +127,7 @@ KernClass2: 2 2 "'kern' F - a o e c"
 KernClass2: 2 2 "'kern' f - a c d e g"
  1 f
  70 comma period colon semicolon a c d e g i j m n o p q r s t u v w x y z
- 0 {} 0 {} 0 {} -170 {}
+ 0 {} 0 {} 0 {} -120 {}
 KernClass2: 2 2 "'kern' T - a c d e"
  1 T
  66 comma period colon semicolon a c d e g m n o p q r s t u v w x y z
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 64 8 2
+WinInfo: 57 19 9
 BeginPrivate: 1
 BlueValues 39 [-10 0 506 512 638 644 730 735 746 766]
 EndPrivate
@@ -3406,7 +3406,7 @@ SplineSet
  175 -84 l 5
  175 745 l 5
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: bar
@@ -13846,7 +13846,7 @@ SplineSet
  224 479 212 466 212 454 c 0
  212 454 208.325195312 354.000976562 208.325195312 288 c 3
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: IJ

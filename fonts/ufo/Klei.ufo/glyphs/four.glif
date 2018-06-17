@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="498"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="293.5" y="539" type="line"/>
+      <point x="243.5" y="464"/>
+      <point x="169.5" y="381"/>
+      <point x="119.5" y="322" type="curve"/>
+      <point x="174.5" y="322"/>
+      <point x="269.5" y="319"/>
+      <point x="293.5" y="319" type="curve"/>
+    </contour>
+    <contour>
+      <point x="321.5" y="628" type="curve"/>
+      <point x="326.5" y="637"/>
+      <point x="337.5" y="642"/>
+      <point x="346.5" y="642" type="curve" smooth="yes"/>
+      <point x="354.5" y="642"/>
+      <point x="361.5" y="638"/>
+      <point x="361.5" y="628" type="curve"/>
+      <point x="361.5" y="321" type="line"/>
+      <point x="393.5" y="321"/>
+      <point x="426.5" y="325"/>
+      <point x="450.5" y="329" type="curve"/>
+      <point x="443.5" y="322"/>
+      <point x="440.5" y="314"/>
+      <point x="440.5" y="302" type="curve" smooth="yes"/>
+      <point x="440.5" y="290"/>
+      <point x="443.5" y="283"/>
+      <point x="448.5" y="278" type="curve"/>
+      <point x="359.5" y="278" type="line"/>
+      <point x="359.5" y="8" type="line"/>
+      <point x="359.5" y="3"/>
+      <point x="358.5" y="0"/>
+      <point x="353.5" y="0" type="curve"/>
+      <point x="299.5" y="0" type="line"/>
+      <point x="294.5" y="0"/>
+      <point x="293.5" y="2"/>
+      <point x="293.5" y="6" type="curve"/>
+      <point x="293.5" y="278" type="line"/>
+      <point x="293.5" y="278"/>
+      <point x="67.5" y="278"/>
+      <point x="54.5" y="278" type="curve" smooth="yes"/>
+      <point x="51.3301" y="278"/>
+      <point x="47.0145" y="281.071"/>
+      <point x="47.0145" y="285" type="curve" smooth="yes"/>
+      <point x="47.0145" y="288.507"/>
+      <point x="48.6702" y="292.699"/>
+      <point x="51.5" y="296" type="curve" smooth="yes"/>
+      <point x="143.5" y="407"/>
+      <point x="243.5" y="517"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>278</integer>
+            <key>width</key>
+            <integer>44</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>294</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

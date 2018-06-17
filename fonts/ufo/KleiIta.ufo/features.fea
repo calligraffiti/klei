@@ -1,0 +1,377 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+
+# GSUB 
+
+
+lookup ligaStandardLigaturesinLatinlookup0 {
+  lookupflag 0;
+    sub \f \f \l  by \uniFB04;
+    sub \f \f \i  by \uniFB03;
+    sub \f \f  by \uniFB00;
+    sub \f \i  by \uniFB01;
+    sub \f \l  by \uniFB02;
+} ligaStandardLigaturesinLatinlookup0;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinlookup0;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinlookup0;
+} liga;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninginLatinlookup0 {
+  lookupflag 0;
+    pos \nine \two -90;
+    pos \five \seven -80;
+    pos \H \U 55;
+    pos \two \five -50;
+    pos \five \two -90;
+    pos \seven \four -100;
+    pos \eight \two -100;
+    pos \two \four -50;
+    pos \two \six -20;
+    pos \six \two -60;
+    pos \zero \two -73;
+    pos \zero \five -30;
+    pos \zero \seven -40;
+    pos \seven \zero -40;
+    pos \seven \two -90;
+    pos \seven \three -40;
+    pos \seven \five -60;
+    pos \seven \six -65;
+    pos \seven \nine -20;
+    pos \seven \eight -56;
+    pos \six \four -30;
+    pos \six \nine -20;
+    pos \p \e 10;
+    pos \h \w -31;
+    pos \h \g -12;
+    pos \h \y -55;
+    pos \h \v -33;
+    pos \h \z -1;
+    pos \g \x -98;
+    pos \g \f -67;
+    pos \f \m -122;
+    pos \f \g -131;
+    pos \f \p -117;
+    pos \f \y -108;
+    pos \f \n -103;
+    pos \f \b -155;
+    pos \f \h -154;
+    pos \f \z -100;
+    pos \g \j -100;
+    pos \h \e 30;
+    pos \uniFB00 \e -160;
+    pos \Z \W -9;
+    pos \Z \V -14;
+    pos \Z \Z -84;
+    pos \Y \W 47;
+    pos \Y \V 27;
+    pos \Y \K -38;
+    pos \Y \Y 42;
+    pos \Y \Z -88;
+    pos \Z \A -70;
+    pos \Z \Y 16;
+    pos \X \W 0;
+    pos \X \V 0;
+    pos \X \X -12;
+    pos \X \D -16;
+    pos \X \Y 4;
+    pos \Y \A -115;
+    pos \X \A -50;
+    pos \X \J 60;
+    pos \W \T 60;
+    pos \T \W -30;
+    pos \T \H -80;
+    pos \T \X -80;
+    pos \T \J -30;
+    pos \T \K -80;
+    pos \T \Y -30;
+    pos \T \Z -80;
+    pos \U \A -150;
+    pos \U \X -60;
+    pos \U \Z -90;
+    pos \S \W -10;
+    pos \S \V -10;
+    pos \S \X -70;
+    pos \S \Y -10;
+    pos \S \A -80;
+    pos \S \Z -50;
+    pos \R \A -20;
+    pos \R \N 30;
+    pos \R \L 30;
+    pos \R \M 30;
+    pos \O \X -40;
+    pos \P \W -20;
+    pos \P \V -20;
+    pos \P \X -30;
+    pos \P \Z -70;
+    pos \O \W -25;
+    pos \O \V -25;
+    pos \O \Q 50;
+    pos \O \Z -50;
+    pos \N \A -85;
+    pos \N \M -45;
+    pos \N \Y 40;
+    pos \N \M -50;
+    pos \J \A -85;
+    pos \M \A -50;
+    pos \M \O 30;
+    pos \L \S 60;
+    pos \C \O 20;
+    pos \C \Q 20;
+    pos \C \C 20;
+    pos \C \G 20;
+    pos \I \D -30;
+    pos \I \J -30;
+    pos \B \A -80;
+    pos \B \V -40;
+    pos \B \X -80;
+    pos \H \A -70;
+    pos \t \e -40;
+    pos \uniFB00 \d -272;
+    pos \uniFB00 \g -234;
+    pos \uniFB00 \q -271;
+    pos \uniFB00 \o -218;
+    pos \uniFB00 \c -215;
+    pos \uniFB00 \a -225;
+    pos \W \A -180;
+    pos \O \A -100;
+    pos \V \A -200;
+    pos \I \X -140;
+    pos \I \N -50;
+    pos \I \M -50;
+    pos \I \P -80;
+    pos \I \R -70;
+    pos \I \Z -120;
+    pos \T \A -160;
+    pos \Q \A -100;
+    pos \P \A -120;
+    pos \C \A -100;
+    pos \F \A -160;
+    pos \G \A -100;
+    pos \D \A -120;
+    pos \t \x -85;
+    pos \t \a -68;
+    pos \t \d -56;
+    pos \t \q -55;
+    pos \t \o -40;
+    pos \t \c -30;
+    pos \r \c -30;
+    pos \r \d -36;
+    pos \r \g -36;
+    pos \r \q -36;
+    pos \r \e -36;
+    pos \r \a -36;
+    pos \F \A -180;
+    pos \r \o -36;
+    pos \a \x -48;
+    pos \f \u -116;
+  subtable;
+    @kc41_first_1 = [\T ];
+    @kc41_second_1 = [\comma \period \colon \semicolon \a \c \d \e \g \m \n \o \p \q \r \s \t \u \v \w \x \y \z ];
+    pos @kc41_first_1 @kc41_second_1 -120;
+  subtable;
+    @kc42_first_1 = [\f ];
+    @kc42_second_1 = [\comma \period \colon \semicolon \a \c \d \e \g \i \j \m \n \o \p \q \r \s \t \u \v \w \x \y \z ];
+    pos @kc42_first_1 @kc42_second_1 -130;
+  subtable;
+    @kc43_first_1 = [\F ];
+    @kc43_second_1 = [\comma \hyphen \period \a \c \d \e \g \i \j \m \n \o \p \q \r \s \t \u \v \w \x \y \z ];
+    pos @kc43_first_1 @kc43_second_1 -120;
+  subtable;
+    @kc44_first_0 = [\P ];
+    @kc44_second_1 = [\comma \period \a \c \e \o \q ];
+    pos @kc44_first_0 @kc44_second_1 -90;
+  subtable;
+    @kc45_first_1 = [\A ];
+    @kc45_second_1 = [\T \V \W \Y ];
+    pos @kc45_first_1 @kc45_second_1 -20;
+  subtable;
+    @kc46_first_1 = [\A \V ];
+    @kc46_second_1 = [\C \O \Q \U ];
+    pos @kc46_first_1 @kc46_second_1 -10;
+  subtable;
+    @kc47_first_1 = [\V \W ];
+    @kc47_second_1 = [\A ];
+    pos @kc47_first_1 @kc47_second_1 -240;
+  subtable;
+    @kc48_first_1 = [\C ];
+    @kc48_second_1 = [\A ];
+    pos @kc48_first_1 @kc48_second_1 -80;
+  subtable;
+    @kc49_first_1 = [\K ];
+    @kc49_second_1 = [\O ];
+    pos @kc49_first_1 @kc49_second_1 -30;
+  subtable;
+    @kc50_first_1 = [\D \P ];
+    @kc50_second_1 = [\A \V \W \Y ];
+    pos @kc50_first_1 @kc50_second_1 -60;
+  subtable;
+  subtable;
+    @kc52_first_1 = [\D ];
+    @kc52_second_1 = [\comma \period \D \I \M \N \P \a ];
+    pos @kc52_first_1 @kc52_second_1 -60;
+  subtable;
+    @kc53_first_1 = [\A ];
+    @kc53_second_1 = [\v \w \y ];
+    pos @kc53_first_1 @kc53_second_1 -100;
+  subtable;
+    @kc54_first_1 = [\A ];
+    @kc54_second_1 = [\a \c \d \e \g \o \q \t \u ];
+    pos @kc54_first_1 @kc54_second_1 -50;
+  subtable;
+    @kc55_first_1 = [\V \W \Y ];
+    @kc55_second_1 = [\comma \period \a \c \d \e \g \o \q \s \cent \agrave \aacute \acircumflex \atilde 
+	\adieresis \ae \ccedilla \egrave \eacute \ecircumflex \edieresis 
+	\ograve \oacute \ocircumflex \otilde \odieresis ];
+    pos @kc55_first_1 @kc55_second_1 -80;
+  subtable;
+    @kc56_first_1 = [\V \W \Y ];
+    @kc56_second_1 = [\f \i \j \m \n \p \r \t \u \v \w \x \y \z \igrave \iacute \icircumflex \idieresis \ntilde 
+	\ugrave \uacute \ucircumflex \udieresis \yacute \ydieresis ];
+    pos @kc56_first_1 @kc56_second_1 -80;
+  subtable;
+    @kc57_first_1 = [\v \w ];
+    @kc57_second_1 = [\a \c \d \e \g \o \q \s \agrave \aacute \acircumflex \atilde \adieresis \ae \ccedilla 
+	\egrave \eacute \ecircumflex \edieresis \ograve \oacute \ocircumflex 
+	\otilde \odieresis ];
+    pos @kc57_first_1 @kc57_second_1 -20;
+  subtable;
+    @kc58_first_1 = [\v \w ];
+    @kc58_second_1 = [\b \f \h \i \j \k \l \m \n \p \r \t \v \w \x \y \z \igrave \iacute \icircumflex \idieresis 
+	\ntilde \ugrave \uacute \ucircumflex \udieresis \yacute \ydieresis ];
+    pos @kc58_first_1 @kc58_second_1 -28;
+  subtable;
+    @kc59_first_1 = [\b \c \e \o \p \s \germandbls \agrave \aacute \acircumflex \atilde \adieresis \ae 
+	\ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+	\ocircumflex \otilde \odieresis ];
+    @kc59_second_1 = [\v \w \x \y ];
+    pos @kc59_first_1 @kc59_second_1 -20;
+  subtable;
+    @kc60_first_1 = [\v \w \x \y ];
+    @kc60_second_1 = [\a \c \d \e \g \o \q \s \agrave \aacute \acircumflex \atilde \adieresis \ae \ccedilla 
+	\egrave \eacute \ecircumflex \edieresis \ograve \oacute \ocircumflex 
+	\otilde \odieresis ];
+    pos @kc60_first_1 @kc60_second_1 -30;
+  subtable;
+    @kc61_first_1 = [\h \m \n ];
+    @kc61_second_1 = [\v \w \y ];
+    pos @kc61_first_1 @kc61_second_1 30;
+    pos \I \A -140;
+    pos \I \H -60;
+    pos \I \L -56;
+    pos \I \B -72;
+    pos \I \C -45;
+    pos \I \E -80;
+    pos \I \F -80;
+    pos \I \K -110;
+} kernHorizontalKerninginLatinlookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\s \W \A \O \V \H \m \w \x \X \d \f \j \g \q \p \o \I \y \v \u \n \b \h \t \z \l \r \k \e 
+	\c \a \i \period \comma \D \N \L \M \slash \S \T \Q \P \R \U \J \plus \B \C \E \F \G \K \space \Y 
+	\Z \zero \one \two \hyphen \backslash \parenleft \parenright \three \four 
+	\semicolon \colon \five \equal \asterisk \numbersign \six \nine \exclam \percent 
+	\seven \eight \question \quotesingle \quotedbl \underscore \bracketleft 
+	\bracketright \bar \asciitilde \dieresis \adieresis \odieresis \udieresis 
+	\atilde \ntilde \Acircumflex \grave \acute \eacute \egrave \ugrave \uacute 
+	\edieresis \igrave \iacute \oacute \otilde \yacute \ydieresis \ograve \Udieresis 
+	\Otilde \ocircumflex \icircumflex \idieresis \agrave \aacute \less \greater 
+	\asciicircum \ecircumflex \ucircumflex \acircumflex \Ucircumflex \Ntilde 
+	\Ograve \Oacute \Ocircumflex \Odieresis \Ugrave \Uacute \Yacute \Edieresis 
+	\Ecircumflex \Eacute \Egrave \Atilde \Adieresis \Aacute \Agrave \divide 
+	\Idieresis \Icircumflex \Iacute \Igrave \dollar \cent \ccedilla \cedilla 
+	\Ccedilla \braceleft \braceright \ampersand \ae \germandbls \uni02B9 \uni02BA 
+	\quotedblleft \second \quotedblright \minute \quoteleft \quoteright \emdash 
+	\endash \uni2010 \exclamdbl \uni2047 \uni2048 \uni2049 \uni2015 \figuredash 
+	\uni2011 \uni2034 \uni2016 \ellipsis \twodotenleader \onedotenleader 
+	\guillemotleft \guillemotright \registered \copyright \plusminus \degree 
+	\aring \Aring \thorn \multiply \questiondown \AE \onequarter \onehalf 
+	\threequarters \uni00B2 \uni00B3 \uni00B9 \at \daggerdbl \dagger \bullet 
+	\uni2023 \guilsinglleft \guilsinglright \Hcircumflex \hcircumflex \uni0137 
+	\uni013B \uni013C \Lcaron \lcaron \nacute \uni0145 \Jcircumflex \jcircumflex 
+	\Scircumflex \scircumflex \Utilde \utilde \scedilla \Scedilla \Scaron \scaron 
+	\uni0162 \uni0163 \Tcaron \tcaron \Uring \uring \Wcircumflex \wcircumflex 
+	\Ycircumflex \ycircumflex \Ydieresis \Zacute \zacute \Zdotaccent \zdotaccent 
+	\Zcaron \zcaron \Rcaron \rcaron \Sacute \sacute \Racute \racute \uni0156 \Nacute 
+	\Ncaron \ncaron \itilde \uni0122 \gdotaccent \Gdotaccent \gcircumflex 
+	\Gcircumflex \ecaron \Ecaron \Cdotaccent \cdotaccent \ccircumflex \Ccircumflex 
+	\cacute \Cacute \uni01D1 \uni01DB \uni01DA \uni01DC \aeacute \AEacute 
+	\aringacute \Aringacute \uni01F9 \uni01F8 \uni0229 \uni0228 \uni0227 \uni0226 
+	\uni01F5 \uni01F4 \macron \amacron \Amacron \Emacron \emacron \Edotaccent 
+	\edotaccent \Itilde \Imacron \imacron \uni0136 \Lacute \lacute \Umacron \umacron 
+	\omacron \Omacron \uni0146 \Ldot \ldot \caron \circumflex \breve \uni0306 \abreve 
+	\Abreve \Ccaron \ccaron \Dcaron \dcaron \Ebreve \ebreve \Gbreve \gbreve \ibreve 
+	\Obreve \obreve \Ubreve \ubreve \uni01D4 \uni01D3 \uni01D2 \uni01CE \uni01CD 
+	\gcaron \Gcaron \uni01E8 \uni01E9 \uni01E2 \uni0203 \uni0202 \uni0207 \uni0206 
+	\uni020A \uni020B \uni020F \uni020E \uni0212 \uni0213 \uni0217 \uni0216 \uni0218 
+	\uni0219 \uni021A \uni021B \uni01E3 \uni0157 \uni030B \uni030F \acutecomb 
+	\gravecomb \uni0200 \uni0201 \uni0204 \uni0205 \uni0208 \uni020C \uni020D 
+	\uni0211 \uni0214 \uni0215 \Uhungarumlaut \uhungarumlaut \Ohungarumlaut 
+	\ohungarumlaut \Ibreve \Idotaccent \dotlessi \uni01CF \uni01D0 \uni0209 
+	\uni01F0 \tildecomb \uni0316 \uni0317 \Eogonek \eogonek \Iogonek \iogonek 
+	\Uogonek \uogonek \uni01EB \uni01EA \uni0210 \uni022E \uni022F \uni0232 \uni0233 
+	\uni0237 \Aogonek \aogonek \uni01EC \uni01ED \uni01D8 \uni1E00 \uni1E01 \uni1E02 
+	\uni1E03 \uni1E04 \uni1E05 \uni1E06 \uni1E07 \uni1E08 \uni1E09 \uni1E0A \uni1E0B 
+	\uni1E0C \uni1E0D \uni1E0E \uni1E0F \uni1E10 \uni1E11 \uni1E12 \uni1E13 \uni1E14 
+	\uni1E15 \uni1E16 \uni1E17 \uni1E18 \uni1E19 \uni1E1A \uni1E1E \uni1E1D \uni1E1C 
+	\uni1E1B \uni1E1F \uni1E20 \uni1E21 \uni1E22 \uni1E23 \uni1E24 \uni1E25 \uni1E26 
+	\uni1E27 \uni1E28 \uni1E29 \uni1E2A \uni1E2B \uni1E2C \uni1E2D \uni1E2E \uni1E2F 
+	\uni1E30 \uni1E31 \uni1E32 \uni1E33 \uni1E34 \uni1E35 \uni1E36 \uni1E37 \uni1E38 
+	\uni1E39 \uni1E3A \uni1E3B \uni1E3C \uni1E3D \uni1E3E \uni1E3F \uni1E40 \uni1E41 
+	\uni1E42 \uni1E43 \uni1E44 \uni1E45 \uni1E46 \uni1E47 \uni1E48 \uni1E49 \uni1E4A 
+	\uni1E4B \uni1E4C \uni1E4D \uni1E4E \uni1E4F \uni1E54 \uni1E55 \uni1E56 \uni1E57 
+	\uni1E58 \uni1E59 \uni1E53 \uni1E5A \uni1E5B \uni1E5C \uni1E5D \uni1E5E \uni1E5F 
+	\uni1E60 \uni1E61 \uni1E62 \uni1E63 \uni1E64 \uni1E65 \uni1E66 \uni1E67 \uni1E68 
+	\uni1E69 \uni1E6A \uni1E6B \uni1E6C \uni1E6D \uni1E6E \uni1E6F \uni1E70 \uni1E71 
+	\uni1E72 \uni1E73 \uni1E74 \uni1E75 \uni1E76 \uni1E77 \uni1E78 \uni1E79 \uni1E7A 
+	\uni1E7B \uni1E7C \uni1E7D \uni0330 \uni1E7E \uni1E7F \Wgrave \wgrave \Wacute 
+	\wacute \Wdieresis \wdieresis \uni1E86 \uni1E87 \uni1E88 \uni1E89 \uni1E8A 
+	\uni1E8B \uni1E8C \uni1E8D \uni1E8E \uni1E8F \uni1E90 \uni1E91 \uni1E92 \uni1E93 
+	\uni1E94 \uni1E95 \uni1E96 \uni1E97 \uni1E98 \uni1E99 \uni1EA0 \uni1EA1 \uni1EA4 
+	\uni1EA5 \uni1EAA \uni1EAC \uni1EAD \uni1EAE \uni1EAF \uni1EB0 \uni1EB1 \uni1EB4 
+	\uni1EB5 \uni1EB6 \uni1EB7 \uni1EB8 \uni1EB9 \uni1EBC \uni1EBD \uni1EBE \uni1EBF 
+	\uni1EC0 \uni1EC1 \uni1EC4 \uni1EC5 \uni1EC6 \uni1EC7 \uni1ECA \uni1ECB \uni1ECC 
+	\uni1ECD \uni1ED0 \uni1ED1 \uni1ED2 \uni1ED3 \uni1ED6 \uni1ED7 \uni1ED8 \uni1ED9 
+	\uni1EE4 \uni1EE5 \ygrave \Ygrave \uni1EF4 \uni1EF5 \uni1EF8 \uni1EF9 \uni1EA6 
+	\uni1EA7 \uni1EAB \uni1E52 \uni1E51 \uni1E50 \uni01E0 \uni01E1 \uni01DF \uni01DE 
+	\uni022A \uni022B \uni022C \uni022D \uni0230 \uni0231 \Thorn \uni031B \uni01D7 
+	\uni01D9 \Uhorn \uhorn \Ohorn \ohorn \brokenbar \currency \Oslash \oslash \longs 
+	\Tbar \tbar \uni01E4 \uni01E5 \uni01D5 \uni01D6 \Oslashacute \oslashacute \Hbar 
+	\hbar \uni01C4 \uni01C5 \uni01C6 \uni01C7 \uni01C8 \uni01C9 \uni01CA \uni01CB 
+	\uni01CC \uni01F1 \uni01F2 \uni01F3 \uni007F \uni0080 \uni0081 \uni0083 \uni0082 
+	\uni0085 \uni0086 \IJ \ij \oe \uni0335 \OE \paragraph \Euro \yen \section \sterling 
+	\Dcroat \dcroat \perthousand \uni2031 \quotedblbase \uni201F \eth \uni0220 
+	\exclamdown \trademark \prescription \uni0123 \uni0312 \uni019E \uni01DD 
+	\uni01C3 \uniFB06 \uniFB05 \uni0180 \uni01F6 \ordfeminine \Eth \uni2120 \uni2121 ];
+@GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
+@GDEF_Mark = [\uni0328 ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, @GDEF_Mark, ;
+
+  LigatureCaretByPos \uniFB00 -4;
+  LigatureCaretByPos \uniFB03 -2 2;
+} GDEF;
+
