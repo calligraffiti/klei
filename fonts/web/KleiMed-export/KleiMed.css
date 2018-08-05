@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"Klei Medium";
+    src:url("KleiMed.woff2") format("woff2"),url("KleiMed.woff") format("woff"),url("KleiMed.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        

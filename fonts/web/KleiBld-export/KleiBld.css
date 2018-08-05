@@ -1,0 +1,7 @@
+
+@font-face {
+    font-family:"Klei Bold";
+    src:url("KleiBld.woff2") format("woff2"),url("KleiBld.woff") format("woff"),url("KleiBld.otf") format("opentype");
+    font-style:normal;font-weight:400;
+}
+        
