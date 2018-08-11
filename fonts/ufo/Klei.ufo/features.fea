@@ -326,7 +326,7 @@ feature kern {
 	\Iotadieresis \omicron \uni03A9 \alpha \logicalnot \ordmasculine \uni03BC 
 	\franc \lira \uni019C \kgreenlandic \lslash \Lslash \Eth \uni0421 \uni0422 
 	\uni0420 \uni0415 \uni0412 \uni0410 \uni0413 \epsilon \uni0189 \iota \uni026F 
-	\uni0250 \uni0254 \uni0279 \uni027A \iotatonos ];
+	\uni0250 \uni0254 \uni0279 \uni027A \iotatonos \uni20BA \uni20B9 ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

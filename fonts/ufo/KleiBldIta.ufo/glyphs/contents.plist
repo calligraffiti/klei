@@ -1332,5 +1332,11 @@
     <string>uniF_B_05.glif</string>
     <key>uniFB06</key>
     <string>uniF_B_06.glif</string>
+    <key>uni20B9</key>
+    <string>uni20B_9.glif</string>
+    <key>uni20BA</key>
+    <string>uni20B_A_.glif</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine.glif</string>
   </dict>
 </plist>

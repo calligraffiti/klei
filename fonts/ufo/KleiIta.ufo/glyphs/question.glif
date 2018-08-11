@@ -4,12 +4,12 @@
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="189.964" y="206.625" type="line"/>
-      <point x="196.264" y="254.925"/>
-      <point x="198.913" y="362.675"/>
-      <point x="198.913" y="362.675" type="curve" smooth="yes"/>
-      <point x="210.464" y="415.175"/>
-      <point x="274.163" y="444.975"/>
+      <point x="193.051" y="210.95" type="line"/>
+      <point x="199.282" y="259.989"/>
+      <point x="197.81" y="349.414"/>
+      <point x="202" y="362" type="curve" smooth="yes"/>
+      <point x="219.087" y="413.325"/>
+      <point x="274" y="445.179"/>
       <point x="317.214" y="479.625" type="curve" smooth="yes"/>
       <point x="391.324" y="538.699"/>
       <point x="440.215" y="560.073"/>
@@ -36,11 +36,10 @@
       <point x="429.636" y="498.281"/>
       <point x="361.464" y="450.225" type="curve" smooth="yes"/>
       <point x="319.464" y="420.825"/>
-      <point x="278" y="392"/>
-      <point x="262.113" y="348.075" type="curve" smooth="yes"/>
-      <point x="241.082" y="289.926"/>
-      <point x="232.363" y="203.625"/>
-      <point x="232.363" y="203.625" type="curve"/>
+      <point x="278" y="394"/>
+      <point x="260.113" y="350.075" type="curve" smooth="yes"/>
+      <point x="236.792" y="292.806"/>
+      <point x="232.363" y="203.625" type="line"/>
     </contour>
     <contour>
       <point x="197.313" y="92" type="curve" smooth="yes"/>
@@ -89,6 +88,12 @@
             <integer>144</integer>
             <key>width</key>
             <integer>82</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>193</integer>
+            <key>width</key>
+            <integer>39</integer>
           </dict>
           <dict>
             <key>position</key>

@@ -1326,5 +1326,11 @@
     <string>I_J_.glif</string>
     <key>ij</key>
     <string>ij.glif</string>
+    <key>uni20B9</key>
+    <string>uni20B_9.glif</string>
+    <key>uni20BA</key>
+    <string>uni20B_A_.glif</string>
+    <key>ordfeminine</key>
+    <string>ordfeminine.glif</string>
   </dict>
 </plist>
