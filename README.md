@@ -11,7 +11,7 @@ My hope is that this font will fill a very real need for well drawn and complete
 
 # About Files
 
-The Klei.sfd folder contains the native FontForge source files. We will try and convert these to UFO masters soon, so that it easier for others to contribute to the project.
+The Klei.sfd folder contains the native FontForge source files.
 ```
 ├── specimens       // Type samples
 ├── fonts           // Compiled OTF fonts
