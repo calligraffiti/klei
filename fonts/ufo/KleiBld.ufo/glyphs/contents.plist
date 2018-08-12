@@ -1332,5 +1332,19 @@
     <string>uni20B_A_.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
+    <key>fraction</key>
+    <string>fraction.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine.glif</string>
+    <key>uni201F</key>
+    <string>uni201F_.glif</string>
+    <key>quotedblbase</key>
+    <string>quotedblbase.glif</string>
+    <key>quotereversed</key>
+    <string>quotereversed.glif</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase.glif</string>
   </dict>
 </plist>

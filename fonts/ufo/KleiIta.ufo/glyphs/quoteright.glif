@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteright" format="1">
-  <advance width="232"/>
+  <advance width="226"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
-      <point x="189.524" y="682.261" type="line" smooth="yes"/>
-      <point x="218.753" y="682.261"/>
-      <point x="250.723" y="658.785"/>
-      <point x="250.723" y="624.284" type="curve" smooth="yes"/>
-      <point x="250.723" y="509.938"/>
-      <point x="176.641" y="448.739"/>
-      <point x="109" y="448.739" type="curve"/>
-      <point x="110.609" y="472.895" type="line"/>
-      <point x="162.146" y="472.895"/>
-      <point x="191.135" y="531.863"/>
-      <point x="191.135" y="561.473" type="curve" smooth="yes"/>
-      <point x="191.135" y="585.632"/>
-      <point x="137.987" y="593.684"/>
-      <point x="137.987" y="630.726" type="curve" smooth="yes"/>
-      <point x="137.987" y="659.713"/>
-      <point x="158.926" y="682.261"/>
-      <point x="186.304" y="682.261" type="curve" smooth="yes"/>
+      <point x="167.389" y="672.783" type="curve" smooth="yes"/>
+      <point x="167.389" y="709.333"/>
+      <point x="199.153" y="735"/>
+      <point x="231" y="735" type="curve" smooth="yes"/>
+      <point x="254.449" y="735"/>
+      <point x="275.034" y="719.727"/>
+      <point x="275.034" y="691.977" type="curve" smooth="yes"/>
+      <point x="275.034" y="582.871"/>
+      <point x="195.215" y="503.011"/>
+      <point x="131" y="489" type="curve"/>
+      <point x="133" y="512" type="line"/>
+      <point x="176" y="521"/>
+      <point x="205" y="570"/>
+      <point x="213" y="602" type="curve" smooth="yes"/>
+      <point x="214.067" y="607.335"/>
+      <point x="215.013" y="612.201"/>
+      <point x="215.013" y="616.674" type="curve" smooth="yes"/>
+      <point x="215.013" y="640.444"/>
+      <point x="167.389" y="637.335"/>
     </contour>
   </outline>
   <lib>
@@ -31,16 +33,22 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>449</integer>
+            <integer>489</integer>
             <key>width</key>
-            <integer>24</integer>
+            <integer>23</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>715</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>191</integer>
+            <integer>215</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>

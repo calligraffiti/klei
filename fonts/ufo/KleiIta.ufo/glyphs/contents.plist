@@ -1380,5 +1380,15 @@
     <string>uni20B_A_.glif</string>
     <key>uni20B9</key>
     <string>uni20B_9.glif</string>
+    <key>fraction</key>
+    <string>fraction.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine.glif</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase.glif</string>
+    <key>quotereversed</key>
+    <string>quotereversed.glif</string>
   </dict>
 </plist>

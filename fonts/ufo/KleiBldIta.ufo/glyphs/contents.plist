@@ -1338,5 +1338,31 @@
     <string>uni20B_A_.glif</string>
     <key>ordfeminine</key>
     <string>ordfeminine.glif</string>
+    <key>fraction</key>
+    <string>fraction.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
+    <key>ordmasculine</key>
+    <string>ordmasculine.glif</string>
+    <key>uni201F</key>
+    <string>uni201F_.glif</string>
+    <key>quotedblbase</key>
+    <string>quotedblbase.glif</string>
+    <key>quotereversed</key>
+    <string>quotereversed.glif</string>
+    <key>quotesinglbase</key>
+    <string>quotesinglbase.glif</string>
+    <key>uni2027</key>
+    <string>uni2027.glif</string>
+    <key>uni2028</key>
+    <string>uni2028.glif</string>
+    <key>uni2029</key>
+    <string>uni2029.glif</string>
+    <key>uni202A</key>
+    <string>uni202A_.glif</string>
+    <key>uni202B</key>
+    <string>uni202B_.glif</string>
+    <key>uni202C</key>
+    <string>uni202C_.glif</string>
   </dict>
 </plist>
