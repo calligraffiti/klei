@@ -139,7 +139,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 120 10 6
+WinInfo: 0 10 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -14241,7 +14241,7 @@ Encoding: 161 161 671
 GlifName: exclamdown
 Width: 324
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 419 102<212.198 277.605>
 VStem: 50.3779 77.8584<-238.748 -176.465> 183.887 39.7432<262.023 312.823> 195.427 98.5732<435.295 503.977>
 LayerCount: 2
