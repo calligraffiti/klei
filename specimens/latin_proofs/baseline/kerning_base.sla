@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.4">
+    <DOCUMENT ANZPAGES="16" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="2" ABSTSPALTEN="13" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.002" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.002" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.002" GapHorizontal="0" GapVertical="40.003" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="C=0 M=0 Y=100 K=0" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <COLOR NAME="C=0 M=100 Y=0 K=0" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=0 Y=0 K=0" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=90 Y=10 K=0" SPACE="CMYK" C="100" M="90" Y="10" K="0"/>
+        <COLOR NAME="C=15 M=100 Y=100 K=0" SPACE="CMYK" C="15" M="100" Y="100" K="0"/>
+        <COLOR NAME="C=75 M=5 Y=100 K=0" SPACE="CMYK" C="75" M="5" Y="100" K="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <Gradient Name="u7d" Ext="3">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
+        </Gradient>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="[No paragraph style]" PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="0" FONT="Times Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" TXTULP="-0.1" TXTSTP="-0.1" BASEO="0"/>
+        <STYLE NAME="NormalParagraphStyle" PARENT="[No paragraph style]" LINESPMode="1" FONT="Arial Regular" FEATURES="inherit"/>
+        <STYLE NAME="All Text" PARENT="[No paragraph style]" LINESPMode="0" LINESP="24" FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit"/>
+        <STYLE NAME="stuff" PARENT="[No paragraph style]" LINESPMode="1" FONT="Times New Roman Regular" FEATURES="inherit"/>
+        <STYLE NAME="General Copy" PARENT="[No paragraph style]" LINESPMode="0" LINESP="18" FONT="Arial Regular" FONTSIZE="14" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="[No character style]" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Layer 1" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="1" doClip="1" setDevParam="0" useDocBleeds="0" cropMarks="1" bleedMarks="1" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="0" PDLanguage="0" markLength="0" markOffset="7.57817807824079e-315" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="15" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="ub0_ub5" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="672.005" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1324.008" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1976.011" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2628.014" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3280.017" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3932.02" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="4584.023" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="5236.026" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="5888.029" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="6540.032" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="7192.035" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="7844.038" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="8496.041" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="13" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="9148.044" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="14" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="9800.047" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="15" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="504.358142857143" YPOS="596.002" OwnPage="0" ItemID="1359320910" PTYPE="4" WIDTH="352.285714285714" HEIGHT="20.8571428571428" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u142" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 20.8571 L352.286 20.8571 L352.286 0 L0 0 Z" copath="M0 0 L0 20.8571 L352.286 20.8571 L352.286 0 L0 0 Z" OnMasterPage="ub0_ub5" fillRule="0" gXpos="504.358142857143" gYpos="263592368.842001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <var name="pgno" FONT="Myriad Pro Regular" FONTSIZE="8" FEATURES="inherit"/>
+                <ITEXT FONT="Myriad Pro Regular" FONTSIZE="8" FEATURES="inherit" CH=" of"/>
+                <ITEXT FONTSIZE="8" CH="16"/>
+                <para PARENT="stuff" ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="56.002" OwnPage="0" ItemID="1360809806" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u165" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="56.002" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1344435534" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="14" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="AABACADAEAFAGAHAIAJAKALAMA"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ANAOAPAQARASATAUAVAWAXAYAZA"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="COFANO RETROAORTIC WALLPAPER ORATANE DHAUAIN CAJOLE"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="BHAGAVAD BURMAWALLA RAMAYANA "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="BABBCBDBEBFBGBHBIBJBKBLBMB"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="BNBOBPBQBRBSBTBUBVBWBXBYBZB"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="CACBCCDCECFCGCHCICJCKCLCMC"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="CNCOCPCQCRCSCTCUCVCWCXCYCZC"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="DADBDCDDEDFDGDHDIDJDKDLDMD"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="DNDODPDQDRDSDTDUDVDWDXDYDZD"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="EAEBECEDEEFEGEHEIEJEKELEME"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ENEOEPEQERESETEUEVEWEXEYEZE"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="FAFBFCFDFEFFGFHFIFJFKFLFMF"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="FNFOFPFQFRFSFTFUFVFWFXFYFZF "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="FUGLEFJORD UNIFORM"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="GAGBGCGDGEGFGGHGIGJGKGLGMG"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="GNGOGPGQGRGSGTGUGVGWGXGYGZG"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HAHBHCHDHEHFHGHHIHJHKHLHMH"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HNHOHPHQHRHSHTHUHVHWHXHYHZH"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="JAJBJCJDJEJFJGJHJIJJKJLJMJNJOJPJRJSJTJUJVJWJXJYJZJ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="KAKBKCKDKEKFKGKHKIKJKKKLKMK"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="KNKOKPKRKSKTKUKVKWKXKYKZK"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="LALBLCLDLELFLGLHLILJLKLLML"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="LNLOLPLQLRLSLTLULVLWLXLYLZL "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="FALTER SALVE BULWINKLE HOLLYWOOD"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="MAMBMCMDMEMFMGMHMIMJMKMLM"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="MNMOMPMQMRMSMTMUMVMWMXMYMZM"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="NANBNCNDNENFNGNHNINJNKNLNMN"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="NONPNQNRNSNTNUNVNWNXNYNZN"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="OAOBOCODOEOFOGOHOIOJOKOLOMO"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ONOOPOQOROSOTOUOVOWOXOYOZO"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="RETROAORTIC MOTOR CAPOVOLTA BLOWOFF BLOXOM MOYOLA"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="PAPBPCPDPEPFPGPHPIPJPKPLP"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="PMPNPOPPQPRPSPTPUPVPWPXPYPZP "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="SPJIMR RAPTURE"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="QAQBQCQDQEQFQGQHQIQJQKQLQ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="QMQNQOQPQQRQSQTQUQVQWQXQYQZQ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="RARBRCRDRERFRGRHRIRJRKRLR"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="RMRNRORPRQRRSRTRURVRWRXRYRZR "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="SPORTING SWERVE BRYAN"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="SASBSCSDSESFSGSHSISJSKSLSMS"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="SNSOSPSQSRSSTSUSVSWSXSYSZS "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="SASSAFRASS"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="TATBTCTDTETFTGTHTITJTKTLT"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="TMTNTOTPTQTRTSTTUTVTWTXTYTZT"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="UAUBUCUDUEUFUGUHUIUJUKULU"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="UMUNUOUPUQURUSUTUUVUWUXUYUZU"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="VAVBVCVDVEVFVGVHVIVJVKVLV"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="VMVNVOVPVQVRVSVTVUVVWVXVYVZV"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="WAWBWCWDWEWFWGWHWIWJWKWLW"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="WMWNWOWPWQWRWSWTWUWVWWXWYWZW"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="XAXBXCXDXEXFXGXHXIXJXKXLX"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="XMXNXOXPXQXRXSXTXUXVXWXXYXZX"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="YAYBYCYDYEYFYGYHYIYJYKYLY"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="YMYNYOYPYQYRYSYTYUYVYWYYZY"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ZAZBZCZDZEZFZGZHZIZJZKZLZ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ZMZNZOZPZQZRZSZTZUZVZWZXZYZZ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ÆABÆCÆDÆEÆFÆGÆHÆIÆJÆKÆLÆ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ÆMÆNÆOÆPÆQÆRÆSÆTÆUÆVÆWÆXÆYÆZÆÞÆ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="GENFÆRD KVÆN QUÆSTOR HYÆNA MARGÞÆTTUR"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ÞABÞCÞEÞFÞGÞHÞIÞJÞLÞ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ÞMÞOÞPÞRÞSÞUÞVÞWÞYÞÆÞ "/>
+                <breakline/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="aabacadaeafagahaiajakalamanaoapaqarasatauavawaxayaza"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="cofano wallpaper oratane dhauain bhagavad burmawalla ramayana "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="babbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzb"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="cacbccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczc"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="dadbdcddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzd"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="eaebecedeefegeheiejekelemeneoepeqereseteuevewexeyeze"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="fafbfcfdfeffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf "/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="fast foal fuglefjord"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="gagbgcgdgegfgghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzg mortgage"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hahbhchdhehfhghhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="iaibicidieifigihiijikiliminioipiqirisitiuiviwixiyizi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="jajbjcjdjejfjgjhjijjkjljmjnjojpjrjsjtjujvjwjxjyjzj"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="kakbkckdkekfkgkhkikjkklkmknkokpkqkrksktkukvkwkxkykzk"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="lalblcldlelflglhliljlkllmlnlolplqlrlsltlulvlwlxlylzl"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="mambmcmdmemfmgmhmimjmkmmlm"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="mmmnmompmqmrmsmtmumvmwmxmymzm"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="nanbncndnenfngnhninjnknlnmnnonpnqnrnsntnunvnwnxnynzn"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="oaobocodoeofogohoiojokolomonoopoqorosotouovowoxoyozo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="motor capovolta blowoff bloxom moyola"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="papbpcpdpepfpgphpipjpkplpmpnpoppqprpsptpupvpwpxpypzp"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="qaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqrqsqtquqvqwqxqyqzq"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="rarbrcrdrerfrgrhrirjrkrlrmrnrorprqrrsrtrurvrwrxryrzr"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="sasbscsdsesfsgshsisjskslsmsnsospsqsrsstsusvswsxsyszs"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ßabßcßdßeßfßgßhßißkßlßmßnßoßpßqßrßsßtßußxßyßzß"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="tatbtctdtetftgthtitjtktltmtntotptqtrtsttutvtwtxtytzt"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="uaubucudueufuguhuiujukulumunuoupuqurusutuuvuwuxuyuzu"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvwvxvyvzv"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="wawbwcwdwewfwgwhwiwjwkw"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="wlwmwnwowpwqwrwswtwuwvwwxwywzw"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxyxzx"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="yaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyyzy"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="zazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzz"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="æabæcædæeæfægæhæiæjækælæmæ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ænæoæpæqæræsætæuævæwæxæyæzæ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="þabþcþdþeþfþgþhþiþjþkþlþmþnþoþpþqþrþsþtþuþvþwþxþyþzþ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ðabðcðdðeðfðgðhðiðjðkðlðmðnðoðpðqðrðsðtðuðvðwðyð"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ĩAĩBĩCĩDĩEĩFĩGĩHĩIĩJĩKĩLĩMĩNĩOĩPĩQĩRĩSĩTĩUĩVĩWĩXĩYĩZĩ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Aar Abo Act Adj Aer Aft Aga Ahe Aie Aji Ake Alm Amo Ano Aoa App Aqu Art Ass Att Aug Ave Awa Axe Aye Azo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Bal Bbn Bcc Bdj Ber Bfd Bga Bhu Bie Bji Bkl Bli Bmo Bni Boa Bpi Bqu Brt Bss Btl But Bve Bwa Bxl Bye Bzo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Cal Cbn Ccn Cdj Cer Cfi Cga Che Cie Cjn Ckl Cle Cmo Cnl Coa Cpl Cqu Crl Css Ctl Cul Cvl Cwl Cxl Cyi Czo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Dal Dbn Dci Ddj Der Dfl Dga Dhr Die Dji Dkl Dli Dmo Dnu Don Dpi Dqu Dri Dsl Dtl Dul Dvl Dwl Dxl Dya Dzn"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Ear Ebe Ech Edw Een Efo Ega Ehr Eit Ejo Ekn Eld Emp Ens Eob Epa Equ Ero Est Eth Euc Evo Ewa Exe Eyo Eze"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Fal Fbo Fci Fdj Fer Ffu Fgn Fhi Fil Fjo Fkl Fli Fmi Fnl Fol Fpi Fqu Fra Fst Fto Ful Fvl Fwl Fxi Fyi Fzi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Gal Gbo Gch Gdj Ger Gfl Ggl Ghi Gil Gjl Gke Gli Gmo Gnl Gol Gpi Gqu Gra Gst Gto Gut Gve Gwl Gxi Gyn Gzn"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Har Hbo Hct Hdj Her Hfl Hga Hhe Hie Hji Hke Hlm Hmo Hno Hon Hpl Hqu Hrt Hss Htt Hue Hve Hwa Hxe Hyu Hzi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Jap Jbo Jct Jdj Jer Jfn Jgu Jhe Jie Jjl Jkl Jlm Jmo Jno Jon Jpl Jqu Jrt Jss Jtt Jut Jve Jwa Jxe Jyn Jzt"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Kan Kbo Kci Kdj Ker Kfn Kga Khe Kie Kjl Kkn Klm Kmo Kno Kon Kpl Kqu Krt Kss Kti Kui Kve Kwa Kxe Kye Kzo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Lam Lbo Lct Ldj Len Lft Lga Lhe Lie Lju Lke Llm Lmo Lno Lon Lpl Lqu Lrt Lss Ltt Luc Lve Lwa Lxe Lye Lzt"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Oan Obu Oct Odj Oer Ofa Oga Ohe Oie Oja Oke Olf Omi Onu Oon Opl Oqu Ort Oss Ott Out Ovl Owa Oxe Oye Ozo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Par Pbl Pct Pdj Per Pfe Pgs Phi Pie Pji Pki Pla Pml Pnu Pon Ppl Pqu Prt Psa Pts Pul Pvc Pwi Pxl Pyn Pzl"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Qal Qie Qoa Qui Qwa"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Rad Rbi Rct Rdj Ren Rfe Rgs Rha Ria Rji Rkl Rli Rms Rni Roa Rpi Rqu Rrt Rsi Rtd Rut Rvi Rwl Rxi Ryn Rzi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Sar Sbo Sct Sdl Ser Sfo Sgi She Sie Sja Ski Slo Smi Sno Sol Spe Squ Srt Sst Stt Sut Sve Swa Sxe Syl Szo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Tar Tba Tcm Tdi Ter Tfl Tgi The Tie Tji Tke Tlm Tmo Tno Tol Tpi Tqu Trt Tsi Tti Tut Tvl Twl Txl Tyl Tzo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Ual Ubi Uct Udj Uer Ufc Uga Uhi Uie Uji Uke Ulm Umo Uno Uol Upp Uqu Urt Uss Utl Uui Uvl Uwl Uxe Uye Uzo"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Val Vbo Vct Vdj Ver Vft Vga Vhe Vie Vjl Vki Vlm Vmo Vno Vol Vpi Vqu Vrl Vsi Vtt Vut Vvl Vwl Vxl Vyl Vzi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Wal Wbo Wcl Wdj Wer Wfi Wga Whe Wie Wjl Wke Wlm Wmo Wno Wol Wpi Wqu Wrl Wsi Wtt Wut Wvl Wwl Wxl Wya Wzl"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Xal Xbo Xce Xdj Xer Xft Xga Xhe Xie Xjl Xki Xlm Xmo Xno Xol Xpi Xqu Xrl Xsi Xtt Xut Xvl Xwl Xxl Xye Xzi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Yal Ybo Yci Ydj Yer Yfl Yga Yhe Yie Yjo Ykl Yli Ymo Yno Yol Ypi Yqu Yrl Ysi Ytt Yut Yvl Ywl Yxl Yyl Yzi"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Zan Zbr Zco Zdj Zer Zfl Zga Zhe Zie Zji Zke Zlm Zmo Zno Zol Zpi Zqu Zro Zsn Zti Zut Zvl Zwl Zxl Zyl Zzl"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="AaAbAcAdAeAfAgAhAiAjAkAlAmAnAoApAqArAsAtAuAvAwAxAyAzA"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="SaSbScSdSeSfSgShSiSjSkSlSmSnSoSpSqSrSsStSuSvSwSxSySzS"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="TaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTzT"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="UaUbUcUdUeUfUgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUvUwUxUyUzU"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="VaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVzV"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="WaWbWcWdWeWfWgWhWiWjWkWlW"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="WmWnWoWpWqWrWsWtWuWvWwWxWyWzW"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="XaXbXcXdXeXfXgXhXiXjXkXlXmXnXoXpXqXrXsXtXuXvXwXxXyXzX"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="YaYbYcYdYeYfYgYhYiYjYkYlYmYnYoYpYqYrYsYtYuYvYwYxYyYzY"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ZaZbZcZdZeZfZgZhZiZjZkZlZmZnZoZpZqZrZsZtZuZvZwZxZyZzZ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ÆaÆbÆcÆdÆeÆfÆgÆhÆiÆjÆkÆlÆm"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ÆnÆoÆpÆqÆrÆsÆtÆuÆvÆwÆxÆyÆ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ðAðBðCðDðEðFðGðHðIðJðKðLðMðNðOðRðSðTðUð"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ŦAŦBŦCŦDŦEŦFŦGŦHŦIŦJŦKŦLŦ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ŦMŦNŦOŦPŦQŦRŦSŦTŦUŦVŦWŦXŦYŦZ"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="708.005" OwnPage="1" ItemID="1344435534" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u17b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="708.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1343476046" BACKITEM="1360809806"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="1360.008" OwnPage="2" ItemID="1343476046" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u191" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="1360.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1345824078" BACKITEM="1344435534"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="2012.011" OwnPage="3" ItemID="1345824078" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1a7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="2012.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1344999246" BACKITEM="1343476046"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="2664.014" OwnPage="4" ItemID="1344999246" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1bd" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="2664.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1345195854" BACKITEM="1345824078"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="3316.017" OwnPage="5" ItemID="1345195854" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1d3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="3316.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1344043854" BACKITEM="1344999246"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="3968.02" OwnPage="6" ItemID="1344043854" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1e9" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="3968.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1345642318" BACKITEM="1345195854"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="4620.023" OwnPage="7" ItemID="1345642318" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1ff" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="4620.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1344043854"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="7228.035" OwnPage="11" ItemID="1346147150" PTYPE="4" WIDTH="720" HEIGHT="539.999999999999" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u21e" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="7228.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1356075342"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="5272.026" OwnPage="8" ItemID="1344159566" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u234" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5272.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1356835150" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Klei Regular"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H‘–’H’–‘H'–'H–?H‘.H.’H’.H.‘H',H,'H“,H,”H”‚H„“H&quot;,H,&quot;H"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H&quot;¿H?&quot;H“¿H?”H“¡H!”H&quot;¡H!&quot;HH?“H!“H…?H?…H"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="h–a–b–c–d–e–f–g–h–i–j–k–l–m–"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="–n–o–p–q–r–s–t–u–v–w–x–y–z–þ–æ–ð–"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H–A–B–C–D–E–F–G–H–I–J–K–L–M–"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="–N–O–P–Q–R–S–T–U–V–W–X–Y–Z–Þ–Æ–Ð–"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="h.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.ð.h"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="h,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,ð,h"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.H.W.X.Y.Z.Þ.H.Æ.H"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,H,W,X,Y,Z,Þ,H,Æ,H"/>
+                <para PARENT="All Text" LINESPMode="0"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="a; b; c; d; e; f; g; h; i; j; k; l; m; n; o; p; q; r; s; t; u; v; w; x; y; z;"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="A; B; C; D; E; F; G; H; I; J; K; L; M; N; O; P; Q; R; S; T; U; V; W; X; Y; Z; "/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="n//a//b//c//d//e//f//g//h//i//ĩ//j//k//l//m//"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="//n//o//p//q//r//s//t//u//v//w//y//z//n"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H//A//B//C//D//E//F//G//H//I//J//K//L//M//"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="//N//O//P//Q//R//S//T//U//V//W//X//Y//Z//Þ//Æ//H"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="¿A? ¿B? ¿C? ¿D? ¿E? ¿F? ¿G? ¿H? ¿I? ¿J? ¿K? ¿L? ¿M? ¿N? ¿O? ¿P? ¿Q? ¿R? ¿S? ¿T? ¿U? ¿V? ¿W? ¿X? ¿Y? ¿Z?"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="¿a? ¿b? ¿c? ¿d? ¿e? ¿f? ¿g? ¿h? ¿i? ¿j? ¿k? ¿l? ¿m? ¿n? ¿o? ¿p? ¿q? ¿r? ¿s? ¿t? ¿u? ¿v? ¿w? ¿x? ¿y? ¿z? ¿þ? ¿æ? ¿ð? HH–?HH¿–HH"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="¡a! ¡b! ¡c! ¡d! ¡e! ¡f! ¡g! ¡h! ¡i! ¡j! ¡k! ¡l! ¡m! ¡n! ¡o! ¡p! ¡q! ¡r! ¡s! ¡t! ¡u! ¡v! ¡w! ¡x! ¡y! ¡z!"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="¡A! ¡B! ¡C! ¡D! ¡E! ¡F! ¡G! ¡H! ¡I! ¡J! ¡K! ¡L! ¡M! ¡N! ¡O! ¡P! ¡Q! ¡R! ¡S! ¡T! ¡U! ¡V! ¡W! ¡X! ¡Y! ¡Z!"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H’A’C’D’E’F’G’H’I’J’K’L’M’N’O’P’Q’R’S’T’U’V’W’X’Y’Z’H’Æ"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H&quot;A&quot;C&quot;D&quot;E&quot;F&quot;G&quot;H&quot;I&quot;J&quot;K&quot;L&quot;M&quot;N&quot;O&quot;P&quot;Q&quot;R&quot;S&quot;T&quot;U&quot;V&quot;W&quot;X&quot;Y&quot;Z&quot;H&quot;Æ"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="nd“n”bd’nhn“   nd“o”bd’oho“   nd“þ”bd’þhþ“   nd“a”bd’aha“   nd“b”bd’bhb“   nd“c”bd’chc“   nd“d”bd’dhd“   nd“e”bd’ehe“   nd“f”bd’fhf“   nd“g”bd’ghg“   nd“h”bd’hhh“   nd“i”bd’ihi“  nd“j”bd’jhj“   nd“k”bd’khk“   nd“l”bd’lhl“   nd“m”bd’mhm“   nd“p”bd’php“   nd“q”bd’qhq“   nd“r”bd’rhr“   nd“s”bd’shs“   nd“t”bd’tht“   nd“u”bd’uhu“   nd“v”bd’vhv“   nd“w”bd’whw“   nd“x”bd’xhx“   nd“y”bd’yhy“   nd“z”bd’zhz“   nd“æ”bd’æhæ“   nd“œ”bd’œhœ“   nd“ð”hð“   nd“ß”hß“"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH=" "/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="nd&quot;n&quot;bd'nh nd&quot;o&quot;bd'oh nd&quot;þ&quot;bd'þh nd&quot;a&quot;bd'ab nd&quot;b&quot;bd'btb nd&quot;c&quot;bd'ch nd&quot;d&quot;bd'dh nd&quot;e&quot;bd'eh nd&quot;f&quot;bd'fh nd&quot;g&quot;bd'gh nd&quot;h&quot;bd'hh nd&quot;i&quot;bd'ih nd&quot;j&quot;bd'jh nd&quot;k&quot;bd'kh nd&quot;l&quot;bd'lh nd&quot;m&quot;bd'mh nd&quot;p&quot;bd'ph nd&quot;q&quot;bd'qh nd&quot;r&quot;bd'rh nd&quot;s&quot;bd'sh nd&quot;t&quot;bd'th nd&quot;u&quot;bd'uh nd&quot;v&quot;bd'vh nd&quot;w&quot;bd'wh nd&quot;x&quot;bd'xh nd&quot;y&quot;bd'yh nd&quot;z&quot;bd'zh nd&quot;æ&quot;bd'æh nd&quot;œ&quot;bd'œh nd&quot;ð&quot;bd ndß&quot;bd"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="HH“N”BD’NHN“   HH“O”BD’OHO“   HH“Þ”BD’ÞHÞ“   HH“A”BD’AHA“   HH“B”BD’HB“   HH“C”BD’CHC“   HH“D”BD’DHH“   HH“E”BD’EHE“   HH“F”BD’FHF“   HH“G”BD’GHG“   HH“H”BD’HHH“   HH“I”BD’IHI“  HH“J”BD’JHJ“   HH“K”BD’KHK“   HH“L”BD’LHL“   HH“M”BD’MHM“   HH“P”BD’PHP“   HH“Q”BD’QHQ“   HH“R”BD’RHR“   HH“S”BD’SHS“   HH“T”BD’THT“   HH“U”BD’UHU“   HH“V”BD’VHV“   HH“W”BD’WHW“   HH“X”BD’XHX“   HH“Y”BD’YHY“   HH“Z”BD’ZHZ“   HH“Æ”BD’ÆHÆ“   HH“Œ”BD’ŒHŒ“   HH“Ð”BD’ÐHÐ“"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH=" "/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="HH&quot;N&quot;HD'NH HH&quot;O&quot;HD'OH HH&quot;A&quot;HD'AH HH&quot;B&quot;HD'BH HH&quot;C&quot;HD'CH HH&quot;D&quot;HD'DH HH&quot;E&quot;HD'EH HH&quot;F&quot;HD'FH HH&quot;G&quot;HD'GH HH&quot;H&quot;HD'HH HH&quot;I&quot;HD'IH HH&quot;J&quot;HD'JH HH&quot;K&quot;HD'KH HH&quot;L&quot;HD'LH HH&quot;M&quot;HD'MH HH&quot;P&quot;HD'PH HH&quot;Q&quot;HD'QH HH&quot;R&quot;HD'RH HH&quot;S&quot;HD'SH HH&quot;T&quot;HD'TH HH&quot;U&quot;HD'UH HH&quot;V&quot;HD'VH HH&quot;W&quot;HD'WH HH&quot;X&quot;HD'XH HH&quot;Y&quot;HD'YH HH&quot;Z&quot;HD'ZH HH&quot;Æ&quot;HD'ÆH HH&quot;Œ&quot;HD'ŒH HH&quot;Ð&quot;HD'ÐH HH&quot;Þ&quot;HD'ÞH"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="«A» «B» «C» «E» «F» «J» «K» «L» «P» «R» «T» «V» «W» «X» «Y» «Z»"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="»A« »B« »C« »E« »F« »J« »K« »L« »P« »R« »T« »V« »W« »X« »Y« »Z«"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="«c» «f» «j» «k» «o» «t» «v» «w» «x» «z»"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="»c« »f« »j« »k« »o« »t« »v« »w« »x« »z«"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="«0» «1» «2» «3» «4» «5» «6» «7» «8» «9»"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="»0« »1« »2« »3« »4« »5« »6« »7« »8« »9«"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="«.».«:»:«?»?«–»–« H(«)H(»)H"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="h@a@b@c@d@e@f@g@h@i@j@k@l@m@h"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="h@n@o@p@q@r@s@t@u@v@w@x@y@z@h"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H@A@B@C@D@E@F@G@H@I@J@K@L@M@H"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="H@N@O@P@Q@R@S@T@U@V@W@X@Y@Z@Æ@Þ@H"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="HH HH A HH HH T HH HH V HH HH Y HH HH X HH HH"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="HH HH W HH HH F HH HH J HH HH "/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="HOH HOF AOA AOA JOA HOW WOV VOY YOY HOT TOH"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="hn hn v hn hn w hn hn f hn hn r hn hn"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="noh nof nor nov vow wow"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="ďa ďi ďo ďu ďk ďA ďI ďO ďU ď' ď&quot; ď” ď“ ď! ď? ď) ď] ď} ď*"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="ťa ťi ťo ťu ťk ťA ťI ťO ťU ť' ť&quot; ť” ť“ ť! ť? ť) ť] ť} ť*"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="14" FEATURES="inherit" CH="Ľa Ľi Ľo Ľk Ľu ĽA ĽI ĽO ĽU Ľ'Ľ&quot;Ľ” Ľ“ Ľ! Ľ? Ľ) Ľ} Ľ] Ľ*"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="5924.029" OwnPage="9" ItemID="1356835150" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u24a" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5924.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1356075342" BACKITEM="1344159566"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="6576.032" OwnPage="10" ItemID="1356075342" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u260" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="6576.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1346147150" BACKITEM="1356835150"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="7880.038" OwnPage="12" ItemID="1355419982" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u27c" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="7880.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Klei Regular"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="01020304050607080900 91929394959697989909"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="81828384858687889808 71727374757677879707"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="61626364656676869606 51525354556575859505"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="41424344546474849404 31323343536373839303"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="21223242526272829202 11213141516171819101"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="$12 $23 $34 $45 $56 $67 $78 $89 $90 $01"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="€12 €23 €34 €45 €56 €67 €78 €89 €90 €01"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="£12 £23 £34 £45 £56 £67 £78 £89 £90 £01"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="¥12 ¥23 ¥34 ¥45 ¥56 ¥67 ¥78 ¥89 ¥90 ¥01"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="₺12 ₺23 ₺34 ₺45 ₺56 ₺67 ₺78 ₺89 ₺90 ₺01"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="₹12 ₹23 ₹34 ₹45 ₹56 ₹67 ₹78 ₹89 ₹90 ₹01"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="12¢ 23¢ 34¢ 45¢ 56¢ 67¢ 78¢ 89¢ 90¢ 01¢"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="“$0 “£0 “€0 “¥0 “₹0¢” 99%” 99%&quot;"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="&quot;0&quot; &quot;1&quot; &quot;2&quot; &quot;3&quot; &quot;4&quot; &quot;5&quot; &quot;6&quot; &quot;7&quot; &quot;8&quot; &quot;9&quot; "/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="“0” “1” “2” “3” “4” “5” “6” “7” “8” “9”"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH=".1.2.3.4.5.6.7.8.9.0.0 ,1,2,3,4,5,6,7,8,9,0,0 "/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="¿1? ¿2? ¿3? ¿4? ¿5? ¿6? ¿7? ¿8? ¿9? ¿0?"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="-1-2-3-4-5-6-7-8-9-0- –1–2–3–4–5–6–7–8–9–0"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="0//0//1//2//3//4//5//6//7//8//9"/>
+                <para PARENT="All Text" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="8532.041" OwnPage="13" ItemID="1354284366" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u298" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="8532.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Klei Regular"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Real-World Accent Collisions"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ąj ąg ąy ći éî fâ fā fă fã få fä fè fë fē fì fî fj fö fü fð gj gy îè ît íč íň íř íš íž ïf įj įg įy ši šī št tă tã tu’ĩ úř ųj ųg ųy žī "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Fä Få Fā Fă Fã Fè Fë Fê Fē Fì Fî Fö Kā Kä Kå Kī Kö Kř Kū Pä På Pā Pă Pã Pè Pë Pē Pě Pì Pî Pï Pī Pň Pö Př Pū Pž Ţâ Tâ Tä Tå Tā Tă Tã Tè Tê Të Tē Tĕ Tě Tī Tö Tō Tř Tš Tū Tž Vå Vä Vā Vă Vã Vë Vē Vě Vî Vī Vö Vš Vž Wå Wä Wā Wè Wö Yā Yã Yū"/>
+                <trail LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="9184.044" OwnPage="14" ItemID="1357459278" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2ae" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="9184.044" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="24" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="All Caps Variants"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="H–A–B–C–D–E–F–G–H–I–J–K–L–M"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="–N–O–P–Q–R–S–T–U–V–W–X–Y–Z–Þ–Æ–Ð–"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="¿AH ¿BH ¿CH ¿DH ¿EH ¿FH ¿GH ¿HH ¿IH ¿JH ¿KH ¿LH ¿MH ¿NH ¿OH ¿PH ¿QH ¿RH ¿SH ¿TH ¿UH ¿VH ¿WH ¿XH ¿YH ¿ZH"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="¡A! ¡B! ¡C! ¡D! ¡E! ¡F! ¡G! ¡H! ¡I! ¡J! ¡K! ¡L! ¡M! ¡N! ¡O! ¡P! ¡Q! ¡R! ¡S! ¡T! ¡U! ¡V! ¡W! ¡X! ¡Y! ¡Z!"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="«A» «B» «C» «E» «F» «J» «K» «L» «P» «T» «V» «W» «X» «Y» «Z»"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="»A« »B« »C« »E« »F« »J« »K« »L« »R« »T« »V« »W« »X« »Y« »Z«"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="–0–1–2–3–4–5–6–7–8–9"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="¿00 ¿10 ¿20 ¿30 ¿40 ¿50 ¿60 ¿70 ¿80 ¿90    ¡00 ¡10 ¡20 ¡30 ¡40 ¡50 ¡60 ¡70 ¡80 ¡90"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="«0» «1» «2» «3» «4» «5» «6» «7» «8» «9»"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="»0« »1« »2« »3« »4« »5« »6« »7« »8« »9«"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="H@A@B@C@D@E@F@G@H@I@J@K@L@M@H"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit allcaps" CH="H@N@O@P@Q@R@S@T@U@V@W@X@Y@Z@Æ@Þ@H"/>
+                <para PARENT="All Text" LINESPMode="1" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="9836.047" OwnPage="15" ItemID="1355237710" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u2ca" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="9836.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="24" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="01020304050607080900 "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="91929394959697989909"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="81828384858687889808 "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="71727374757677879707"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="61626364656676869606 "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="51525354556575859505"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="41424344546474849404 "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="31323343536373839303"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="21223242526272829202 "/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit superscript" CH="11213141516171819101"/>
+                <para PARENT="All Text" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="505.643857142857" YPOS="9836.047" OwnPage="15" ItemID="1355919694" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u2e0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.643857142857" gYpos="9836.047" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Klei Regular"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/0  1/0  2/0  3/0  4/0  5/0  6/0  7/0  8/0  9/0"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/10  1/10  2/10  3/10  4/10  5/10  6/10  7/10  8/10  9/10"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/2  1/2  2/2  3/2  4/2  5/2  6/2  7/2  8/2  9/2"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/3  1/3  2/3  3/3  4/3  5/3  6/3  7/3  8/3  9/3"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/4  1/4  2/4  3/4  4/4  5/4  6/4  7/4  8/4  9/4"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/5  1/5  2/5  3/5  4/5  5/5  6/5  7/5  8/5  9/5"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/6  1/6  2/6  3/6  4/6  5/6  6/6  7/6  8/6  9/6"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/7  1/7  2/7  3/7  4/7  5/7  6/7  7/7  8/7  9/7"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/8  1/8  2/8  3/8  4/8  5/8  6/8  7/8  8/8  9/8"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="0/9  1/9  2/9  3/9  4/9  5/9  6/9  7/9  8/9  9/9"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
