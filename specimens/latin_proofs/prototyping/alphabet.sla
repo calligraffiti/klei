@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.4">
+    <DOCUMENT ANZPAGES="11" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="12" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.002" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.002" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.002" GapHorizontal="0" GapVertical="40.003" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="C=0 M=0 Y=100 K=0" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <COLOR NAME="C=0 M=100 Y=0 K=0" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=0 Y=0 K=0" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=90 Y=10 K=0" SPACE="CMYK" C="100" M="90" Y="10" K="0"/>
+        <COLOR NAME="C=15 M=100 Y=100 K=0" SPACE="CMYK" C="15" M="100" Y="100" K="0"/>
+        <COLOR NAME="C=75 M=5 Y=100 K=0" SPACE="CMYK" C="75" M="5" Y="100" K="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <Gradient Name="u7d" Ext="3">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
+        </Gradient>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="[No paragraph style]" PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="0" FONT="Times Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" TXTULP="-0.1" TXTSTP="-0.1" BASEO="0"/>
+        <STYLE NAME="NormalParagraphStyle" PARENT="[No paragraph style]" LINESPMode="1" FONT="Arial Regular" FEATURES="inherit"/>
+        <STYLE NAME="stuff" PARENT="[No paragraph style]" LINESPMode="1" FONT="Times New Roman Regular" FEATURES="inherit"/>
+        <STYLE NAME="Paragraph Style 1" PARENT="stuff" LINESPMode="0" LINESP="26" FONT="Arial Regular" FONTSIZE="24" FEATURES="inherit"/>
+        <STYLE NAME="Centered Text" PARENT="Paragraph Style 1" ALIGN="1" LINESPMode="0" LINESP="32" FONT="Times New Roman Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="[No character style]" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Layer 1" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="101" outputSeparations="0" useSpotColors="109" useColor="0" mirrorH="97" mirrorV="0" useICC="0" doGCR="107" doClip="0" setDevParam="101" useDocBleeds="0" cropMarks="114" bleedMarks="0" registrationMarks="32" colorMarks="0" includePDFMarks="40" PSLevel="3" PDLanguage="6553709" markLength="2.2252045755202e-307" markOffset="1.42410974187105e-306" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="10" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="ub0_ub5" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="u107_u10c" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="u10d_u112" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="672.005" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1324.008" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1976.011" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2628.014" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3280.017" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3932.02" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="4584.023" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="5236.026" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="5888.029" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="6540.032" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="503.715285714286" YPOS="596.002" OwnPage="0" ItemID="1763661147" PTYPE="4" WIDTH="352.285714285714" HEIGHT="20.8571428571428" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u104" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 20.8571 L352.286 20.8571 L352.286 0 L0 0 Z" copath="M0 0 L0 20.8571 L352.286 20.8571 L352.286 0 L0 0 Z" OnMasterPage="ub0_ub5" fillRule="0" gXpos="503.715285714286" gYpos="62469003.4319986" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <var name="pgno" FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit"/>
+                <ITEXT FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" CH="  of"/>
+                <ITEXT FONTSIZE="8" CH=" "/>
+                <var name="pgco" FONTSIZE="8"/>
+                <para PARENT="stuff" ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="56.0019999999999" OwnPage="0" ItemID="1765959003" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u12f" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="56.0019999999999" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1765747547" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="120" FONT="Klei Regular" FONTSIZE="96"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="ABCDEFG"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="HIJKLMN"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="OPQRSTU"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="VWXYZ"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="abcdefgh"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="ijklmno"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="pqrstu"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="vwxyz"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="120"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="708.005" OwnPage="1" ItemID="1765747547" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u145" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="708.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1765959003"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="2012.011" OwnPage="3" ItemID="1765086043" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u15b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="2012.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="120" FONT="Klei Regular" FONTSIZE="96"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH=".,:;…!?*"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="1" LINESP="120"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="&quot;'“”‘’"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="1" LINESP="120"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="(—–-)"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="1" LINESP="120"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="1360.008" OwnPage="2" ItemID="1764249947" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u171" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="1360.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="120" FONT="Klei Regular" FONTSIZE="96"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="01234"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="1" LINESP="120"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="96" FEATURES="inherit" CH="56789"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="1" LINESP="120"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="2664.014" OwnPage="4" ItemID="1763044699" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u18f" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="2664.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="24" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHAHOAOO HHBHOBOO HHCHOCOO HHDHODOO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHEHOEOO HHFHOFOO HHGHOGOO HHHHOHOO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHIHOIOO HHJHOJOO HHKHOKOO HHLHOLOO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHMHOMOO HHNHONOO HHOHOOOO HHPHOPOO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHQHOQOO HHRHOROO HHSHOSOO HHTHOTOO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHUHOUOO HHVHOVOO HHWHOWOO HHXHOXOO "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HHYHOYOO HHZHOZOO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HAHBHCHDHEHFHGHHHIHJHKHHLHMHNHOHHPHQH"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="HRHSHTHUHVHWHXHYHZH"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="OAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="OROSOTOUOVOWOXOYOZO"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Aho Bho Cho Dho Eho Fho Gho Hho Iho Jho Kho "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Lho Mho Nho Oho Pho Qho Rho Sho Tho Uho "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Vho Who Xho Yho Zho"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Ano Bno Cno Dno Eno Fno Gno Nno Ino Jno Kno "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Lno Mno Nno Ono Pno Qno Rno Sno Tno Uno "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Vno Wno Xno Yno Zno"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Aon Bon Con Don Eon Fon Gon Hon Ion Jon Kon "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Lon Mon Non Oon Pon Qon Ron Son Ton Uon "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Von Won Xon Yon"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="3316.017" OwnPage="5" ItemID="1765809499" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1a5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="3316.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="24" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhahoaoo hhbhoboo hhchocoo hhdhodoo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhehoeoo hhfhofoo hhghogoo hhhhohoo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhihoioo hhjhojoo hhkhokoo hhlholoo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhmhomoo hhnhonoo hhohoooo hhphopoo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhqhoqoo hhrhoroo hhshosoo hhthotoo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhuhouoo hhvhovoo hhwhowoo hhxhoxoo "/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hhyhoyoo hhzhozoo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hahbhchdhehfhghhhihjhkhhlhmhnhohhphqh"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hrhshthuhvhwhxhyhzh"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="nanbncndnenfngnhninjnknnlnmnnnonnpnqn"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="nrnsntnunvnwnxnynzn"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="oaobocodoeofogohoiojokolomonooopoqo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="orosotouovowoxoyozo"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="H.H,H:H;H…H!H?H*H&quot;H'H“H”H‘H’H(H—H–H-H)H"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="O.O,O:O;O…O!O?O*O&quot;O'O“O”O‘O’O(O—O–O-O)O"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="h.h,h:h;h…h!h?h*h&quot;h'h“h”h‘h’h(h—h–h-h)h"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="o.o,o:o;o…o!o?o*o&quot;o'o“o”o‘o’o(o—o–o-o)o"/>
+                <para PARENT="Centered Text" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="3968.02" OwnPage="6" ItemID="1764259675" PTYPE="4" WIDTH="720" HEIGHT="132" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1bb" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 132 L720 132 L720 0 L0 0 Z" copath="M0 0 L0 132 L720 132 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="3968.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="000001000200300400500600700800900"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="11111211311411511611711811911011"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="24"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="00000 00100 00200 00300 00400"/>
+                <breakline/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="00500 00600 00700 00800 00900"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="4136.02" OwnPage="6" ItemID="1764887899" PTYPE="4" WIDTH="354" HEIGHT="360" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1d1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 360 L354 360 L354 0 L0 0 Z" copath="M0 0 L0 360 L354 360 L354 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="4136.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="22" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="001020304050607080900 011121314151617181910"/>
+                <para PARENT="[No paragraph style]" ALIGN="1" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="021222324252627282920 031323334353637383930"/>
+                <para PARENT="[No paragraph style]" ALIGN="1" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="041424344454647484940 051525354555657585950"/>
+                <para PARENT="[No paragraph style]" ALIGN="1" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="061626364656667686960 071727374757677787970"/>
+                <para PARENT="[No paragraph style]" ALIGN="1" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="081828384858687888980 091929394959697989990"/>
+                <para PARENT="[No paragraph style]" ALIGN="1" LINESPMode="0" LINESP="22"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="556.001" YPOS="4136.02" OwnPage="6" ItemID="1766456667" PTYPE="4" WIDTH="260" HEIGHT="360" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1e7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 360 L260 360 L260 0 L0 0 Z" copath="M0 0 L0 360 L260 360 L260 0 L0 0 Z" fillRule="0" gXpos="556.001" gYpos="4136.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="22" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="001020304050607080900"/>
+                <para PARENT="[No paragraph style]" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="011121314151617181910"/>
+                <para PARENT="[No paragraph style]" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="021222324252627282920 031323334353637383930"/>
+                <para PARENT="[No paragraph style]" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="041424344454647484940 051525354555657585950"/>
+                <para PARENT="[No paragraph style]" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="061626364656667686960 071727374757677787970"/>
+                <para PARENT="[No paragraph style]" LINESPMode="0" LINESP="22"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="081828384858687888980 091929394959697989990"/>
+                <para PARENT="[No paragraph style]" LINESPMode="0" LINESP="22"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="4620.023" OwnPage="7" ItemID="1766297435" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u204" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="4620.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1764255067" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="24" FONT="Klei Regular" FONTSIZE="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="apple Apple APPLE aah Aah AAH baathist Baathist BAATHIST napa Napa NAPA"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="beanpole Beanpole BEANPOLE babble Babble BABBLE nib Nib NIB"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="cancer Cancer CANCER vaccine Vaccine VACCINE antiseptic Antiseptic ANTISEPTIC"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="dog Dog DOG sodden Sodden SODDEN god God GOD"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="empathy Empathy EMPATHY been Been BEEN smile Smile SMILE "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="frog Frog FROG stuffed Stuffed STUFFED staff Staff STAFF"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="great Great GREAT froggy Froggy FROGGY stag Stag STAG"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="hill Hill HILL hitchhike Hitchhike HITCHHIKE fish Fish FISH"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="insight Insight INSIGHT skiing skiing SKIING cacti Cacti CACTI"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="job Job JOB avijja Avijja AVIJJA taj Taj TAJ"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="knit Knit KNIT trekkers Trekkers TREKKERS book Book BOOK"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="light Light LIGHT alligator Alligator ALLIGATOR mall Mall MALL"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="mouse Mouse MOUSE mommy Mommy MOMMY allium Allium ALLIUM"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="nymphs Nymphs NYMPHS sunny Sunny SUNNY amphibian Amphibian AMPHIBIAN"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="owl Owl OWL spoon Spoon SPOON also Also ALSO"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="practical Practical PRACTICAL flippancy Flippancy FLIPPANCY top Top TOP"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="quake Quake QUAKE zaqqum Zaqqum ZAQQUM umiaq Umiaq UMIAQ"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="rang Rang RANG hurricane Hurricane HURRICANE ear Ear EAR"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="so So SO sassafrass Sassafrass SASSAFRASS atrocious Atrocious ATROCIOUS"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="tsunami Tsunami TSUNAMI mottled Mottled MOTTLED tart Tart TART"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="ulu Ulu ULU vacuum Vacuum VACUUM bayou Bayou BAYOU"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="valley Valley VALLEY savvy Savvy SAVVY maglev Maglev MAGLEV"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="white White WHITE glowworm Glowworm GLOWWORM sorrow Sorrow SORROW"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="xenophobe Xenophobe XENOPHOBE zaxxon Zaxxon ZAXXON bordeaux Bordeaux BORDEAUX"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="you You You lyyn Lyyn LYYN smiley Smiley SMILEY"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="zowie Zowie ZOWIE puzzle Puzzle PUZZLE fuzz Fuzz FUZZ"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="barßel BARẞEL barfuß BARFUẞ"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="24"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="5272.026" OwnPage="8" ItemID="1764255067" PTYPE="4" WIDTH="720" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u21a" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L720 540 L720 0 L0 0 Z" copath="M0 0 L0 540 L720 540 L720 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5272.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1766297435"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="5924.029" OwnPage="9" ItemID="1764269915" PTYPE="4" WIDTH="232" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u236" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L232 540 L232 0 L0 0 Z" copath="M0 0 L0 540 L232 540 L232 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5924.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="Klei Regular"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="GOOD GRAVY! I EXPECTED A HIKE OF JOBLESSNESS—SUBSEQUENT TO THE AMAZING LAWS. I expect to quite like Woody’s 97,012 movies: but not his forgettable jazz. In ’sixty-four, Jacqueline Bouvier Kennedy was amazingly hip. Jeff, Dos Equis cerveza will help your big Mexican trip, OK? Jim just 452 quit and packed extra bags for NRA Liz Owen! Mad 98.06 Brother Jarvis was; quickly axed for crazy praying? "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" DROP="1" DROPLIN="2"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="Martin J. Hixeypozer quickly 45,682 began his first word. New York jews kvetched about 63 amazing food at Pasquale’s on Sixth. Nymphs vex, beg quick hisher fjord waltz! Pack my box with five dozen jugs of .74 liquid veneer. Playing jazz…vibe chords: quickly NYT excites my wife. Quartz glyph job: vexed 10 cwm finks. Quick zephyrs blow, vexing…daft jim. Six big devils 87–25 From Japan—quickly forgot how to waltz. Sixth prize went to; frequent breakdancer Jeremy Vogel. "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0"/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="The fox, jaw bleeding, moved XYZ quickly, 5.99 dazing his prey. Terse doxies quashed powerful junk vendor’s cozy muggle babe. ‘Viewing quizzical abstracts’, mixed up hefty jocks. Vodkatonic mix (has a bitter quinine) DSP flavor; I can’t go with zippy OJ. Waltz, nymph, for quick jigs 41–37 vex Bud! William Jex, quickly caught 6,895 five dozen republicans. Zany eskimo craves 230 fixed job with quilting party? Zoroastrian Jacques’ French pub mixed 75 watery vodka gimlets."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="380.001" YPOS="5924.029" OwnPage="9" ItemID="1765179227" PTYPE="4" WIDTH="232" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u24c" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L232 540 L232 0 L0 0 Z" copath="M0 0 L0 540 L232 540 L232 0 L0 0 Z" fillRule="0" gXpos="380.001" gYpos="5924.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="13" FONT="Klei Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="GOOD GRAVY! I EXPECTED A HIKE OF JOBLESSNESS—SUBSEQUENT TO THE AMAZING LAWS. I expect to quite like Woody’s 97,012 movies: but not his forgettable jazz. In ’sixty-four, Jacqueline Bouvier Kennedy was amazingly hip. Jeff, Dos Equis cerveza will help your big Mexican trip, OK? Jim just 452 quit and packed extra bags for NRA Liz Owen! Mad 98.06 Brother Jarvis was; quickly axed for crazy praying? "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="Martin J. Hixeypozer quickly 45,682 began his first word. New York jews kvetched about 63 amazing food at Pasquale’s on Sixth. Nymphs vex, beg quick hisher fjord waltz! Pack my box with five dozen jugs of .74 liquid veneer. Playing jazz…vibe chords: quickly NYT excites my wife. Quartz glyph job: vexed 10 cwm finks? Quick zephyrs blow, vexing…daft jim. Six big devils 87–25 From Japan—quickly forgot how to waltz. Sixth prize went to; frequent breakdancer Jeremy Vogel. "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="The fox, jaw bleeding, moved XYZ quickly, 5.99 dazing his prey. Terse doxies quashed powerful junk vendor’s cozy muggle babe. ‘Viewing quizzical abstracts’, mixed up hefty jocks. Vodkatonic mix (has a bitter quinine) DSP flavor; I can’t go with zippy OJ. Waltz, nymph, for quick jigs 41–37 vex Bud! William Jex, quickly caught 6,895 five dozen republicans. Zany eskimo craves 230 fixed job with quilting party? Zoroastrian Jacques’ French pub mixed 75 watery vodka gimlets."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="624.001" YPOS="5924.029" OwnPage="9" ItemID="1764567387" PTYPE="4" WIDTH="232" HEIGHT="288" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u262" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 288 L232 288 L232 0 L0 0 Z" copath="M0 0 L0 288 L232 288 L232 0 L0 0 Z" fillRule="0" gXpos="624.001" gYpos="5924.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="12" FONT="Klei Regular" FONTSIZE="9"/>
+                <ITEXT CH="GOOD GRAVY! I EXPECTED A HIKE OF JOBLESSNESS—SUBSEQUENT TO THE AMAZING LAWS. I expect to quite like Woody’s 97,012 movies: but not his forgettable jazz. In ’sixty-four, Jacqueline Bouvier Kennedy was amazingly hip. Jeff, Dos Equis cerveza will help your big Mexican trip, OK? Jim just 452 quit and packed extra bags for NRA Liz Owen! Mad 98.06 Brother Jarvis was; quickly axed for crazy praying? "/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CH="Martin J. Hixeypozer quickly 45,682 began his first word. New York jews kvetched about 63 amazing food at Pasquale’s on Sixth. Nymphs vex, beg quick hisher fjord waltz! Pack my box with five dozen jugs of .74 liquid veneer. Playing jazz…vibe chords: quickly NYT excites my wife. Quartz glyph job: vexed 10 cwm finks. Quick zephyrs blow, vexing…daft jim. Six big devils 87–25 From Japan—quickly forgot how to waltz. Sixth prize went to; frequent breakdancer Jeremy Vogel. "/>
+                <para LINESPMode="0" LINESP="12"/>
+                <para LINESPMode="0" LINESP="12"/>
+                <ITEXT CH="The fox, jaw bleeding, moved XYZ quickly, 5.99 dazing his prey. Terse doxies quashed powerful junk vendor’s cozy muggle babe. ‘Viewing quizzical abstracts’, mixed up hefty jocks. Vodkatonic mix (has a bitter quinine) DSP flavor; I can’t go with zippy OJ. Waltz, nymph, for quick jigs 41–37 vex Bud! William Jex, quickly caught 6,895 five dozen republicans. Zany eskimo craves 230 fixed job with quilting party? Zoroastrian Jacques’ French pub mixed 75 watery vodka gimlets."/>
+                <para LINESPMode="0" LINESP="12"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="624.001" YPOS="6248.029" OwnPage="9" ItemID="1764163419" PTYPE="4" WIDTH="232" HEIGHT="216" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u278" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 216 L232 216 L232 0 L0 0 Z" copath="M0 0 L0 216 L232 216 L232 0 L0 0 Z" fillRule="0" gXpos="624.001" gYpos="6248.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Klei Regular" FONTSIZE="8"/>
+                <ITEXT CH="GOOD GRAVY! I EXPECTED A HIKE OF JOBLESSNESS—SUBSEQUENT TO THE AMAZING LAWS. I expect to quite like Woody’s 97,012 movies: but not his forgettable jazz. In ’sixty-four, Jacqueline Bouvier Kennedy was amazingly hip. Jeff, Dos Equis cerveza will help your big Mexican trip, OK? Jim just 452 quit and packed extra bags for NRA Liz Owen! Mad 98.06 Brother Jarvis was; quickly axed for crazy praying? "/>
+                <para LINESPMode="0" LINESP="10"/>
+                <para LINESPMode="0" LINESP="10"/>
+                <ITEXT CH="Martin J. Hixeypozer quickly 45,682 began his first word. New York jews kvetched about 63 amazing food at Pasquale’s on Sixth. Nymphs vex, beg quick hisher fjord waltz! Pack my box with five dozen jugs of .74 liquid veneer. Playing jazz…vibe chords: quickly NYT excites my wife. Quartz glyph job: vexed 10 cwm finks. Quick zephyrs blow, vexing…daft jim. Six big devils 87–25 From Japan—quickly forgot how to waltz. Sixth prize went to; frequent breakdancer Jeremy Vogel. "/>
+                <para LINESPMode="0" LINESP="10"/>
+                <para LINESPMode="0" LINESP="10"/>
+                <ITEXT CH="The fox, jaw bleeding, moved XYZ quickly, 5.99 dazing his prey. Terse doxies quashed powerful junk vendor’s cozy muggle babe. ‘Viewing quizzical abstracts’, mixed up hefty jocks. Vodkatonic mix (has a bitter quinine) DSP flavor; I can’t go with zippy OJ. Waltz, nymph, for quick jigs 41–37 vex Bud! William Jex, quickly caught 6,895 five dozen republicans. Zany eskimo craves 230 fixed job with quilting party? Zoroastrian Jacques’ French pub mixed 75 watery vodka gimlets."/>
+                <para LINESPMode="0" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="5912.029" OwnPage="9" ItemID="1765291867" PTYPE="4" WIDTH="110" HEIGHT="9" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u28e" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 9 L110 9 L110 0 L0 0 Z" copath="M0 0 L0 9 L110 9 L110 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5912.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" CH="12/15"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="380.001" YPOS="5912.029" OwnPage="9" ItemID="1763668315" PTYPE="4" WIDTH="110" HEIGHT="9" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2a4" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 9 L110 9 L110 0 L0 0 Z" copath="M0 0 L0 9 L110 9 L110 0 L0 0 Z" fillRule="0" gXpos="380.001" gYpos="5912.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" CH="10/13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="624.001" YPOS="5912.029" OwnPage="9" ItemID="1763301211" PTYPE="4" WIDTH="110" HEIGHT="9" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2ba" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 9 L110 9 L110 0 L0 0 Z" copath="M0 0 L0 9 L110 9 L110 0 L0 0 Z" fillRule="0" gXpos="624.001" gYpos="5912.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" CH="9/12"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="624.001" YPOS="6236.029" OwnPage="9" ItemID="1763747675" PTYPE="4" WIDTH="110" HEIGHT="9" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2d0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 9 L110 9 L110 0 L0 0 Z" copath="M0 0 L0 9 L110 9 L110 0 L0 0 Z" fillRule="0" gXpos="624.001" gYpos="6236.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Arial Regular" FONTSIZE="8" FEATURES="inherit" CH="8/10"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="7116.032" OwnPage="10" ItemID="1763741531" PTYPE="4" WIDTH="540" HEIGHT="180" FRTYPE="3" CLIPEDIT="1" ROT="270" PWIDTH="1" PLINEART="1" ANNAME="u2ec" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 180 L540 180 L540 0 L0 0 Z" copath="M0 0 L0 180 L540 180 L540 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="7116.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="24" FEATURES="inherit" CH="STORY OF KING SHAHRYAR "/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="28"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="24" FEATURES="inherit" CH="AND HIS BROTHER"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="0" LINESP="28"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="13" CH="IN THE NAME OF ALLAH, THE COMPASSIONATING, THE COMPASSIONATE!"/>
+                <para LINESPMode="0" LINESP="18"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="13" CH="Praise be to Allah—the beneficent king—the creator of the universe—lord of the three worlds—who set up the firmament without pillars in its stead—and who stretched out the earth even as a bed—and grace, and prayer-blessing be upon our lord Mohammed—lord of apostolic men—and upon his family and companion train—prayer and blessings enduring and grace which unto the day of doom shall remain—amen!—O thou of the three worlds sovereign!"/>
+                <para LINESPMode="0" LINESP="18"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="334.001" YPOS="7116.032" OwnPage="10" ItemID="1765994843" PTYPE="4" WIDTH="261" HEIGHT="486" FRTYPE="3" CLIPEDIT="1" ROT="270" PWIDTH="1" PLINEART="1" ANNAME="u302" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 486 L261 486 L261 0 L0 0 Z" copath="M0 0 L0 486 L261 486 L261 0 L0 0 Z" fillRule="0" gXpos="334.001" gYpos="7116.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1765314395" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="13" FONT="Klei Regular" FONTSIZE="10"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="AND AFTERWARD. Verily the works and words of those gone before us have become instances and examples to men of our modern day, that folk may view what admonishing chances befell other folk and may therefrom take warning; and that they may peruse the annals of antique peoples and all that hath betided them, and be thereby ruled and restrained. Praise, therefore, be to Him who hath made the histories of the past an admonition unto the present! Now of such instances are the tales called “A Thousand Nights and a Night,” together with their far-famed legends and wonders."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="Therein it is related (but Allah it is All-knowing of His hidden things and All-ruling and All-honored and All-giving and All-gracious and All-merciful!) that in tide of yore and in time long gone before, there was a King of the Kings of the Banu Sasan in the islands of India and China, a Lord of armies and guards and servants and dependents. He left only two sons, one in the prime of manhood and the other yet a youth, while both were knights and braves, albeit the elder was a doughtier horseman than the younger. So he succeeded to the empire, when he ruled the land and lorded it is over his lieges with justice so exemplary that he was beloved by all the peoples of his capital and of his kingdom. His name was King Shahryar, and he made his younger brother, Shah Zaman hight, King of Samarkand in Barbarian land. These two ceased not to abide in their several realms and the law was ever carried out in their dominions. And each ruled his own kingdom with equity and fair dealing to his subjects, in extreme solace and enjoyment, and this condition continually endured for a score of years."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="But at the end of the twentieth twelvemonth the elder King yearned for a sight of his younger brother and felt that he must look upon him once more. So he took counsel with his Wazir about visiting him, but the Minister, finding the project unadvisable, recommended that a letter be written and a present be sent under his charge to the younger brother, with an invitation to visit the elder. Having accepted this advice, the King forthwith bade prepare handsome gifts, such as horses with saddles of gem-encrusted gold; Mamelukes, or white slaves; beautiful handmaids, high-breasted virgins, and splendid stuffs and costly. He then wrote a letter to Shah Zaman expressing his warm love and great wish to see him, ending with these words: “We therefore hope of the favor and affection of the beloved brother that he will condescend to bestir himself and turn his face usward. Furthermore, we have sent our Wazir to make all ordinance for the march, and our one and only desire it is to see thee ere we die. But if thou delay or disappoint us, we shall not survive the blow. Wherewith peace be upon thee!”"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="Then King Shahryar, having sealed the missive and given it is to the Wazir with the offerings aforementioned, commanded him to shorten his skirts and strain his strength and make all expedition in going and returning. “Harkening and obedience!” quoth the Minister, who fell to making ready without stay and packed up his loads and prepared all his requisites without delay. This occupied him three days, and on the dawn of the fourth he took leave of his King and marched right away, over desert and hallway, stony waste and pleasant lea, without halting by night or by day. But whenever he entered a realm whose ruler was subject to his suzerain, where he was greeted with magnificent gifts of gold and silver and all manner of presents fair and rare, he would tarry there three days, the term of the guest rite. And when he left on the fourth, he would be honorably escorted for a whole day’s march."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="10" FEATURES="inherit" CH="As soon as the Wazir drew near Shah Zaman’s court in Samarkand he dispatched to report his arrival one of his high officials, who presented himself before the King and, kissing ground between his hands, delivered his message. Hereupon the King commanded sundry of his grandees and lords of his realm to fare forth and meet his brother’s Wazir at the"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="0" LINESP="13"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="334.001" YPOS="6837.032" OwnPage="10" ItemID="1765314395" PTYPE="4" WIDTH="261" HEIGHT="486" FRTYPE="3" CLIPEDIT="1" ROT="270" PWIDTH="0" PLINEART="1" ANNAME="u318" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 486 L261 486 L261 0 L0 0 Z" copath="M0 0 L0 486 L261 486 L261 0 L0 0 Z" fillRule="0" gXpos="334.001" gYpos="6837.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1765994843"/>
+        <PAGEOBJECT XPOS="839.201" YPOS="6855.632" OwnPage="10" ItemID="1766387547" PTYPE="4" WIDTH="18.6" HEIGHT="16.8000000000001" FRTYPE="3" CLIPEDIT="1" ROT="270" PWIDTH="0" PLINEART="1" ANNAME="u32e" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 16.8 L18.6 16.8 L18.6 0 L0 0 Z" copath="M0 0 L0 16.8 L18.6 16.8 L18.6 0 L0 0 Z" fillRule="0" gXpos="839.201" gYpos="6855.632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Klei Regular" FEATURES="inherit" CH="2"/>
+                <para PARENT="NormalParagraphStyle" ALIGN="1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
