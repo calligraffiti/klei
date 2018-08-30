@@ -13,14 +13,21 @@ My hope is that this font will fill a very real need for well drawn and complete
 
 The Klei.sfd folder contains the native FontForge source files.
 ```
-├── specimens        // Type samples
-|   ├── latin_proofs // .idml and .pdf proofs
-├── fonts            // Compiled OTF fonts
-|   ├── otf          // .otf font files
-|   ├── ttf          // .ttf font files
-|   ├── web          // .woff web files
-├── klei.sfd         // FontForge masters
-├── LICENCE.md       // OFL license info
+├── specimens                 // Type samples
+|   ├── latin_proofs          // .sla, .idml and .pdf proofs
+|   |   ├── baseline          // basic proofs
+|   |   ├── comparisons       // regular vs. italic proofs
+|   |   ├── diacritical_marks // diacritics
+|   |   ├── miscellaneous     // common words
+|   |   ├── mockups           // book proofs no-typsetting
+|   |   ├── prototyping       // aphabets
+|   |   ├── QA                // 'final' proof
+├── fonts                     // Compiled OTF fonts
+|   ├── otf                   // .otf font files
+|   ├── ttf                   // .ttf font files
+|   ├── web                   // .woff web files
+├── klei.sfd                  // FontForge masters
+├── LICENCE.md                // OFL license info
 ├── README.md
 ```
 
@@ -49,6 +56,6 @@ Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
 
 We would really welcome any help finishing and extending Klei. We would especially welcome any help with Greek and Cyrillic glyphs and testing on different platforms.
 
-Special thanks to James Puckett [DunwichType](https://github.com/DunwichType) for making his DTF_Proofs available. They were invaluable for refining this typeface.
+Special thanks to James Puckett [DunwichType](https://github.com/DunwichType) for making his DTF_Proofs available. They continue to prove invaluable in the continuing effort to refine this typeface.
 
 ![Klei Dickens sample](https://raw.githubusercontent.com/Rocketroom/klei/master/specimens/klei_samp1.jpg)
