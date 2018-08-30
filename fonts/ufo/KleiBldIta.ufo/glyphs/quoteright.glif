@@ -23,7 +23,8 @@
       <point x="197.631" y="573.507"/>
       <point x="205.239" y="603.94" type="curve"/>
       <point x="205.623" y="603.844"/>
-      <point x="207.013" y="616.674" type="line" smooth="yes"/>
+      <point x="207.013" y="616.674"/>
+      <point x="207.013" y="616.674" type="curve" smooth="yes"/>
       <point x="207.013" y="628.906"/>
       <point x="159.389" y="629.328"/>
     </contour>
@@ -39,15 +40,6 @@
             <integer>481</integer>
             <key>width</key>
             <integer>262</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>207</integer>
-            <key>width</key>
-            <integer>76</integer>
           </dict>
         </array>
       </dict>

@@ -311,7 +311,9 @@ feature kern {
 	\section \sterling \uni0081 \uni007F \uni0080 \uni0082 \uni0083 \Lslash \lslash 
 	\kgreenlandic \IJ \ij \uni20BA \uni20B9 \ordfeminine \fraction \minus 
 	\ordmasculine \uni201F \quotedblbase \quotereversed \quotesinglbase 
-	\underscoredbl ];
+	\exclamdown \uni2120 \uni2121 \trademark \uni2116 \prescription \uni0302 
+	\uni0307 \uni0308 \dotbelowcomb \uni030C \uni030A \uni0326 \uni0327 \uni0304 
+	\uni0305 ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

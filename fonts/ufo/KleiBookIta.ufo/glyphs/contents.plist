@@ -1354,5 +1354,43 @@
     <string>quotesinglbase.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
+    <key>trademark</key>
+    <string>trademark.glif</string>
+    <key>uni2123</key>
+    <string>uni2123.glif</string>
+    <key>uni2124</key>
+    <string>uni2124.glif</string>
+    <key>uni2125</key>
+    <string>uni2125.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
+    <key>uni2120</key>
+    <string>uni2120.glif</string>
+    <key>uni2121</key>
+    <string>uni2121.glif</string>
+    <key>prescription</key>
+    <string>prescription.glif</string>
+    <key>uni0302</key>
+    <string>uni0302.glif</string>
+    <key>uni0307</key>
+    <string>uni0307.glif</string>
+    <key>uni0308</key>
+    <string>uni0308.glif</string>
+    <key>dotbelowcomb</key>
+    <string>dotbelowcomb.glif</string>
+    <key>uni0304</key>
+    <string>uni0304.glif</string>
+    <key>uni0305</key>
+    <string>uni0305.glif</string>
+    <key>uni030C</key>
+    <string>uni030C_.glif</string>
+    <key>uni030A</key>
+    <string>uni030A_.glif</string>
+    <key>uni0326</key>
+    <string>uni0326.glif</string>
+    <key>uni0327</key>
+    <string>uni0327.glif</string>
   </dict>
 </plist>

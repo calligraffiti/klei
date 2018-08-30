@@ -382,7 +382,10 @@ feature kern {
 	\uni01CC \uni01F1 \uni01F2 \uni01F3 \uni007F \uni0080 \uni0081 \uni0083 \uni0082 
 	\uni0085 \uni0086 \IJ \ij \oe \uni0335 \OE \paragraph \Euro \yen \section \sterling 
 	\uniFB05 \uniFB06 \uni20BA \uni20B9 \ordfeminine \fraction \minus \ordmasculine 
-	\uni201F \quotedblbase \quotereversed \quotesinglbase \eth ];
+	\uni201F \quotedblbase \quotereversed \quotesinglbase \eth \exclamdown 
+	\trademark \uni2123 \uni2124 \uni2125 \Omega \uni2120 \uni2121 \prescription 
+	\uni0302 \uni0307 \uni0308 \dotbelowcomb \uni0304 \uni0305 \uni030C \uni030A 
+	\uni0326 \uni0327 ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

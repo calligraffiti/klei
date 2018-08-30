@@ -1,31 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="240"/>
+  <advance width="238"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="63" y="38" type="curve" smooth="yes"/>
-      <point x="63" y="70.3835"/>
-      <point x="93.3653" y="98"/>
-      <point x="126" y="98" type="curve" smooth="yes"/>
-      <point x="159.976" y="98"/>
-      <point x="185" y="69.884"/>
-      <point x="185" y="41" type="curve" smooth="yes"/>
-      <point x="185" y="-36.451"/>
-      <point x="143.377" y="-86"/>
-      <point x="86" y="-86" type="curve" smooth="yes"/>
-      <point x="70.1475" y="-86"/>
-      <point x="63.1095" y="-81.8577"/>
-      <point x="60.4264" y="-80.5686" type="curve"/>
-      <point x="45" y="-60" type="line"/>
-      <point x="66.908" y="-60"/>
-      <point x="104" y="-53.013"/>
-      <point x="104" y="-27" type="curve" smooth="yes"/>
-      <point x="104" y="-23.5962"/>
-      <point x="102.398" y="-20.2979"/>
-      <point x="98.1209" y="-16.0204" type="curve"/>
-      <point x="82.0253" y="-0.818976"/>
-      <point x="63" y="6.41484"/>
+      <point x="35.7334" y="51.2119" type="curve" smooth="yes"/>
+      <point x="35.7334" y="91.5303"/>
+      <point x="73.5391" y="125.914"/>
+      <point x="114.17" y="125.914" type="curve" smooth="yes"/>
+      <point x="156.471" y="125.914"/>
+      <point x="187.626" y="90.9082"/>
+      <point x="187.626" y="54.9473" type="curve" smooth="yes"/>
+      <point x="187.626" y="53.7021" type="line" smooth="yes"/>
+      <point x="187.626" y="-62.6475"/>
+      <point x="132.216" y="-100.682"/>
+      <point x="33.2891" y="-100.682" type="curve"/>
+      <point x="15.3604" y="-70.8008" type="line"/>
+      <point x="41.6309" y="-70.8008"/>
+      <point x="86.7793" y="-61.2236"/>
+      <point x="86.7793" y="-29.7148" type="curve" smooth="yes"/>
+      <point x="86.7793" y="-25.4775"/>
+      <point x="84.7852" y="-21.3711"/>
+      <point x="79.46" y="-16.0449" type="curve"/>
+      <point x="59.4209" y="2.88086"/>
+      <point x="35.7334" y="11.8877"/>
     </contour>
   </outline>
   <lib>
@@ -36,18 +34,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-86</integer>
+            <integer>-101</integer>
             <key>width</key>
-            <integer>26</integer>
+            <integer>30</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>104</integer>
+            <integer>36</integer>
             <key>width</key>
-            <integer>81</integer>
+            <integer>152</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>87</integer>
+            <key>width</key>
+            <integer>101</integer>
           </dict>
         </array>
       </dict>

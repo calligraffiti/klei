@@ -3,8 +3,8 @@
   <advance width="406"/>
   <unicode hex="00B1"/>
   <outline>
-    <component base="hyphen" xScale="0.9" yScale="0.9" xOffset="22.3" yOffset="-99.35"/>
-    <component base="plus" xScale="0.9" yScale="0.9" xOffset="20.3" yOffset="129.65"/>
+    <component base="hyphen" xScale="0.9" yScale="0.9" xOffset="22.3" yOffset="-104.35"/>
+    <component base="plus" xScale="0.9" yScale="0.9" xOffset="20.3" yOffset="134.65"/>
   </outline>
   <lib>
     <dict>
@@ -14,13 +14,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>129</integer>
+            <integer>119</integer>
             <key>width</key>
-            <integer>79</integer>
+            <integer>88</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>354</integer>
+            <integer>359</integer>
             <key>width</key>
             <integer>88</integer>
           </dict>
@@ -29,9 +29,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>85</integer>
+            <integer>75</integer>
             <key>width</key>
-            <integer>256</integer>
+            <integer>280</integer>
           </dict>
           <dict>
             <key>position</key>

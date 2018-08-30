@@ -17,28 +17,28 @@
             <key>position</key>
             <integer>-18</integer>
             <key>width</key>
-            <integer>116</integer>
+            <integer>148</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>53</integer>
+            <integer>36</integer>
             <key>width</key>
-            <integer>117</integer>
+            <integer>152</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>277</integer>
+            <integer>260</integer>
             <key>width</key>
-            <integer>117</integer>
+            <integer>152</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>501</integer>
+            <integer>484</integer>
             <key>width</key>
-            <integer>117</integer>
+            <integer>152</integer>
           </dict>
         </array>
       </dict>

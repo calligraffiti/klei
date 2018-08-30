@@ -4,18 +4,18 @@
   <unicode hex="003B"/>
   <outline>
     <contour>
-      <point x="61" y="406" type="curve" smooth="yes"/>
-      <point x="61" y="437.943"/>
-      <point x="87.2241" y="464"/>
-      <point x="120" y="464" type="curve" smooth="yes"/>
-      <point x="151.881" y="464"/>
-      <point x="178" y="437.881"/>
-      <point x="178" y="406" type="curve" smooth="yes"/>
-      <point x="178" y="373.095"/>
-      <point x="151.759" y="348"/>
-      <point x="120" y="348" type="curve" smooth="yes"/>
-      <point x="87.3457" y="348"/>
-      <point x="61" y="373.033"/>
+      <point x="118.918" y="340.294" type="curve" smooth="yes"/>
+      <point x="84.8291" y="340.294"/>
+      <point x="57.1924" y="367.931"/>
+      <point x="57.1924" y="402.02" type="curve" smooth="yes"/>
+      <point x="57.1924" y="436.108"/>
+      <point x="84.8281" y="463.746"/>
+      <point x="118.918" y="463.746" type="curve" smooth="yes"/>
+      <point x="153.007" y="463.746"/>
+      <point x="180.644" y="436.108"/>
+      <point x="180.644" y="402.02" type="curve" smooth="yes"/>
+      <point x="180.644" y="367.931"/>
+      <point x="153.007" y="340.294"/>
     </contour>
     <contour>
       <point x="61" y="38" type="curve" smooth="yes"/>
@@ -54,18 +54,18 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>348</integer>
+            <integer>340</integer>
             <key>width</key>
-            <integer>116</integer>
+            <integer>123</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>61</integer>
+            <integer>57</integer>
             <key>width</key>
-            <integer>117</integer>
+            <integer>123</integer>
           </dict>
           <dict>
             <key>position</key>

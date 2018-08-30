@@ -310,7 +310,10 @@ feature kern {
 	\uni01CC \uni01F1 \uni01F2 \uni01F3 \paragraph \periodcentered \Euro \yen 
 	\section \sterling \uni0081 \uni007F \uni0080 \uni0082 \uni0083 \Lslash \lslash 
 	\kgreenlandic \IJ \ij \uni20B9 \uni20BA \ordfeminine \fraction \minus 
-	\ordmasculine \quotesinglbase \quotereversed \quotedblbase \uni201F \eth ];
+	\ordmasculine \quotesinglbase \quotereversed \quotedblbase \uni201F \eth 
+	\exclamdown \uni2120 \uni2121 \trademark \uni2116 \prescription \uni0302 
+	\uni0307 \uni0308 \dotbelowcomb \uni0304 \uni0305 \uni030C \uni030A \uni0326 
+	\uni0327 ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

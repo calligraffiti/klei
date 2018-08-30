@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onedotenleader" format="1">
-  <advance width="224"/>
+  <advance width="228"/>
   <unicode hex="2024"/>
   <outline>
     <component base="period"/>
@@ -15,16 +15,16 @@
             <key>position</key>
             <integer>-18</integer>
             <key>width</key>
-            <integer>116</integer>
+            <integer>123</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>53</integer>
+            <integer>50</integer>
             <key>width</key>
-            <integer>117</integer>
+            <integer>123</integer>
           </dict>
         </array>
       </dict>
