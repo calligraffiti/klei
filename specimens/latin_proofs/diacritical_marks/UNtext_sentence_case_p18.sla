@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.4">
+    <DOCUMENT ANZPAGES="14" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Custom" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="2" ABSTSPALTEN="13" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20.002" MAJGRID="100.001" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.002" ScratchLeft="100.001" ScratchRight="100.001" ScratchTop="20.002" GapHorizontal="0" GapVertical="40.003" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.001" dispY="10.001" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="0 1 2 3 4" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="C=0 M=0 Y=100 K=0" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <COLOR NAME="C=0 M=100 Y=0 K=0" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=0 Y=0 K=0" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="C=100 M=90 Y=10 K=0" SPACE="CMYK" C="100" M="90" Y="10" K="0"/>
+        <COLOR NAME="C=15 M=100 Y=100 K=0" SPACE="CMYK" C="15" M="100" Y="100" K="0"/>
+        <COLOR NAME="C=75 M=5 Y=100 K=0" SPACE="CMYK" C="75" M="5" Y="100" K="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <Gradient Name="u7d" Ext="3">
+            <CSTOP RAMP="0" NAME="White" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
+        </Gradient>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="[No paragraph style]" PARENT="Default Paragraph Style" ALIGN="0" LINESPMode="1" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="0" FONT="Times Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" TXTULP="-0.1" TXTSTP="-0.1" BASEO="0"/>
+        <STYLE NAME="NormalParagraphStyle" PARENT="[No paragraph style]" LINESPMode="1" FONT="Arial Regular" FEATURES="inherit"/>
+        <STYLE NAME="stuff" PARENT="[No paragraph style]" LINESPMode="1" FONT="Times New Roman Regular" FEATURES="inherit"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="[No character style]" CPARENT="Default Character Style" FONT="Arial Regular" FEATURES="inherit"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Layer 1" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="0" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="0" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="0" PSLevel="0" PDLanguage="0" markLength="0" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="1" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <LPI Color="" Frequency="0" Angle="0" SpotFunction="0"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="13" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="ub0_ub5" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="20.002" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="0" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="672.005" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="1" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1324.008" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="2" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="1976.011" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="3" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="2628.014" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="4" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3280.017" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="5" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="3932.02" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="6" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="4584.023" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="7" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="5236.026" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="8" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="5888.029" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="9" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="6540.032" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="10" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="7192.035" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="11" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="7844.038" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="12" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.001" PAGEYPOS="8496.041" PAGEWIDTH="792" PAGEHEIGHT="612" BORDERLEFT="36" BORDERRIGHT="36" BORDERTOP="36" BORDERBOTTOM="36" NUM="13" NAM="" MNAM="ub0_ub5" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="136.001" YPOS="56.002" OwnPage="0" ItemID="1772400987" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="ufd" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" OnMasterPage="ub0_ub5" fillRule="0" gXpos="136.001" gYpos="46041899.8499983" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1771906395" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <MASTEROBJECT XPOS="505.001" YPOS="56.002" OwnPage="0" ItemID="1771906395" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u113" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" OnMasterPage="ub0_ub5" fillRule="0" gXpos="505.001" gYpos="46041899.8499983" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1772400987"/>
+        <MASTEROBJECT XPOS="503.715285714286" YPOS="596.002" OwnPage="0" ItemID="1771264347" PTYPE="4" WIDTH="352.285714285714" HEIGHT="20.8571428571428" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u129" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 20.8571 L352.286 20.8571 L352.286 0 L0 0 Z" copath="M0 0 L0 20.8571 L352.286 20.8571 L352.286 0 L0 0 Z" OnMasterPage="ub0_ub5" fillRule="0" gXpos="503.715285714286" gYpos="46042439.8499983" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="8"/>
+                <var name="pgno" FONT="Myriad Pro Regular" FONTSIZE="8" FEATURES="inherit"/>
+                <ITEXT FONT="Myriad Pro Regular" FONTSIZE="8" FEATURES="inherit" CH=" of"/>
+                <ITEXT FONTSIZE="8" CH=" 14"/>
+                <para PARENT="stuff" ALIGN="2" LINESPMode="1"/>
+            </StoryText>
+        </MASTEROBJECT>
+        <PAGEOBJECT XPOS="136.001" YPOS="56.002" OwnPage="0" ItemID="1771432283" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u145" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="56.002" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1771018075" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Article 26 of the Universal Declaration of Human Rights"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="English"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Parents have a prior right to choose the kind of education that shall be given to their children."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Afrikaans"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Elkeen het die reg tot opvoeding. Opvoeding sal gratis wees, ten minste in die elementêre en fundamentele stadiums. Elementêre opvoeding sal verpligtend wees. Tegniese en professionele opvoeding sal geredelik beskikbaar wees en ho’r opvoeding sal net so geredelik op meriete beskikbaar wees."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Opvoeding sal gemik wees op die volle ontwikkeling van die menslike persoonlikheid en op die bevordering van respek vir menseregte en fundamentele vryheid. Dit sal begrip, verdraagsaamheid en vriendskap tussen alle nasies, rasse of etniese groepe bevorder, asook die aktiwiteite van die Verenigde Volke in die handhawing van vrede."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Ouers het die reg om te kies watter tipe opvoeding hulle kinders ontvang."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Basque"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Pertsona orok du hezkuntzaeskubidea. Hezkuntza dohainekoa izango da oinarrizko ikasketei dagokienez behintzat. Oinarrizko ikasketak egitea derrigorrezkoa izango da; heziketa teknikoa eta lanbiderakoa, orokorra; eta denek izango dute goimailako ikasketak egiteko aukera bera, norberaren merezimenduen arabera."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Hezkuntzaren helburua giza nortasuna guztiz garatzea izango da eta giza eskubideen eta oinarrizko askatasunen errespetua indartzea; herrialde, arraza eta erlijio guztien arteko elkarulertze, jasankortasun eta adiskidetasunaren alde egingo du; eta Nazio Batuen iharduna bultzatuko du, bakeak iraun dezan."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Gurasoek lehentasunezko eskubidea izango dute semealabei emango zaien hezkuntza mota aukeratzeko."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Breton"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Pep den en deus gwir da gaout deskadurezh. Digoust e tle bezañ an deskadurezh, da vihanañ an deskadurezh kentañ ha diazez. Ret ha dleet eo ar gelennadurezh kentañ. D’an holl e tle bezañ kinniget ar gelennadurezh teknikel ha micherel, d’an holl e vo roet tu d’ober studioù uhel hervez o dellid."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Pal an deskadurezh eo diorren personelezh mabden ha lakaat doujañ muioc’h gwirioù mabden hag ar frankizioù diazez. Drezi e klaskor kreskiñ ar c’hengompren, an habaskted hag ar vignoniezh etre an holl vroadoù hag an holl strolladoù a ouenn pe a relijion disheñvel, hag ivez kas warraok obererezh ar BroadoùUnanet evit derc’hel ar peoc’h."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. An tadoù ha mammoù, da gentañ, o deus gwir da zibab an doare deskadurezh a vo roet d’o bugale."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Catalan"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Tota persona té dret a l’educació. L’educació serà gratuïta, si més no, en la instrucció elemental i fonamental. La instrucció elemental serà obligatòria. L’ensenyament tècnic i professional es posarà a l’abast de tothom, i l’accés a l’ensenyament superior serà igual per a tots en funció dels mèrits respectius."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. L’educació tendirà al ple desenvolupament de la personalitat humana i a l’enfortiment del respecte als drets humans i a les llibertats fonamentals; promourà la comprensió, la tolerància i l’amistat entre totes les nacions i grups ètnics o religiosos, i fomentarà les activitats de les Nacions Unides per al manteniment de la pau."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. El pare i la mare tenen dret preferent d’escollir la mena d’educació que serà donada als seus fills."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Croation"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Svatko ima pravo na obrazovanje. Obrazovanje mora biti besplatno, bar u osnovnim i nižim stupnjevima. Osnovno obrazovanje mora biti obvezatno. Tehničko i stručno obrazovanje mora biti općenito pristupačno,a više obrazovanje također mora biti pristupačno svima rta osnovi sposobnosti."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH=" 2. Obrazovanje mora biti usmjereno punom razvitku ljudske osobe i na učvršćenje poštovanjačovjekovih prava i osnovnih sloboda. Ono mora unapređivati razumijevanje, snošljivost iprijateljstvo među svim narodima, rasnim i vjerskim skupinama i mora unapređivati djelatnost Ujedinjenih naroda na održanju mira."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Roditelji imaju prvenstveno pravo birati vrstu obrazovanja za svoju djecu."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Czech"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Každý má právo na vzdělání. Vzdělání nechť je bezplatné, alespoň v počátečních a základních stupních. Základní vzdělání je povinné. Technické a odborné vzdělání budiž všeobecně přístupné a rovněž vyšší vzdělání má být stejně přístupné všem podle schopností."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Vzdělání má směřovat k plnému rozvoji lidské osobnosti a k posílení úcty k lidským právům a základním svobodám. Má napomáhat k vzájemnému porozumění, snášenlivosti a přátelství mezi všemi národy a všemi skupinami rasovými i náboženskými, jakož i k rozvoji činnosti Spojených národů pro zachování míru."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Rodiče mají přednostní právo volit druh vzdělání pro své děti."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Danish"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Enhver har ret til undervisning. Undervisningen skal være gratis, i det mindste på de elementære og grundlæggende trin. Elementær undervisning skal være obligatorisk. Teknisk og faglig uddannelse skal gøres almindelig tilgængelig for alle, og på grundlag af evner skal der være lige adgang for alle til højere undervisning."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Undervisningen skal tage sigte på den menneskelige personligheds fulde udvikling og på at styrke respekten for menneskerettigheder og grundlæggende friheder. Den skal fremme forståelse, tolerance og venskab mellem alle nationer og racemæssige og religiøse grupper, og den skal fremme De forenede Nationers arbejde til fredens bevarelse."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Forældre har førsteret til at vælge den form for undervisning, som deres børn skal have."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Dutch"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Een ieder heeft recht op onderwijs; het onderwijs zal kosteloos zijn, althans wat het lager en basisonderwijs betreft. Het lager onderwijs zal verplicht zijn. Ambachtsonderwijs en beroepsopleiding zullen algemeen beschikbaar worden gesteld. Hoger onderwijs zal openstaan voor een ieder, die daartoe de begaafdheid bezit."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Het onderwijs zal gericht zijn op de volle ontwikkeling van de menselijke persoonlijkheid en op de versterking van de eerbied voor de rechten van de mens en de vrijheden. Het zal het begrip, de verdraagzaamheid en de vriendschap onder alle naties, rassen of godsdienstige groepen bevorderen en het zal de werkzaamheden van de Verenigde Naties voor de handhaving van de vrede steunen."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Aan de ouders komt in de eerste plaats het recht toe om de soort van opvoeding en onderwijs te kiezen, welke aan hun kinderen zal worden gegeven."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Estonian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Igal inimesel on õigus haridusele. Haridus peab olema tasuta vähemalt alg ja üldhariduse osas. Algharidus peab olema kohustuslik. Tehniline ja kutseharidus peab olema kättesaadav kõigile ja kõrgem haridus võrdselt kättesaadav kõigile vastavalt igaühe võimetele. "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Haridus peab olema suunatud inimisiksuse täielikule arendamisele ja inimõigustest ning põhivabadustest lugupidamise suurendamisele. Haridus peab kaasa aitama vastastikusele mõistmisele, sallivusele ja sõprusele kõigi rahavaste, rassilise ja usuliste rühmituste vahel ning soodustama Ühinenud Rahvaste Organisatsiooni tegevust rahu säilitamisel. "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Vanematel on oma laste hariduse valikul eesõigus."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Finnish"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Jokaisella on oikeus saada opetusta. Opetuksen on oltava ainakin alkeis ja perusopetuksen osalta maksutonta. Alkeisopetuksen on oltava pakollinen. Teknistä ja ammattiopetusta on oltava yleisesti saatavilla, ja korkeamman opetuksen on oltava avoinna yhtäläisesti kaikille heidän kykyjensä mukaan."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Opetuksen on pyrittävä ihmisen persoonallisuuden täyteen kehittämiseen sekä ihmisoikeuksien ja perusvapauksien kunnioittamisen vahvistamiseen. Sen tulee edistää ymmärtämystä, suvaitsevaisuutta ja ystävyyttä kaikkien kansakuntien ja kaikkien rotu ja uskontoryhmien kesken sekä pyrkiä edistämään Yhdistyneiden Kansakuntien toimintaa rauhan ylläpitämiseksi."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Vanhemmilla on ensisijainen oikeus valita heidän lapsilleen annettavan opetuksen laatu."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="French"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Toute personne a droit à l’éducation. L’éducation doit être gratuite, au moins en ce qui concerne l’enseignement élémentaire et fondamental. L’enseignement élémentaire est obligatoire. L’enseignement technique et professionnel doit être généralisé; l’accès aux études supérieures doit être ouvert en pleine égalité à tous en fonction de leur mérite."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. L’éducation doit viser au plein épanouissement de la personnalité humaine et au renforcement du respect des droits de l’homme et des libertés fondamentales. Elle doit favoriser la compréhension, la tolérance et l’amitié entre toutes les nations et tous les groupes raciaux ou religieux, ainsi que le développement des activités des Nations Unies pour le maintien de la paix."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Les parents ont, par priorité, le droit de choisir le genre d’éducation à donner à leurs enfants."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Gaelic"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Tá ag gach uile dhuine an ceart chun an oideachais. Bhéarfar an toideachas in aisce, sna céimeanna tosaigh agus bunaidh ach go háirithe. Beidh an bunoideachas éigeantach. Cuirfear an toideachas teicniúil agus gairmiúil ar fáil go comhchoiteann; beidh combrochtain do réir fiúntais ag gach uile dhuine ar an árdoideachas."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Beidh de chuspóir ag an oideachas pearsantacht an duine d’fhorbairt ina hiomláinte agus urraim a neartú do chearta an duine agus do no saoirsí bunaidh. Cothóidh sé an chomhthuiscint, an caonfhulaing agus and caradas idir an náisiúin agus na ciní agus na haicmí creidimh uile, agus cabhróidh sé le bearta na Náisiún Aontuithe do chaomhnadh na síochána."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Tá ag na tuismitheoirí, i dtosach ar chách eile, an ceart chun an cineál oideachais a thoghadh a bhéarfar dá leanaí"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="German"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Jeder hat das Recht auf Bildung. Die Bildung ist unentgeltlich, zum mindesten der Grundschulunterricht und die grundlegende Bildung. Der Grundschulunterricht ist obligatorisch. Fach und Berufsschulunterricht müssen allgemein verfügbar gemacht werden, und der Hochschulunterricht muß allen gleichermaßen entsprechend ihren Fähigkeiten offenstehen."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Die Bildung muß auf die volle Entfaltung der menschlichen Persönlichkeit und auf die Stärkung der Achtung vor den Menschenrechten und Grundfreiheiten gerichtet sein. Sie muß zu Verständnis, Toleranz und Freundschaft zwischen allen Nationen und allen rassischen oder religiösen Gruppen beitragen und der Tätigkeit der Vereinten Nationen für die Wahrung des Friedens förderlich sein."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Die Eltern haben ein vorrangiges Recht, die Art der Bildung zu wählen, die ihren Kindern zuteil werden soll."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Hungarian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Minden személynek joga van a neveléshez. A nevelésnek, legalábbis az elemi és alapvető oktatást illetően, ingyenesnek kell lennie. Az elemi oktatás kötelező. A technikai és szakoktatást általánossá kell tenni; a felsőbb tanulmányokra való felvételnek mindenki előtt érdeméhez képest egyenlő feltételek mellett nyitva kell állnia."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. A nevelésnek az emberi személyiség teljes kibontakoztatására, valamint az emberi jogok és alapvető szabadságok tiszteletbentartásának megerősítésére kell irányulnia. A nevelésnek elő kell segítenie a nemzetek, valamint az összes faji és vallási csoportok közötti megértést, türelmet és barátságot, valamint az Egyesült Nemzetek által a béke fenntartásának érdekében kifejtett tevékenység kifejlődését."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. A szülőket elsőbbségi jog illeti meg a gyermekeiknek adandó nevelés megválasztásában."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Icelandic"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Hver maður á rétt til menntunar. Skal hún veitt ókeypis, að minnsta kosti barnafræðsla og undirstöðummentu. Börn skulu vera skólaskyld. Iðnaðar og verknám skal öllum standa til boða og æðri menntu vera öllum jafnfrjáls, þeim er hæfileika hafa til að njóta hennar."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Menntun skal beina í þá átt að þroska persónuleika einstaklinganna og innræta þeim virðingu fyrir mannréttindum og mannhelgi. Hún skal miða að því að efla skilning, umburðarlyndi og vináttu meðal allra þjóða, kynþátta og trúarflokka og að efla starf Sameinuðu þjóðanna í þágu friðarins."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Foreldrar skulu fremur öðrum ráða, hverrar menntunar börn þeirra skuli njóta."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Indonesian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Setiap orang berhak mendapat pendidikan. Pendidikan harus gratis, setidaktidaknya untuk tingkat sekolah rendah dan pendidikan dasar. Pendidikan rendah harus diwajibkan. Pendidikan teknik dan jurusan secara umum harus terbuka bagi semua orang, dan pengajaran tinggi harus secara adil dapat diakses oleh semua orang, berdasarkan kepantasan."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Pendidikan harus ditujukan ke arah perkembangan pribadi yang seluasluasnya serta memperkokoh rasa penghargaan terhadap hakhak manusia dan kebebasan asasi. Pendidikan harus menggalakkan saling pengertian, toleransi dan persahabatan di antara semua bangsa, kelompok ras maupun agama, serta harus memajukan kegiatan Perserikatan BangsaBangsa dalam memelihara perdamaian."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Orangtua mempunyai hak utama untuk memilih jenis pendidikan yang akan diberikan kepada anakanak mereka."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Italian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Ogni individuo ha diritto all’istruzione. L’istruzione deve essere gratuita almeno per quanto riguarda le classi elementari e fondamentali. L’istruzione elementare deve essere obbligatoria. L’istruzione tecnica e professionale deve essere messa alla portata di tutti e l’istruzione superiore deve essere egualmente accessibile a tutti sulla base del merito. "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. L’istruzione deve essere indirizzata al pieno sviluppo della personalità umana ed al rafforzamento del rispetto dei diritti umani e delle libertà fondamentali. Essa deve promuovere la comprensione, la tolleranza, l’amicizia fra tutte le Nazioni, i gruppi razziali e religiosi, e deve favorire l’opera delle Nazioni Unite per il mantenimento della pace. "/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. I genitori hanno diritto di priorità nella scelta del genere di istruzione da impartire ai loro figli."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Latvian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Katram cilvēkam ir tiesības uz izglītību. Izglītībai, vismaz pamata un vispārējai izglītībai, ir jābūt bezmaksas. Pamatizglītībai ir jābūt obligātai. Tehniskajai un profesionālajai izglītībai ir jābūt visiem pieejamai, un augstākai izglītībai jābūt vienādi pieejamai visiem atbilstoši katra spējām."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Izglītības mērķim jābūt pilnīgai personības attīstībai, un tai jāstiprina cilvēktiesību un pamatbrīvību ievērošana. Izglītībai ir jāveicina savstarpējā saprašanās, iecietība un draudzība starp visām tautām, rasu un reliģiskajām grupām un Apvienoto Nāciju Organizācijas darbība miera uzturēšanā."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Izglìtìbai ir jâsekmè sapraøanâs, iecietìba un draudzìba starp visâm tautâm, rasu vai reliåiskajâm grupâm un jâsekmè Apvienoto Nâciju Organizâcijas miera uzturèøanas pasâkumi."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Lithuanian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Kiekvienas turi teisę į mokslą. Mokslas, bent jau pradinio ir pagrindinio išsilavinimo lygmenų, yra nemokamas. Pradinis mokslas yra privalomas. Techninis ir profesinis mokymas yra visuotinai prieinamas, o aukštasis mokslas vienodai prieinamas visiems pagal kiekvieno sugebėjimus."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Mokslas yra skirtas tam, kad visais atžvilgiais būtų ugdoma žmogaus asmenybė ir kad būtų didinama pagarba žmogaus teisėms ir pagrindinėms laisvėms. Jis turi skatinti visų tautų, rasinių arba religinių grupių savitarpio supratimą, pakantumą ir draugystę, taip pat turi padėti toliau plėtoti Jungtinių Tautų taikos palaikymo veiklą."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Tėvai turi pirmumo teisę parinkti savo vaikams mokymą."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Norwegian, Nyorsk"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Alle har rett til undervisning. Opplæringa skal vere kostnadsfri, i det minste i den allmenne grunnskulen. Den elementære undervisninga skal vere pliktig for alle. Alle skal ha høve til å få fagopplæring, og det skal vere like vilkår for alle til å få høgre utdaning, alt etter dei evnene dei har."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Undervisninga skal ha til mål å styrkje den menneskelege personlegdomen og auke vørdnaden for menneskerettane og den grunnleggjande fridomen, fremje skjønsemd, toleranse og venskap mellom alle nasjonar, folkeslag og religiøse grupper og stø fredsarbeidet til Dei Sameinte Nasjonane."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Foreldra har førsteretten til å velje kva slag opplæring barna deira skal få."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Polish"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Każdy człowiek ma prawo do nauki. Nauka jest bezpłatna, przynajmniej na stopniu podstawowym. Nauka podstawowa jest obowiązkowa. Oświata techniczna i zawodowa jest powszechnie dostępna, a studia wyższe są dostępne dla wszystkich na zasadzie równości w zależności od zalet osobistych."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Celem nauczania jest pełny rozwój osobowości ludzkiej i ugruntowanie poszanowania praw człowieka i podstawowych wolności. Krzewi ono zrozumienie, tolerancję i przyjaźń między wszystkimi narodami, grupami rasowymi lub religijnymi; popiera działalność Organizacji Narodów Zjednoczonych zmierzającą do utrzymania pokoju."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Rodzice mają prawo pierwszeństwa w wvborze nauczania, które ma być dane ich dzieciom."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Portuguese"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Toda a pessoa tem direito à educação. A educação deve ser gratuita, pelo menos a correspondente ao ensino elementar fundamental. O ensino elementar é obrigatório. O ensino técnico e profissional dever ser generalizado; o acesso aos estudos superiores deve estar aberto a todos em plena igualdade, em função do seu mérito."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. A educação deve visar à plena expansão da personalidade humana e ao reforço dos direitos humanos e das liberdades fundamentais e deve favorecer a compreensão, a tolerância e a amizade entre todas as nações e todos os grupos raciais ou religiosos, bem como o desenvolvimento das actividades das Nações Unidas para a manutenção da paz."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Aos pais pertence a prioridade do direito de escholher o género de educação a dar aos filhos."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Romanian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Orice persoana are dreptul la învăţătură. Invăţămîntul trebuie să fie gratuit, cel puţin în ceea ce priveşte invăţămîntul elementar şi general. Invăţămîntul elementar trebuie să fie obligatoriu. Invăţămîntul tehnic şi profesional trebuie să fie la îndemîna tuturor, iar învăţămîntul superior trebuie să fie de asemenea egal, accesibil tuturora, pe bază de merit."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Învăţămîntul trebuie să urmărească dezvoltarea deplină a personalităţii umane şi întărirea respectului faţă de drepturile omului şi libertăţile fundamentale. El trebuie să promoveze înţelegerea, toleranţa, prietenia între toate popoarele şi toate grupurile rasiale sau religioase, precum şi dezvoltarea activităţii Organizaţiei Naţiunilor Unite pentru menţirenea păcii."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Părinţii au dreptul de prioritate în alegerea felului de învăţămînt pentru copiii lor minori."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Sami"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Juohkehaččas lea vuoigatvuohta oahpahussii. Oahpahus galgá addojuvvot almmá mávssuhaga, goit álgo ja vuođđooahpahusa dáfus. Algooahpahus galgá leatbákkolaš. Buohkain galgá leat vejolašvuohta fidnooahpahusa oažžut ja buohkaide galgá leat dássásaš vejolašvuohta váldit alit oahpahusa veajuideaset mielde."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Oahpahus galgá atnit joksanmearrin gárgedit olmmošlaš persovnnalasvuoða ja nannudit olmmošvuoigatvuoðaid ja vuoððodahkki friddjavuoðaid gudnejahttujumi. Dat galgá ovddidit ipmárdusa, sobalašvuoða ja ustitvuoða buot náššuvnnaid, buot nállejuhkosiid ja buot religiuvnna juhkosiid gaskkas ja dat galgá ovdánahttit Ovttastuvvon Náššuvnnaid barggu bisuhan dihte ráfi."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Vánhemiin lea vuosttassadjásaš vuoigatvuohta válljet sin mánáideaset várás oahpahusvuogi."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Serbian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Svako ima pravo na školovanje. Školovanje treba da bude besplatno bar u osnovnim i nižim školama. Osnovna nastava je obavezna. Tehnička i stručna nastava treba da bude opšte dostupna, a viša nastava treba da bude svima podjednako pristupačna na osnovu utvrdjenih kriterijuma."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Školovanje treba da bude usmereno punom razvoju ljudske ličnosti i jačanju poštovanja ljudskih prava i osnovnih sloboda. Ono treba da unapredjuje razumevanje, trpeljivost i prijateljstvo medju svim narodima, rasnim i verskim grupacijama, kao i delatnost Ujedinjenih nacija za održavanje mira."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Roditelji imaju prvenstveno pravo da biraju vrstu školovanja za svoju decu."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Slovak"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Každý má právo na vzdelanie. Vzdelanie nech je bezplatné aspoň v začiatočných a základných stupňoch. Základné vzdelanie je povinné. Technické a odborné vzdelanie nech je všeobecne prístupné a vyššie vzdelanie má byť rovnako prístupné každému podľa jeho schopností."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Vzdelanie má smerovať k plnému rozvoju ľudskej osobnosti a k posilneniu úcty k ľudským právam a základným slobodám. Má napomáhať k vzájomnému porozumeniu, snášanlivosti a priateľstvu medzi všetkými národmi a všetkými rasovými i náboženskými skupinami, ako aj k rozvoju činnosti Spojených národov pre zachovanie mieru."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Rodičia majú prednostné právo voliť druh vzdelania pre svoje deti."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Slovenian"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Vsakdo ima pravico do izobraževanja. Izobraževanje mora biti brezplačno vsaj na začetni stopnji. Šolanje na začetni stopnji mora biti obvezno. Tehnično in poklicno šolanje mora biti splošno dostopno. Višje šolanje mora biti na osnovi doseženih uspehov vsem enako dostopno."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Izobraževanje mora biti usmerjeno k polnemu razvoju človekove osebnosti in utrjevanju spoštovanja človekovih pravic in temeljnih svoboščin. Pospeševati mora razumevanje, strpnost in prijateljstvo med vsemi narodi in med rasami in verskimi skupinami ter pospeševati dejavnost Združenih narodov in ohranitev miru."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Starši imajo prednostno pravico pri izbiri vrste izobraževanja svojih otrok."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Spanish"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos; y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Swahili"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Kila mtu ana haki ya kuelimishwa. Elimu yapasa itolewe bure hasa ile ya madarasa ya chini. Elimu ya masarasa ya chini ihudhuriwe kwa lazima. Elimu ya ufundi na ustadi iwe wazi kwa wote. Na elimu ya juu iwe wazi kwa wote kwa kutegemea sifa ya mtu."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Elimu itolewe kwa madhumuni ya kuendeleza barabara hali ya binadamu, na kwa shabaha ya kukuza haki za binadamu na uhuru wake wa asili. Elimu ni wajibu ikuze hali ya kueleana, kuvumiliana na ya urafiki kati ya mataifa na kati ya watu wa rangi na dini mbalimbali.Kadhalika ni wajibu iendeleze shughuli za Umoja wa Mataifa za kudumisha amani."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Ni haki ya wazazi kuchagua aina ya elimu ya kufunzwa watoto wao."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Swedish"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Var och en har rätt till utbildning. Utbildningen skall vara kostnadsfri, åtminstone på de elementära och grundläggande stadierna. Den elementära utbildningen skall vara obligatorisk. Yrkesutbildning och teknisk utbildning skall vara tillgänglig för alla. Den högre utbildningen skall vara öppen för alla med hänsyn till deras förmåga."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Utbildningen skall syfta till att utveckla personligheten till fullo och till att stärka respekten för de mänskliga rättigheterna och de grundläggande friheterna. Utbildningen skall också främja förståelse, tolerans och vänskap mellan alla nationer, rasgrupper och religiösa grupper samt främja Förenta nationernas verksamhet för fredens bevarande."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Rätten att välja utbildning för barnen tillkommer i första hand deras föräldrar."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="Turkish"/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="1. Her şahsın öğrenim hakkı vardır. Öğrenim hiç olmazsa ilk ve temel safhalarında parasızdır. İlk öğretim mecburidir. Teknik ve mesleki öğretimden herkes istifade edebilmelidir. Yüksek öğretim, liyakatlerine göre herkese tam eşitlikle açık olmalıdır."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="2. Öğretim insan şahsiyetinin tam gelişmesini ve insan haklarıyla ana hürriyetlerine saygının kuvvetlenmesini hedef almalıdır. Öğretim bütün milletler, ırk ve din grupları arasında anlayış, hoşgörü ve dostluğu teşvik etmeli ve Birleşmiş Milletlerin barışın idamesi yolundaki çalışmalarını geliştirmelidir."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+                <ITEXT FONT="Klei Regular" FONTSIZE="18" FEATURES="inherit" CH="3. Ana baba, çocuklarına verilecek eğitim türünü seçmek hakkını öncelikle haizdirler."/>
+                <para PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="505.001" YPOS="56.002" OwnPage="0" ItemID="1771018075" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u15b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="56.002" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1770856795" BACKITEM="1771432283"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="708.005" OwnPage="1" ItemID="1770366811" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u177" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="708.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772413787" BACKITEM="1770856795"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="708.005" OwnPage="1" ItemID="1770856795" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u18d" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="708.005" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1770366811" BACKITEM="1771018075"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="1360.008" OwnPage="2" ItemID="1770851675" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1a9" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="1360.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772244315" BACKITEM="1772413787"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="1360.008" OwnPage="2" ItemID="1772413787" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1bf" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="1360.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1770851675" BACKITEM="1770366811"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="2012.011" OwnPage="3" ItemID="1772408667" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u1db" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="2012.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772234075" BACKITEM="1772244315"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="2012.011" OwnPage="3" ItemID="1772244315" PTYPE="4" WIDTH="351" HEIGHT="528.75" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u1f1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 528.75 L351 528.75 L351 0 L0 0 Z" copath="M0 0 L0 528.75 L351 528.75 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="2012.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772408667" BACKITEM="1770851675"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="2664.014" OwnPage="4" ItemID="1772239195" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u20d" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="2664.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772354907" BACKITEM="1772234075"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="2664.014" OwnPage="4" ItemID="1772234075" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u223" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="2664.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772239195" BACKITEM="1772408667"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="3316.017" OwnPage="5" ItemID="1772228955" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u23f" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="3316.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772392795" BACKITEM="1772354907"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="3316.017" OwnPage="5" ItemID="1772354907" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u255" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="3316.017" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772228955" BACKITEM="1772239195"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="3968.02" OwnPage="6" ItemID="1772395867" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u271" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="3968.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772382555" BACKITEM="1772392795"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="3968.02" OwnPage="6" ItemID="1772392795" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u287" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="3968.02" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772395867" BACKITEM="1772228955"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="4620.023" OwnPage="7" ItemID="1772387675" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u2a3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="4620.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772372315" BACKITEM="1772382555"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="4620.023" OwnPage="7" ItemID="1772382555" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2b9" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="4620.023" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772387675" BACKITEM="1772395867"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="5272.026" OwnPage="8" ItemID="1772377435" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u2d5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="5272.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772475227" BACKITEM="1772372315"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="5272.026" OwnPage="8" ItemID="1772372315" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u2eb" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5272.026" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772377435" BACKITEM="1772387675"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="5924.029" OwnPage="9" ItemID="1772367195" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u307" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="5924.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772464987" BACKITEM="1772475227"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="5924.029" OwnPage="9" ItemID="1772475227" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u31d" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="5924.029" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772367195" BACKITEM="1772377435"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="6576.032" OwnPage="10" ItemID="1772470107" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u339" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="6576.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772454747" BACKITEM="1772464987"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="6576.032" OwnPage="10" ItemID="1772464987" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u34f" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="6576.032" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772470107" BACKITEM="1772367195"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="7228.035" OwnPage="11" ItemID="1772459867" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PLINEART="1" ANNAME="u36b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="7228.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772449627" BACKITEM="1772454747"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="7228.035" OwnPage="11" ItemID="1772454747" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u381" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="7228.035" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772459867" BACKITEM="1772470107"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="7880.038" OwnPage="12" ItemID="1772449627" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u43b" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="7880.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772444507" BACKITEM="1772459867"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="7880.038" OwnPage="12" ItemID="1772444507" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u457" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="7880.038" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1772439387" BACKITEM="1772449627"/>
+        <PAGEOBJECT XPOS="136.001" YPOS="8532.041" OwnPage="13" ItemID="1772439387" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u47e" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="136.001" gYpos="8532.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="1772444507"/>
+        <PAGEOBJECT XPOS="505.001" YPOS="8532.041" OwnPage="13" ItemID="1772434267" PTYPE="4" WIDTH="351" HEIGHT="540" FRTYPE="3" CLIPEDIT="1" PWIDTH="0" PLINEART="1" ANNAME="u495" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="12" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L0 540 L351 540 L351 0 L0 0 Z" copath="M0 0 L0 540 L351 540 L351 0 L0 0 Z" fillRule="0" gXpos="505.001" gYpos="8532.041" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <trail PARENT="NormalParagraphStyle" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
