@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 77 11 6
+WinInfo: 165 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -1053,7 +1053,7 @@ Encoding: 118 118 19
 GlifName: v
 Width: 533
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -9 21G<253.437 258.92> -9 21G<253.437 258.92> 491.674 15.1816<46 68.3156 149.779 178.244 380.229 408.111>
 LayerCount: 2
 Fore
@@ -11286,9 +11286,9 @@ Encoding: 7805 7805 518
 GlifName: uni1E_7D_
 Width: 533
 VWidth: 0
-Flags: HW
-HStem: 564.148 11.9326<109.422 152.435> 570.544 46.6377<264.221 370.425> 616.869 46.1631<153.214 255.669> 731.631 6.92871<112.318 146.264>
-VStem: 48.9941 32.126<593.138 711.761> 113.704 299.837 178.393 32.125<594.515 708.414>
+Flags: W
+HStem: -9 21G<253.437 258.92 253.437 258.92> 491.674 15.1816<46 68.3156 149.779 178.244 380.229 408.111> 570.544 46.6377<264.221 370.425> 616.869 46.1631<153.214 255.669>
+VStem: 113.704 299.837
 LayerCount: 2
 Fore
 Refer: 373 771 S 1 0 0 1 63.605 97.3633 2
@@ -11339,9 +11339,9 @@ Encoding: 7807 7807 521
 GlifName: uni1E_7F_
 Width: 533
 VWidth: 0
-Flags: HW
-HStem: -171 102<217.015 301.044> 564.148 11.9326<109.422 152.435> 731.631 6.92871<112.318 146.264>
-VStem: 48.9941 32.126<593.138 711.761> 178.393 32.125<594.515 708.414> 207.5 103<-161.544 -78.4557>
+Flags: W
+HStem: -171 102<217.015 301.044> -9 21G<253.437 258.92 253.437 258.92> 491.674 15.1816<46 68.3156 149.779 178.244 380.229 408.111>
+VStem: 207.5 103<-161.544 -78.4557>
 LayerCount: 2
 Fore
 Refer: 33 46 N 1 0 0 1 147.5 -160 2
@@ -18253,6 +18253,7 @@ EndChar
 
 StartChar: uni0302
 Encoding: 770 770 761
+GlifName: uni0302
 Width: 677
 VWidth: 0
 Flags: W
@@ -18265,6 +18266,7 @@ EndChar
 
 StartChar: uni0307
 Encoding: 775 775 762
+GlifName: uni0307
 Width: 224
 VWidth: 0
 Flags: W
@@ -18283,6 +18285,7 @@ EndChar
 
 StartChar: uni0308
 Encoding: 776 776 763
+GlifName: uni0308
 Width: 525
 VWidth: 0
 Flags: W
@@ -18295,6 +18298,7 @@ EndChar
 
 StartChar: dotbelowcomb
 Encoding: 803 803 764
+GlifName: dotbelowcomb
 Width: 508
 VWidth: 0
 Flags: W
@@ -18307,6 +18311,7 @@ EndChar
 
 StartChar: uni030A
 Encoding: 778 778 765
+GlifName: uni030A_
 Width: 525
 VWidth: 0
 Flags: W
@@ -18319,6 +18324,7 @@ EndChar
 
 StartChar: uni030C
 Encoding: 780 780 766
+GlifName: uni030C_
 Width: 566
 VWidth: 0
 Flags: W
@@ -18331,6 +18337,7 @@ EndChar
 
 StartChar: uni0327
 Encoding: 807 807 767
+GlifName: uni0327
 Width: 515
 VWidth: 0
 Flags: W
@@ -18343,6 +18350,7 @@ EndChar
 
 StartChar: uni0326
 Encoding: 806 806 768
+GlifName: uni0326
 Width: 589
 VWidth: 0
 Flags: W
