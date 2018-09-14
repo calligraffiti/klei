@@ -13,9 +13,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-188</integer>
+            <integer>-199</integer>
             <key>width</key>
-            <integer>39</integer>
+            <integer>47</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -24,7 +24,7 @@
             <key>position</key>
             <integer>293</integer>
             <key>width</key>
-            <integer>63</integer>
+            <integer>74</integer>
           </dict>
         </array>
       </dict>

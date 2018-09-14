@@ -4,16 +4,16 @@
   <unicode hex="01E4"/>
   <outline>
     <contour>
-      <point x="782" y="180.723" type="curve" smooth="yes"/>
-      <point x="515.771" y="181.288" type="line"/>
-      <point x="517.562" y="189.488" type="line"/>
-      <point x="517.562" y="189.488"/>
-      <point x="523.08" y="237.782"/>
-      <point x="545.154" y="237.782" type="curve" smooth="yes"/>
-      <point x="809.132" y="237.476" type="line"/>
-      <point x="809.132" y="229.926" type="line" smooth="yes"/>
-      <point x="809.132" y="226.233"/>
-      <point x="805.778" y="180.723"/>
+      <point x="791" y="179.723" type="curve" smooth="yes"/>
+      <point x="524.771" y="180.288" type="line"/>
+      <point x="526.562" y="188.488" type="line"/>
+      <point x="526.562" y="188.488"/>
+      <point x="532.08" y="236.782"/>
+      <point x="554.154" y="236.782" type="curve" smooth="yes"/>
+      <point x="818.132" y="236.476" type="line"/>
+      <point x="818.132" y="228.926" type="line" smooth="yes"/>
+      <point x="818.132" y="225.233"/>
+      <point x="814.778" y="179.723"/>
     </contour>
     <component base="G"/>
   </outline>
@@ -31,7 +31,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>181</integer>
+            <integer>180</integer>
             <key>width</key>
             <integer>56</integer>
           </dict>

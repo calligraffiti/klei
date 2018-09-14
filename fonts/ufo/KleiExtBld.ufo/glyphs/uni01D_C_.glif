@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01DC" format="1">
-  <advance width="650"/>
+  <advance width="640"/>
   <unicode hex="01DC"/>
   <outline>
-    <component base="gravecomb" xOffset="50.2202" yOffset="146.166"/>
+    <component base="gravecomb" xOffset="80.2202" yOffset="146.166"/>
     <component base="udieresis"/>
   </outline>
   <lib>
@@ -53,15 +53,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>92</integer>
-            <key>width</key>
-            <integer>205</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>108</integer>
             <key>width</key>
             <integer>142</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>122</integer>
+            <key>width</key>
+            <integer>205</integer>
           </dict>
           <dict>
             <key>position</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="1">
-  <advance width="683"/>
+  <advance width="621"/>
   <unicode hex="015A"/>
   <outline>
     <component base="acutecomb" xOffset="293.407" yOffset="225.33"/>
@@ -29,15 +29,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>97</integer>
+            <integer>87</integer>
             <key>width</key>
-            <integer>214</integer>
+            <integer>184</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>409</integer>
+            <integer>399</integer>
             <key>width</key>
-            <integer>212</integer>
+            <integer>182</integer>
           </dict>
         </array>
       </dict>

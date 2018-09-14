@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E5D" format="1">
-  <advance width="530"/>
+  <advance width="490"/>
   <unicode hex="1E5D"/>
   <outline>
     <component base="macron" xOffset="133.434" yOffset="67.3535"/>
@@ -47,7 +47,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>70</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

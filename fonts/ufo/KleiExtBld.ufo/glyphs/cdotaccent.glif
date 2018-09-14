@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cdotaccent" format="1">
-  <advance width="592"/>
+  <advance width="582"/>
   <unicode hex="010B"/>
   <outline>
     <component base="period" xOffset="190.5" yOffset="582.857"/>

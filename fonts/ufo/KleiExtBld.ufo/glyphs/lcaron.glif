@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lcaron" format="1">
-  <advance width="365"/>
+  <advance width="490"/>
   <unicode hex="013E"/>
   <outline>
-    <component base="comma" xOffset="229" yOffset="738.081"/>
+    <component base="comma" xOffset="289" yOffset="698.081"/>
     <component base="l"/>
   </outline>
   <lib>
@@ -20,9 +20,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>630</integer>
+            <integer>597</integer>
             <key>width</key>
-            <integer>36</integer>
+            <integer>34</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -35,15 +35,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>96</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>263</integer>
+            <integer>320</integer>
             <key>width</key>
-            <integer>195</integer>
+            <integer>181</integer>
           </dict>
         </array>
       </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01DA" format="1">
-  <advance width="650"/>
+  <advance width="640"/>
   <unicode hex="01DA"/>
   <outline>
-    <component base="caron" xOffset="106.221" yOffset="198.092"/>
+    <component base="caron" xOffset="106.221" yOffset="208.092"/>
     <component base="udieresis"/>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>674</integer>
+            <integer>684</integer>
             <key>width</key>
             <integer>268</integer>
           </dict>

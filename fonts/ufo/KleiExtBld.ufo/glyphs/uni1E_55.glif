@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E55" format="1">
-  <advance width="669"/>
+  <advance width="639"/>
   <unicode hex="1E55"/>
   <outline>
     <component base="acutecomb" xOffset="173.407" yOffset="-3.63379"/>
@@ -41,13 +41,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>89</integer>
+            <integer>69</integer>
             <key>width</key>
-            <integer>174</integer>
+            <integer>164</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>458</integer>
+            <integer>428</integer>
             <key>width</key>
             <integer>161</integer>
           </dict>

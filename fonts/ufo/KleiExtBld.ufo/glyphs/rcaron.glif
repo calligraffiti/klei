@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rcaron" format="1">
-  <advance width="530"/>
+  <advance width="490"/>
   <unicode hex="0159"/>
   <outline>
     <component base="caron" xOffset="60.473" yOffset="88.2793"/>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>100</integer>
+            <integer>70</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

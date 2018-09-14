@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="678"/>
+  <advance width="658"/>
   <unicode hex="00F1"/>
   <outline>
     <component base="tildecomb" xOffset="92.7036" yOffset="100.819"/>
@@ -47,13 +47,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>88</integer>
+            <integer>73</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>435</integer>
+            <integer>420</integer>
             <key>width</key>
             <integer>163</integer>
           </dict>

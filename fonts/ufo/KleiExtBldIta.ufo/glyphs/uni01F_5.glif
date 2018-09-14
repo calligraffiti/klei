@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01F5" format="1">
-  <advance width="652"/>
+  <advance width="612"/>
   <unicode hex="01F5"/>
   <outline>
-    <component base="acutecomb" xOffset="203.859" yOffset="-6.45605"/>
+    <component base="acutecomb" xOffset="293.859" yOffset="-6.45605"/>
     <component base="g"/>
   </outline>
   <lib>
@@ -14,7 +14,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-272</integer>
+            <integer>-270</integer>
             <key>width</key>
             <integer>50</integer>
           </dict>
@@ -26,7 +26,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>463</integer>
+            <integer>462</integer>
             <key>width</key>
             <integer>49</integer>
           </dict>
@@ -41,31 +41,31 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-30</integer>
+            <integer>-50</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>96</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>171</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>277</integer>
-            <key>width</key>
-            <integer>175</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>369</integer>
+            <integer>349</integer>
             <key>width</key>
             <integer>166</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>420</integer>
+            <integer>367</integer>
+            <key>width</key>
+            <integer>175</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>400</integer>
             <key>width</key>
             <integer>158</integer>
           </dict>

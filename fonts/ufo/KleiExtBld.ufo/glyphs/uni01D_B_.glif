@@ -3,7 +3,7 @@
   <advance width="815"/>
   <unicode hex="01DB"/>
   <outline>
-    <component base="grave" xScale="0.8" yScale="0.8" xOffset="243.654" yOffset="534.602"/>
+    <component base="grave" xScale="0.8" yScale="0.8" xOffset="233.654" yOffset="544.602"/>
     <component base="Udieresis"/>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>954</integer>
+            <integer>964</integer>
             <key>width</key>
             <integer>207</integer>
           </dict>
@@ -53,7 +53,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>269</integer>
+            <integer>259</integer>
             <key>width</key>
             <integer>210</integer>
           </dict>

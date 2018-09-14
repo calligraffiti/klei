@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohorn" format="1">
-  <advance width="908"/>
+  <advance width="848"/>
   <unicode hex="01A0"/>
   <outline>
     <component base="uni031B" xOffset="640.372" yOffset="99.5479"/>
@@ -20,9 +20,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>552</integer>
+            <integer>526</integer>
             <key>width</key>
-            <integer>38</integer>
+            <integer>46</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>541</integer>
+            <key>width</key>
+            <integer>40</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -35,21 +41,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>65</integer>
+            <integer>35</integer>
             <key>width</key>
             <integer>198</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>647</integer>
+            <integer>617</integer>
             <key>width</key>
             <integer>196</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>748</integer>
+            <integer>796</integer>
             <key>width</key>
-            <integer>81</integer>
+            <integer>114</integer>
           </dict>
         </array>
       </dict>

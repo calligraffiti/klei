@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E98" format="1">
-  <advance width="815"/>
+  <advance width="855"/>
   <unicode hex="1E98"/>
   <outline>
     <component base="degree" xOffset="301.813" yOffset="80.3682"/>
@@ -28,50 +28,50 @@
             <key>position</key>
             <integer>564</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>64</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>698</integer>
+            <integer>716</integer>
             <key>width</key>
-            <integer>54</integer>
+            <integer>61</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>91</integer>
+            <integer>131</integer>
             <key>width</key>
             <integer>154</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>346</integer>
+            <integer>342</integer>
+            <key>width</key>
+            <integer>70</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>386</integer>
             <key>width</key>
             <integer>128</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>351</integer>
+            <integer>491</integer>
             <key>width</key>
-            <integer>62</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>483</integer>
-            <key>width</key>
-            <integer>59</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>496</integer>
+            <integer>536</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>722</integer>
+            <integer>762</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>

@@ -3,7 +3,7 @@
   <advance width="885"/>
   <unicode hex="01DE"/>
   <outline>
-    <component base="macron" xOffset="209.435" yOffset="440.702"/>
+    <component base="macron" xOffset="229.435" yOffset="490.702"/>
     <component base="Adieresis"/>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>940</integer>
+            <integer>990</integer>
             <key>width</key>
             <integer>78</integer>
           </dict>
@@ -53,7 +53,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>280</integer>
+            <integer>300</integer>
             <key>width</key>
             <integer>297</integer>
           </dict>

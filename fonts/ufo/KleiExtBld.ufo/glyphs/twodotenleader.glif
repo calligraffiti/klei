@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twodotenleader" format="1">
-  <advance width="448"/>
+  <advance width="488"/>
   <unicode hex="2025"/>
   <outline>
-    <component base="period" xOffset="224"/>
+    <component base="period" xOffset="234"/>
     <component base="period"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>259</integer>
+            <integer>269</integer>
             <key>width</key>
             <integer>193</integer>
           </dict>

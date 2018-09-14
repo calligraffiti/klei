@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="1">
-  <advance width="683"/>
+  <advance width="621"/>
   <unicode hex="015C"/>
   <outline>
     <component base="asciicircum" xOffset="99" yOffset="213.225"/>
@@ -35,15 +35,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>97</integer>
+            <integer>87</integer>
             <key>width</key>
-            <integer>214</integer>
+            <integer>184</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>409</integer>
+            <integer>399</integer>
             <key>width</key>
-            <integer>212</integer>
+            <integer>182</integer>
           </dict>
         </array>
       </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="1">
-  <advance width="908"/>
+  <advance width="848"/>
   <unicode hex="014E"/>
   <outline>
     <component base="breve" xOffset="310.608" yOffset="410.858"/>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>65</integer>
+            <integer>35</integer>
             <key>width</key>
             <integer>198</integer>
           </dict>
@@ -53,7 +53,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>647</integer>
+            <integer>617</integer>
             <key>width</key>
             <integer>196</integer>
           </dict>

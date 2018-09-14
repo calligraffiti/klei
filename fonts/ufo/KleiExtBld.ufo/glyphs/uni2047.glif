@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2047" format="1">
-  <advance width="896"/>
+  <advance width="946"/>
   <unicode hex="2047"/>
   <outline>
-    <component base="question" xOffset="422"/>
+    <component base="question" xOffset="472"/>
     <component base="question"/>
   </outline>
   <lib>
@@ -47,19 +47,19 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>464</integer>
+            <integer>514</integer>
             <key>width</key>
             <integer>126</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>577</integer>
+            <integer>627</integer>
             <key>width</key>
             <integer>162</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>738</integer>
+            <integer>788</integer>
             <key>width</key>
             <integer>150</integer>
           </dict>

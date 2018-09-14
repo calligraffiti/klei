@@ -3,7 +3,7 @@
   <advance width="688"/>
   <unicode hex="0228"/>
   <outline>
-    <component base="cedilla" xOffset="118.467" yOffset="-15.217"/>
+    <component base="cedilla" xOffset="108.467" yOffset="-15.217"/>
     <component base="E"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>279</integer>
+            <integer>269</integer>
             <key>width</key>
             <integer>84</integer>
           </dict>

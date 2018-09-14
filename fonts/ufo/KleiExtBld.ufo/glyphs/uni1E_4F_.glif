@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E4F" format="1">
-  <advance width="637"/>
+  <advance width="617"/>
   <unicode hex="1E4F"/>
   <outline>
     <component base="dieresis" xOffset="118.514" yOffset="79.459"/>
@@ -47,7 +47,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>45</integer>
+            <integer>35</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
@@ -65,7 +65,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>423</integer>
+            <integer>413</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

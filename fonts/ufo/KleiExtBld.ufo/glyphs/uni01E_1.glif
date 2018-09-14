@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E1" format="1">
-  <advance width="618"/>
+  <advance width="598"/>
   <unicode hex="01E1"/>
   <outline>
-    <component base="macron" xOffset="74.9341" yOffset="247.8"/>
+    <component base="macron" xOffset="84.9341" yOffset="297.8"/>
     <component base="uni0227"/>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>747</integer>
+            <integer>797</integer>
             <key>width</key>
             <integer>78</integer>
           </dict>
@@ -47,13 +47,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>41</integer>
+            <integer>38</integer>
             <key>width</key>
             <integer>173</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>145</integer>
+            <integer>155</integer>
             <key>width</key>
             <integer>297</integer>
           </dict>
@@ -65,7 +65,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>349</integer>
+            <integer>346</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

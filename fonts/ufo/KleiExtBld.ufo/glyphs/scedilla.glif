@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scedilla" format="1">
-  <advance width="524"/>
+  <advance width="484"/>
   <unicode hex="015F"/>
   <outline>
     <component base="cedilla" xOffset="-34.7593" yOffset="-18.217"/>
@@ -14,9 +14,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-177</integer>
+            <integer>-188</integer>
             <key>width</key>
-            <integer>39</integer>
+            <integer>47</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -35,13 +35,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>56</integer>
+            <integer>36</integer>
             <key>width</key>
             <integer>91</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>83</integer>
+            <integer>63</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>
@@ -49,11 +49,11 @@
             <key>position</key>
             <integer>263</integer>
             <key>width</key>
-            <integer>63</integer>
+            <integer>74</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>297</integer>
+            <integer>277</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>

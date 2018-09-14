@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wdieresis" format="1">
-  <advance width="815"/>
+  <advance width="855"/>
   <unicode hex="1E85"/>
   <outline>
     <component base="dieresis" xOffset="113.438" yOffset="-53.0293"/>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>91</integer>
+            <integer>131</integer>
             <key>width</key>
             <integer>154</integer>
           </dict>
@@ -47,7 +47,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>346</integer>
+            <integer>386</integer>
             <key>width</key>
             <integer>128</integer>
           </dict>
@@ -59,13 +59,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>496</integer>
+            <integer>536</integer>
             <key>width</key>
             <integer>60</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>722</integer>
+            <integer>762</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>

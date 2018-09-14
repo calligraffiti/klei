@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wacute" format="1">
-  <advance width="858"/>
+  <advance width="828"/>
   <unicode hex="1E83"/>
   <outline>
     <component base="acutecomb" xOffset="387.27" yOffset="-6.45605"/>

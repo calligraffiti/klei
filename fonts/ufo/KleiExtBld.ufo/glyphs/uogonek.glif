@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uogonek" format="1">
-  <advance width="650"/>
+  <advance width="640"/>
   <unicode hex="0173"/>
   <outline>
     <component base="uni0328" xScale="0.963518" yScale="0.963518" xyScale="-0.267644" yxScale="0.267644" xOffset="371.172" yOffset="-120.651"/>

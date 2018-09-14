@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdbl" format="1">
-  <advance width="560"/>
+  <advance width="600"/>
   <unicode hex="203C"/>
   <outline>
-    <component base="exclam" xOffset="235.999"/>
+    <component base="exclam" xOffset="275.999"/>
     <component base="exclam" xOffset="-0.000515428"/>
   </outline>
   <lib>
@@ -16,22 +16,34 @@
             <key>position</key>
             <integer>-18</integer>
             <key>width</key>
-            <integer>116</integer>
+            <integer>178</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>45</integer>
+            <integer>74</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>172</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>281</integer>
+            <integer>210</integer>
             <key>width</key>
-            <integer>113</integer>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>350</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>486</integer>
+            <key>width</key>
+            <integer>172</integer>
           </dict>
         </array>
       </dict>

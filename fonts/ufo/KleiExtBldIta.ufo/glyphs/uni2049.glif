@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2049" format="1">
-  <advance width="736"/>
+  <advance width="857"/>
   <unicode hex="2049"/>
   <outline>
-    <component base="question" xOffset="225.999"/>
+    <component base="question" xOffset="295.999"/>
     <component base="exclam" xOffset="-0.000515428"/>
   </outline>
   <lib>
@@ -12,12 +12,6 @@
       <dict>
         <key>hhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>-18</integer>
-            <key>width</key>
-            <integer>116</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>-18</integer>
@@ -35,31 +29,37 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>45</integer>
-            <key>width</key>
-            <integer>113</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>330</integer>
+            <integer>74</integer>
             <key>width</key>
             <integer>172</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>210</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>400</integer>
+            <key>width</key>
+            <integer>172</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>420</integer>
             <key>width</key>
             <integer>142</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>381</integer>
+            <integer>451</integer>
             <key>width</key>
             <integer>120</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>624</integer>
+            <integer>694</integer>
             <key>width</key>
             <integer>170</integer>
           </dict>

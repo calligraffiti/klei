@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C6" format="1">
-  <advance width="1083"/>
+  <advance width="1221"/>
   <unicode hex="01C6"/>
   <outline>
     <component base="d" xOffset="0.000107207"/>
-    <component base="zcaron" xOffset="566"/>
+    <component base="zcaron" xOffset="646"/>
   </outline>
   <lib>
     <dict>
@@ -22,25 +22,25 @@
             <key>position</key>
             <integer>-10</integer>
             <key>width</key>
-            <integer>105</integer>
+            <integer>118</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>11</integer>
             <key>width</key>
-            <integer>104</integer>
+            <integer>117</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>387</integer>
+            <integer>376</integer>
             <key>width</key>
-            <integer>99</integer>
+            <integer>110</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>401</integer>
+            <integer>390</integer>
             <key>width</key>
-            <integer>101</integer>
+            <integer>112</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -73,23 +73,23 @@
             <key>position</key>
             <integer>518</integer>
             <key>width</key>
-            <integer>201</integer>
+            <integer>197</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>630</integer>
+            <integer>699</integer>
             <key>width</key>
-            <integer>93</integer>
+            <integer>97</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>836</integer>
+            <integer>916</integer>
             <key>width</key>
             <integer>269</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1032</integer>
+            <integer>1122</integer>
             <key>width</key>
             <integer>95</integer>
           </dict>

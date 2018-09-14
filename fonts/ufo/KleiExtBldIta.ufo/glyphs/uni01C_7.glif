@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01C7" format="1">
-  <advance width="934"/>
+  <advance width="974"/>
   <unicode hex="01C7"/>
   <outline>
     <component base="L"/>
-    <component base="J" xOffset="569"/>
+    <component base="J" xOffset="609"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,13 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>39</integer>
+            <integer>34</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>43</integer>
           </dict>
           <dict>
             <key>position</key>

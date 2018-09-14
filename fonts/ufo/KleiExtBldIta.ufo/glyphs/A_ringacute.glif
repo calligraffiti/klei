@@ -3,7 +3,7 @@
   <advance width="769"/>
   <unicode hex="01FA"/>
   <outline>
-    <component base="acutecomb" xOffset="554.679" yOffset="225.503"/>
+    <component base="acutecomb" xOffset="572.679" yOffset="223.503"/>
     <component base="Aring"/>
   </outline>
   <lib>
@@ -34,38 +34,38 @@
             <key>position</key>
             <integer>764</integer>
             <key>width</key>
-            <integer>57</integer>
+            <integer>64</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>810</integer>
+            <integer>808</integer>
             <key>width</key>
             <integer>169</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>899</integer>
+            <integer>916</integer>
             <key>width</key>
-            <integer>54</integer>
+            <integer>61</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>437</integer>
+            <integer>428</integer>
             <key>width</key>
-            <integer>62</integer>
+            <integer>70</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>569</integer>
+            <integer>577</integer>
             <key>width</key>
-            <integer>59</integer>
+            <integer>67</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>628</integer>
+            <integer>646</integer>
             <key>width</key>
             <integer>175</integer>
           </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lslash" format="1">
-  <advance width="365"/>
+  <advance width="330"/>
   <unicode hex="0142"/>
   <outline>
     <contour>
@@ -35,13 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>46</integer>
-            <key>width</key>
-            <integer>264</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>96</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

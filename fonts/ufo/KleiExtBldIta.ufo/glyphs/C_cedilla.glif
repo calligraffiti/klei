@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccedilla" format="1">
-  <advance width="813"/>
+  <advance width="798"/>
   <unicode hex="00C7"/>
   <outline>
     <component base="cedilla" xOffset="154.393" yOffset="-29"/>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>57</integer>
+            <integer>42</integer>
             <key>width</key>
             <integer>206</integer>
           </dict>

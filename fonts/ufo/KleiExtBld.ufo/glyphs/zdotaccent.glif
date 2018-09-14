@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zdotaccent" format="1">
-  <advance width="648"/>
+  <advance width="588"/>
   <unicode hex="017C"/>
   <outline>
     <component base="period" xOffset="219.684" yOffset="581.544"/>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>98</integer>
+            <integer>58</integer>
             <key>width</key>
             <integer>29</integer>
           </dict>

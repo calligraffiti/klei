@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E5" format="1">
-  <advance width="652"/>
+  <advance width="612"/>
   <unicode hex="01E5"/>
   <outline>
     <contour>
-      <point x="-41.7285" y="-132" type="line"/>
-      <point x="-48.0283" y="-132"/>
-      <point x="-48.0283" y="-121.5"/>
-      <point x="-45.9287" y="-111" type="curve" smooth="yes"/>
-      <point x="-43.8291" y="-100.5"/>
-      <point x="-38.5791" y="-90"/>
-      <point x="-32.2783" y="-90" type="curve"/>
-      <point x="466.121" y="-90" type="line"/>
-      <point x="471.371" y="-90"/>
-      <point x="472.421" y="-99.4502"/>
-      <point x="470.321" y="-109.95" type="curve" smooth="yes"/>
-      <point x="468.222" y="-120.45"/>
-      <point x="462.972" y="-132"/>
-      <point x="456.671" y="-132" type="curve"/>
+      <point x="-69.7285" y="-142" type="line"/>
+      <point x="-76.0283" y="-142"/>
+      <point x="-76.0283" y="-131.5"/>
+      <point x="-73.9287" y="-121" type="curve" smooth="yes"/>
+      <point x="-71.8291" y="-110.5"/>
+      <point x="-66.5791" y="-100"/>
+      <point x="-60.2783" y="-100" type="curve"/>
+      <point x="538.121" y="-100" type="line"/>
+      <point x="541.709" y="-100"/>
+      <point x="543.335" y="-104.413"/>
+      <point x="543.335" y="-110.56" type="curve" smooth="yes"/>
+      <point x="543.335" y="-113.406"/>
+      <point x="542.986" y="-116.626"/>
+      <point x="542.321" y="-119.95" type="curve" smooth="yes"/>
+      <point x="540.222" y="-130.45"/>
+      <point x="534.972" y="-142"/>
+      <point x="528.671" y="-142" type="curve"/>
     </contour>
     <component base="g"/>
   </outline>
@@ -29,13 +32,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-272</integer>
+            <integer>-270</integer>
             <key>width</key>
             <integer>50</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-132</integer>
+            <integer>-142</integer>
             <key>width</key>
             <integer>42</integer>
           </dict>
@@ -47,7 +50,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>463</integer>
+            <integer>462</integer>
             <key>width</key>
             <integer>49</integer>
           </dict>
@@ -56,25 +59,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-30</integer>
+            <integer>-50</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>96</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>171</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>369</integer>
+            <integer>349</integer>
             <key>width</key>
             <integer>166</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>420</integer>
+            <integer>400</integer>
             <key>width</key>
             <integer>158</integer>
           </dict>

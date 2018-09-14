@@ -104,7 +104,8 @@
       <point x="444" y="350.032"/>
       <point x="444.179" y="350.049" type="curve"/>
       <point x="443.883" y="352.365"/>
-      <point x="443.508" y="354.988" type="line"/>
+      <point x="443.508" y="354.988"/>
+      <point x="443.508" y="354.988" type="curve"/>
     </contour>
   </outline>
   <lib>

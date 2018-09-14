@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lacute" format="1">
-  <advance width="365"/>
+  <advance width="330"/>
   <unicode hex="013A"/>
   <outline>
     <component base="acutecomb" xOffset="104.407" yOffset="252.081"/>
@@ -29,7 +29,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>96</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CF" format="1">
-  <advance width="447"/>
+  <advance width="467"/>
   <unicode hex="01CF"/>
   <outline>
     <component base="caron" yScale="0.698397" xOffset="188.44" yOffset="455.034"/>

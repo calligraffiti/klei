@@ -3,7 +3,7 @@
   <advance width="804"/>
   <unicode hex="01D7"/>
   <outline>
-    <component base="acutecomb" xOffset="449.658" yOffset="326.002"/>
+    <component base="acutecomb" xOffset="449.658" yOffset="426.002"/>
     <component base="Udieresis"/>
   </outline>
   <lib>
@@ -32,7 +32,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>910</integer>
+            <integer>1010</integer>
             <key>width</key>
             <integer>169</integer>
           </dict>

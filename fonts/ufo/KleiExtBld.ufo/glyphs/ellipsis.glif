@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="672"/>
+  <advance width="692"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="448"/>
-    <component base="period" xOffset="224"/>
+    <component base="period" xOffset="468"/>
+    <component base="period" xOffset="234"/>
     <component base="period"/>
   </outline>
   <lib>
@@ -30,13 +30,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>259</integer>
+            <integer>269</integer>
             <key>width</key>
             <integer>193</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>483</integer>
+            <integer>503</integer>
             <key>width</key>
             <integer>193</integer>
           </dict>

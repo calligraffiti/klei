@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ubreve" format="1">
-  <advance width="650"/>
+  <advance width="640"/>
   <unicode hex="016D"/>
   <outline>
     <component base="breve" xOffset="170.321" yOffset="187.594"/>

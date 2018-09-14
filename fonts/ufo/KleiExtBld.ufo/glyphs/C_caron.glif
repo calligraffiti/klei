@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ccaron" format="1">
-  <advance width="859"/>
+  <advance width="799"/>
   <unicode hex="010C"/>
   <outline>
     <component base="asciicircum" xScale="-1" yScale="-1" xyScale="1.22465e-16" yxScale="-1.22465e-16" xOffset="723" yOffset="1576.78"/>
@@ -29,13 +29,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>65</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>203</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>746</integer>
+            <integer>726</integer>
             <key>width</key>
             <integer>31</integer>
           </dict>

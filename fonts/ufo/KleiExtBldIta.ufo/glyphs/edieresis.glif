@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="edieresis" format="1">
-  <advance width="572"/>
+  <advance width="594"/>
   <unicode hex="00EB"/>
   <outline>
     <component base="dieresis" xOffset="88.5126" yOffset="-53"/>

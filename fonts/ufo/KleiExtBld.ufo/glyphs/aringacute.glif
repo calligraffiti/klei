@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="1">
-  <advance width="618"/>
+  <advance width="598"/>
   <unicode hex="01FB"/>
   <outline>
-    <component base="acutecomb" xOffset="132.245" yOffset="176.208"/>
+    <component base="acutecomb" xOffset="152.245" yOffset="186.208"/>
     <component base="aring"/>
   </outline>
   <lib>
@@ -47,7 +47,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>41</integer>
+            <integer>38</integer>
             <key>width</key>
             <integer>173</integer>
           </dict>
@@ -65,7 +65,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>349</integer>
+            <integer>346</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

@@ -66,21 +66,21 @@
       <point x="352.869" y="490.75"/>
       <point x="331.783" y="398.757" type="curve" smooth="yes"/>
       <point x="305.681" y="284.879"/>
-      <point x="281.845" y="184.673"/>
-      <point x="256.235" y="70.9912" type="curve"/>
-      <point x="255.793" y="69.2949"/>
-      <point x="252.603" y="58.7764"/>
-      <point x="252.603" y="57.21" type="curve" smooth="yes"/>
-      <point x="252.603" y="49.5176"/>
-      <point x="256.955" y="43.1143"/>
-      <point x="268.646" y="41.8936" type="curve" smooth="yes"/>
-      <point x="288.519" y="39.9346"/>
-      <point x="297.861" y="39"/>
-      <point x="318.538" y="39" type="curve" smooth="yes"/>
-      <point x="381.367" y="39"/>
-      <point x="427.498" y="40.0635"/>
-      <point x="472.636" y="49.8008" type="curve"/>
-      <point x="533.107" y="64.251"/>
+      <point x="282.845" y="188.673"/>
+      <point x="257.235" y="74.9912" type="curve"/>
+      <point x="256.793" y="73.2949"/>
+      <point x="253.603" y="62.7764"/>
+      <point x="253.603" y="61.21" type="curve" smooth="yes"/>
+      <point x="253.603" y="53.5176"/>
+      <point x="257.955" y="47.1143"/>
+      <point x="269.646" y="45.8936" type="curve" smooth="yes"/>
+      <point x="289.519" y="43.9346"/>
+      <point x="298.861" y="43"/>
+      <point x="319.538" y="43" type="curve" smooth="yes"/>
+      <point x="382.367" y="43"/>
+      <point x="428.498" y="44.0635"/>
+      <point x="473.636" y="53.8008" type="curve"/>
+      <point x="534.107" y="68.251"/>
       <point x="561.08" y="100.024"/>
       <point x="586.543" y="158.783" type="curve" smooth="yes"/>
       <point x="588.248" y="162.719" type="line"/>
@@ -98,7 +98,13 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>39</integer>
+            <integer>43</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>34</integer>
           </dict>
           <dict>
             <key>position</key>

@@ -3,7 +3,7 @@
   <advance width="624"/>
   <unicode hex="01FF"/>
   <outline>
-    <component base="acutecomb" xOffset="238.187" yOffset="-6.45605"/>
+    <component base="acutecomb" xOffset="328.187" yOffset="-6.45605"/>
     <component base="oslash"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>311</integer>
+            <integer>401</integer>
             <key>width</key>
             <integer>175</integer>
           </dict>
