@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aringacute" format="1">
-  <advance width="795"/>
+  <advance width="791"/>
   <unicode hex="01FA"/>
   <outline>
     <component base="acutecomb" xOffset="257.245" yOffset="295.503"/>
