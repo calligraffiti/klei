@@ -10228,7 +10228,7 @@ Encoding: 7711 7711 427
 GlifName: uni1E_1F_
 Width: 496
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: -179.2 28.1504<-102.173 -28.924> 447.063 44.9268<104.4 141.121 231.772 349.181> 742.775 26.0498<358.136 426.66> 819.188 116<346.308 417.621>
 VStem: 325.891 112.573<840.327 914.77>
 LayerCount: 2
@@ -14488,6 +14488,7 @@ EndChar
 
 StartChar: fraction
 Encoding: 8260 8260 668
+GlifName: fraction
 Width: 102
 VWidth: 0
 Flags: W
@@ -14504,6 +14505,7 @@ EndChar
 
 StartChar: minus
 Encoding: 8722 8722 669
+GlifName: minus
 Width: 388
 VWidth: 0
 Flags: W
@@ -14525,6 +14527,7 @@ EndChar
 
 StartChar: ordmasculine
 Encoding: 186 186 670
+GlifName: ordmasculine
 Width: 255
 VWidth: 0
 Flags: W
@@ -14548,6 +14551,7 @@ EndChar
 
 StartChar: uni201F
 Encoding: 8223 8223 671
+GlifName: uni201F_
 Width: 390
 VWidth: 0
 Flags: W
@@ -14595,6 +14599,7 @@ EndChar
 
 StartChar: quotedblbase
 Encoding: 8222 8222 672
+GlifName: quotedblbase
 Width: 371
 VWidth: 0
 Flags: W
@@ -14633,6 +14638,7 @@ EndChar
 
 StartChar: quotereversed
 Encoding: 8219 8219 673
+GlifName: quotereversed
 Width: 217
 VWidth: 0
 Flags: W
@@ -14661,6 +14667,7 @@ EndChar
 
 StartChar: quotesinglbase
 Encoding: 8218 8218 674
+GlifName: quotesinglbase
 Width: 212
 VWidth: 0
 Flags: W
@@ -14686,6 +14693,7 @@ EndChar
 
 StartChar: eth
 Encoding: 240 240 675
+GlifName: eth
 Width: 482
 VWidth: 0
 Flags: W
@@ -14717,6 +14725,7 @@ EndChar
 
 StartChar: exclamdown
 Encoding: 161 161 676
+GlifName: exclamdown
 Width: 324
 VWidth: 0
 Flags: W
@@ -14746,6 +14755,7 @@ EndChar
 
 StartChar: trademark
 Encoding: 8482 8482 677
+GlifName: trademark
 Width: 456
 VWidth: 0
 Flags: W
@@ -14829,6 +14839,7 @@ EndChar
 
 StartChar: uni2123
 Encoding: 8483 8483 678
+GlifName: uni2123
 Width: 1000
 VWidth: 0
 Flags: W
@@ -14837,6 +14848,7 @@ EndChar
 
 StartChar: uni2124
 Encoding: 8484 8484 679
+GlifName: uni2124
 Width: 1000
 VWidth: 0
 Flags: W
@@ -14845,6 +14857,7 @@ EndChar
 
 StartChar: uni2125
 Encoding: 8485 8485 680
+GlifName: uni2125
 Width: 1000
 VWidth: 0
 Flags: W
@@ -14853,6 +14866,7 @@ EndChar
 
 StartChar: Omega
 Encoding: 8486 8486 681
+GlifName: O_mega
 Width: 1000
 VWidth: 0
 Flags: W
@@ -14861,6 +14875,7 @@ EndChar
 
 StartChar: uni2120
 Encoding: 8480 8480 682
+GlifName: uni2120
 Width: 456
 VWidth: 0
 Flags: W
@@ -14931,6 +14946,7 @@ EndChar
 
 StartChar: uni2121
 Encoding: 8481 8481 683
+GlifName: uni2121
 Width: 1157
 VWidth: 0
 Flags: W
@@ -15055,6 +15071,7 @@ EndChar
 
 StartChar: prescription
 Encoding: 8478 8478 684
+GlifName: prescription
 Width: 625
 VWidth: 0
 Flags: W
@@ -15130,6 +15147,7 @@ EndChar
 
 StartChar: uni0302
 Encoding: 770 770 685
+GlifName: uni0302
 Width: 685
 VWidth: 0
 Flags: W
@@ -15142,6 +15160,7 @@ EndChar
 
 StartChar: uni0307
 Encoding: 775 775 686
+GlifName: uni0307
 Width: 212
 VWidth: 0
 Flags: W
@@ -15160,6 +15179,7 @@ EndChar
 
 StartChar: uni0308
 Encoding: 776 776 687
+GlifName: uni0308
 Width: 321
 VWidth: 0
 Flags: W
@@ -15172,6 +15192,7 @@ EndChar
 
 StartChar: dotbelowcomb
 Encoding: 803 803 688
+GlifName: dotbelowcomb
 Width: 482
 VWidth: 0
 Flags: W
@@ -15184,6 +15205,7 @@ EndChar
 
 StartChar: uni0304
 Encoding: 772 772 689
+GlifName: uni0304
 Width: 685
 VWidth: 0
 Flags: W
@@ -15196,6 +15218,7 @@ EndChar
 
 StartChar: uni0305
 Encoding: 773 773 690
+GlifName: uni0305
 Width: 685
 VWidth: 0
 Flags: W
@@ -15208,6 +15231,7 @@ EndChar
 
 StartChar: uni030C
 Encoding: 780 780 691
+GlifName: uni030C_
 Width: 618
 VWidth: 0
 Flags: W
@@ -15220,6 +15244,7 @@ EndChar
 
 StartChar: uni030A
 Encoding: 778 778 692
+GlifName: uni030A_
 Width: 685
 VWidth: 0
 Flags: W
@@ -15232,6 +15257,7 @@ EndChar
 
 StartChar: uni0326
 Encoding: 806 806 693
+GlifName: uni0326
 Width: 529
 VWidth: 0
 Flags: W
@@ -15244,6 +15270,7 @@ EndChar
 
 StartChar: uni0327
 Encoding: 807 807 694
+GlifName: uni0327
 Width: 653
 VWidth: 0
 Flags: W
