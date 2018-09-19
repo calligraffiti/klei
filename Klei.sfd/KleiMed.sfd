@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1536697568
+ModificationTime: 1536981705
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 55 11 6
+WinInfo: 64240 11 6
 BeginPrivate: 1
 BlueValues 39 [-10 0 506 512 638 644 730 735 746 766]
 EndPrivate
@@ -276,7 +276,7 @@ Encoding: 65 65 2
 GlifName: A_
 Width: 791
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 30<40 78.8396 166.258 203 527 567.586 701.801 738> 295 53<279.264 456.952> 715.309 20G<395.423 411.738>
 LayerCount: 2
 Fore
@@ -4833,7 +4833,7 @@ Encoding: 64256 64256 153
 GlifName: uniF_B_00
 Width: 682
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: 0 20<41.0381 72.4631 163.857 195.038 348.038 378.965 469.857 501.038> 465 40<30.4229 77.0381 159.038 384.038 465.038 615.821> 637.783 21G<664.091 705.323> 707 20.6738<236.375 321.186> 731 22.6328<539.931 615.201>
 VStem: 77.0381 82<20.5257 465> 77.0381 74<505 627.399> 384.038 81<20.5554 464.984> 384.038 74<505 655.663>
 LayerCount: 2

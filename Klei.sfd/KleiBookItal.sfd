@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1535590655
+ModificationTime: 1536981753
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 0 11 6
+WinInfo: 64240 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4866,7 +4866,7 @@ Encoding: 64256 64256 153
 GlifName: uniF_B_00
 Width: 742
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -179.2 28.1445<135.647 226.058> -140.2 28.1504<-96.2952 -24.0624> 450.99 41<101.484 137.843 491.523 617.893> 463.298 27.8018<228.576 401.836> 739.775 29.0498<349.459 432.233 611.935 684.853>
 LayerCount: 2
 Fore
@@ -10228,7 +10228,7 @@ Encoding: 7711 7711 427
 GlifName: uni1E_1F_
 Width: 496
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -179.2 28.1504<-102.173 -28.924> 447.063 44.9268<104.4 141.121 231.772 349.181> 742.775 26.0498<358.136 426.66> 819.188 116<346.308 417.621>
 VStem: 325.891 112.573<840.327 914.77>
 LayerCount: 2
