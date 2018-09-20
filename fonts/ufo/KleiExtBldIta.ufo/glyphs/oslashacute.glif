@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslashacute" format="1">
-  <advance width="624"/>
+  <advance width="674"/>
   <unicode hex="01FF"/>
   <outline>
-    <component base="acutecomb" xOffset="328.187" yOffset="-6.45605"/>
+    <component base="acutecomb" xOffset="353.15" yOffset="-6.45605"/>
     <component base="oslash"/>
   </outline>
   <lib>
@@ -16,13 +16,19 @@
             <key>position</key>
             <integer>-10</integer>
             <key>width</key>
-            <integer>32</integer>
+            <integer>55</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>478</integer>
+            <integer>456</integer>
             <key>width</key>
-            <integer>32</integer>
+            <integer>56</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>482</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -35,21 +41,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>102</integer>
+            <integer>23</integer>
             <key>width</key>
-            <integer>71</integer>
+            <integer>561</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>401</integer>
+            <integer>426</integer>
             <key>width</key>
             <integer>175</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>464</integer>
-            <key>width</key>
-            <integer>69</integer>
           </dict>
         </array>
       </dict>
