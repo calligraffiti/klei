@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="725"/>
+  <advance width="719"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="degree" xOffset="387.434" yOffset="281"/>
@@ -22,7 +22,7 @@
             <key>position</key>
             <integer>295</integer>
             <key>width</key>
-            <integer>63</integer>
+            <integer>51</integer>
           </dict>
           <dict>
             <key>position</key>
