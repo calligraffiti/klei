@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1538266115
+ModificationTime: 1538266282
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -13484,17 +13484,17 @@ Encoding: 322 322 658
 GlifName: lslash
 Width: 330
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 32.8799<40 72.6137 40 72.6137 253.357 286.123 253.357 286.123> 700.916 29.9609<42.4092 73.4274 42.4092 73.4274>
-VStem: 11 294 76.2266 173.728<34.1742 700.556 34.1742 700.556>
+VStem: 12 294 76.2266 173.728<34.1742 700.556 34.1742 700.556>
 LayerCount: 2
 Fore
 SplineSet
-11 285 m 5xe0
- 305 517 l 5
- 305 430 l 5
- 11 198 l 5
- 11 285 l 5xe0
+12 285 m 5xe0
+ 306 517 l 5
+ 306 430 l 5
+ 12 198 l 5
+ 12 285 l 5xe0
 EndSplineSet
 Refer: 26 108 N 1 0 0 1 0 0 3
 Refer: 26 108 N 1 0 0 1 0 0 3
