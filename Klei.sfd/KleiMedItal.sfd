@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1536697524
+ModificationTime: 1538265434
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 55 11 6
+WinInfo: 308 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -169,7 +169,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 251658 125829 83886 519132 1048576 83886 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-1""" 
-BeginChars: 1114112 690
+BeginChars: 1114112 692
 
 StartChar: s
 Encoding: 115 115 0
@@ -292,7 +292,7 @@ Encoding: 65 65 2
 GlifName: A_
 Width: 681
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 30<-0.0996094 27.7693 135.997 146.9 448.9 476.929 627.995 642.9> 295 63<308.787 456.17> 715.977 20G<502.109 514.749>
 LayerCount: 2
 Fore
@@ -7083,12 +7083,12 @@ Encoding: 351 351 220
 GlifName: scedilla
 Width: 418
 VWidth: 0
-Flags: W
-HStem: -181.617 40.25<21.0702 92.7851> -11.2754 40.3506<100.574 212.579> 475.125 36.875<219.2 301.915>
-VStem: 9.11523 75.7412<44.0472 121.72> 77.6855 107.573<350.694 435.406> 98.3011 63.6373<-137.036 -79.0003> 262.292 108.195<74.4588 177.101>
+Flags: WO
+HStem: -181.617 40.25<71.0702 142.785> -11.2754 40.3506<100.574 212.579> 475.125 36.875<219.2 301.915>
+VStem: 9.11523 75.7412<44.0472 121.72> 77.6855 107.573<350.694 435.406> 148.301 63.6373<-137.036 -79.0003> 262.292 108.195<74.4588 177.101>
 LayerCount: 2
 Fore
-Refer: 145 184 S 1 0 0 1 -62.0439 -18.217 2
+Refer: 145 184 S 1 0 0 1 -12.0439 -18.217 2
 Refer: 0 115 N 1 0 0 1 0 0 3
 EndChar
 
@@ -15110,6 +15110,43 @@ VStem: 444.083 44.2729<795.334 860.059> 556.658 42.0402<804.919 868.6>
 LayerCount: 2
 Fore
 Refer: 185 176 S 1 0 0 1 337.434 271 2
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 690
+Width: 308
+VWidth: 0
+Flags: W
+HStem: -9.65039 53.4229<90.0054 174.322> 753.851 20G<281.36 285.696>
+VStem: 21 271 27.3105 103.449<44.4988 154.144> 173.105 120.851<670.069 765.46>
+LayerCount: 2
+Fore
+SplineSet
+40 331 m 1xe0
+ 292 528 l 1
+ 273 446 l 1
+ 21 249 l 1
+ 40 331 l 1xe0
+EndSplineSet
+Refer: 26 108 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 691
+Width: 578
+VWidth: 0
+Flags: W
+HStem: 0 35<36.5 61.1149 204.615 445.934> 700 30<202.5 220.981 371.471 400.9>
+LayerCount: 2
+Fore
+SplineSet
+77 267 m 1
+ 395 516 l 1
+ 375 434 l 1
+ 57 185 l 1
+ 77 267 l 1
+EndSplineSet
+Refer: 37 76 N 1 0 0 1 37 0 2
 EndChar
 EndChars
 EndSplineFont

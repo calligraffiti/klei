@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1537402115
+ModificationTime: 1538264235
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 64240 11 6
+WinInfo: 308 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -169,7 +169,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 251658 125829 83886 519132 1048576 83886 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-1""" 
-BeginChars: 1114112 695
+BeginChars: 1114112 697
 
 StartChar: s
 Encoding: 115 115 0
@@ -4813,7 +4813,7 @@ Encoding: 64258 64258 152
 GlifName: uniF_B_02
 Width: 638
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: -179.2 28.1504<-74.4491 -3.80376> -9.65039 63.3506<429.206 517.976> 451.158 40.832<127.638 160.223 253.468 421.537> 742.775 26.0498<387.105 474.084> 753.851 20G<632.359 637.506>
 VStem: 397.194 84.5859<30.6758 153.874>
 LayerCount: 2
@@ -15279,6 +15279,43 @@ VStem: 212.179 63.6373<-127.037 -69.0003>
 LayerCount: 2
 Fore
 Refer: 145 184 S 1 0 0 1 51.834 -8.21702 2
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 695
+Width: 558
+VWidth: 0
+Flags: W
+HStem: 0 19.4121<-4.5 21.1362 155.824 327.157> 494 20G<314.498 335.309> 710 20<160.5 185.981 316.471 348.431>
+LayerCount: 2
+Fore
+SplineSet
+48 285 m 1
+ 340 514 l 1
+ 321 433 l 1
+ 29 204 l 1
+ 48 285 l 1
+EndSplineSet
+Refer: 37 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 696
+Width: 298
+VWidth: 0
+Flags: W
+HStem: -9.65039 53.4229<70.0054 154.322> 492 20G<250.45 271.309> 753.851 20G<261.36 265.696>
+VStem: 13 263 27.3105 83.4492<44.4988 154.222> 176.105 97.8506<690.367 765.46>
+LayerCount: 2
+Fore
+SplineSet
+32 321 m 5xf0
+ 276 512 l 5
+ 257 431 l 5
+ 13 240 l 5
+ 32 321 l 5xf0
+EndSplineSet
+Refer: 26 108 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

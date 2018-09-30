@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1536694487
+ModificationTime: 1538264350
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 165 11 6
+WinInfo: 308 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -17759,14 +17759,13 @@ VStem: 20 206 88.2266 65.727<16.7835 727.395>
 LayerCount: 2
 Fore
 SplineSet
-20 423 m 5xf0
- 226 583 l 5
- 226 534 l 5
- 20 374 l 5
- 20 423 l 5xf0
+20 356 m 5xf0
+ 226 516 l 5
+ 226 467 l 5
+ 20 307 l 5
+ 20 356 l 5xf0
 EndSplineSet
 Refer: 26 108 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: Lslash
@@ -17774,20 +17773,19 @@ Encoding: 321 321 739
 GlifName: L_slash
 Width: 589
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: 0 21<51 103.695 201.822 417.993> 714.458 15.875<57.0029 95.0746 217.216 252.047>
 VStem: 112.116 76.8451<26.5724 708.567> 523 16<110.335 139.014>
 LayerCount: 2
 Fore
 SplineSet
-50 343 m 5
- 342 572 l 5
- 342 523 l 5
- 50 294 l 5
- 50 343 l 5
+50 286 m 5
+ 342 515 l 5
+ 342 466 l 5
+ 50 237 l 5
+ 50 286 l 5
 EndSplineSet
 Refer: 37 76 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: Eth

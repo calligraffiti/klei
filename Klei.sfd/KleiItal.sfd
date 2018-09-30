@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1535589980
+ModificationTime: 1538264305
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -139,7 +139,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 0 11 6
+WinInfo: 308 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -169,7 +169,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 251658 125829 83886 519132 1048576 83886 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-1""" 
-BeginChars: 1114112 704
+BeginChars: 1114112 706
 
 StartChar: s
 Encoding: 115 115 0
@@ -7807,8 +7807,8 @@ HStem: 0 21<-14 14.532 133.623 335.053> 314 102<281.395 346.802> 714.111 15.8887
 VStem: 265 98.5732<331.023 399.705>
 LayerCount: 2
 Fore
-Refer: 33 46 S 1 0 0 1 225 325 2
-Refer: 37 76 N 1 0 0 1 0 0 2
+Refer: 33 46 N 1 0 0 1 225 325 2
+Refer: 37 76 S 1 0 0 1 0 0 2
 Validated: 1
 EndChar
 
@@ -7822,8 +7822,8 @@ HStem: -9.65039 49.4229<54.3462 138.35> 314 102<314.395 379.802> 732.9 13.6494<1
 VStem: 26.3105 71.4492<40.3556 149.856> 177.105 79.8506<676.808 770.721> 298 98.5732<331.023 399.705>
 LayerCount: 2
 Fore
-Refer: 33 46 S 1 0 0 1 258 325 2
-Refer: 26 108 N 1 0 0 1 -3.17054e-05 0 2
+Refer: 33 46 N 1 0 0 1 258 325 2
+Refer: 26 108 S 1 0 0 1 -3.17054e-05 0 2
 Validated: 1
 EndChar
 
@@ -15361,6 +15361,43 @@ VStem: 248.26 79.0498<-187.208 -81.3082>
 LayerCount: 2
 Fore
 Refer: 34 44 N 1 0 0 1 196 -151 2
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 704
+Width: 516
+VWidth: 0
+Flags: WO
+HStem: 0 21<-14 14.532 133.623 335.053> 493 20G<307.498 328.333> 714.111 15.8887<157 175.669 293.984 338>
+LayerCount: 2
+Fore
+SplineSet
+41 284 m 5
+ 333 513 l 5
+ 319 453 l 5
+ 27 224 l 5
+ 41 284 l 5
+EndSplineSet
+Refer: 37 76 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 705
+Width: 284
+VWidth: 0
+Flags: W
+HStem: -9.65039 49.4229<54.3462 138.35> 732.9 13.6494<146.649 166.395> 753.851 20G<252.225 253.861>
+VStem: 10 279 26.3105 71.4492<40.3556 149.856> 177.105 79.8506<676.808 770.721>
+LayerCount: 2
+Fore
+SplineSet
+24 354 m 1xf0
+ 289 561 l 1
+ 275 501 l 1
+ 10 294 l 1
+ 24 354 l 1xf0
+EndSplineSet
+Refer: 26 108 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont

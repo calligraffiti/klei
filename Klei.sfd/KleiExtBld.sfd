@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1538004143
+ModificationTime: 1538266115
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 8470 11 6
+WinInfo: 308 11 6
 BeginPrivate: 1
 BlueValues 39 [-10 0 506 512 638 644 730 735 746 766]
 EndPrivate
@@ -13470,11 +13470,11 @@ VStem: 111.116 191.845<43.4365 689.019>
 LayerCount: 2
 Fore
 SplineSet
-50 350 m 5
- 378 594 l 5
- 378 534 l 1
- 50 290 l 1
- 50 350 l 5
+50 270 m 5
+ 378 514 l 5
+ 378 424 l 5
+ 50 180 l 5
+ 50 270 l 5
 EndSplineSet
 Refer: 37 76 N 1 0 0 1 0 0 3
 EndChar
@@ -13484,17 +13484,17 @@ Encoding: 322 322 658
 GlifName: lslash
 Width: 330
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: 0 32.8799<40 72.6137 40 72.6137 253.357 286.123 253.357 286.123> 700.916 29.9609<42.4092 73.4274 42.4092 73.4274>
-VStem: 76.2266 173.728<34.1742 700.556 34.1742 700.556>
+VStem: 11 294 76.2266 173.728<34.1742 700.556 34.1742 700.556>
 LayerCount: 2
 Fore
 SplineSet
-46 427 m 1
- 310 634.333007812 l 5
- 310 577.333007812 l 5
- 46 370 l 1
- 46 427 l 1
+11 285 m 5xe0
+ 305 517 l 5
+ 305 430 l 5
+ 11 198 l 5
+ 11 285 l 5xe0
 EndSplineSet
 Refer: 26 108 N 1 0 0 1 0 0 3
 Refer: 26 108 N 1 0 0 1 0 0 3

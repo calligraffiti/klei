@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1536981705
+ModificationTime: 1538264570
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 64240 11 6
+WinInfo: 308 11 6
 BeginPrivate: 1
 BlueValues 39 [-10 0 506 512 638 644 730 735 746 766]
 EndPrivate
@@ -14193,16 +14193,16 @@ GlifName: L_slash
 Width: 617
 VWidth: 0
 Flags: W
-HStem: 0 29<56 98.2067 236.701 419.238> 701 29<57 98.8913 236.505 278>
+HStem: 0 29<56 98.2067 236.701 419.238> 493 20G<316.498 342> 701 29<57 98.8913 236.505 278>
 VStem: 111.116 111.845<39.4365 693.019> 528.23 29.7324<157.434 162.671>
 LayerCount: 2
 Fore
 SplineSet
-50 347 m 1
- 342 576 l 1
- 342 519 l 1
- 50 290 l 1
- 50 347 l 1
+50 284 m 1
+ 342 513 l 1
+ 342 446 l 5
+ 50 217 l 5
+ 50 284 l 1
 EndSplineSet
 Refer: 37 76 N 1 0 0 1 0 0 3
 EndChar
@@ -14212,21 +14212,20 @@ Encoding: 322 322 658
 GlifName: lslash
 Width: 285
 VWidth: 0
-Flags: W
+Flags: WO
 HStem: 0 28.8799<50 81.6128 50 81.6128 194.682 226.123 194.682 226.123> 716.916 25.9609<52.4092 82.541 52.4092 82.541>
-VStem: 20 218 86.2266 103.728<30.1742 716.556 30.1742 716.556>
+VStem: 21 229 86.2266 103.728<30.1742 716.556 30.1742 716.556>
 LayerCount: 2
 Fore
 SplineSet
-20 427 m 1xe0
- 238 598 l 1
- 238 541 l 1
- 20 370 l 1
- 20 427 l 1xe0
+21 336 m 5xe0
+ 250 515 l 5
+ 250 448 l 5
+ 21 269 l 5
+ 21 336 l 5xe0
 EndSplineSet
 Refer: 26 108 N 1 0 0 1 0 0 3
 Refer: 26 108 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: kgreenlandic
