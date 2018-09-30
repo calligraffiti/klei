@@ -24,7 +24,7 @@ The Klei.sfd folder contains the native FontForge source files.
 |   |   ├── QA                // 'final' proof
 ├── fonts                     // Compiled OTF fonts
 |   ├── otf                   // .otf font files
-|   ├── ttf                   // .ttf font files
+|   ├── ufo                   // .ufo font files
 |   ├── web                   // .woff web files
 ├── klei.sfd                  // FontForge masters
 ├── LICENCE.md                // OFL license info
