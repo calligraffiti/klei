@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01DE" format="1">
-  <advance width="685"/>
+  <advance width="681"/>
   <unicode hex="01DE"/>
   <outline>
     <component base="macron" xOffset="336.869" yOffset="440.702"/>

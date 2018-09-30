@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="1">
-  <advance width="669"/>
+  <advance width="558"/>
   <unicode hex="0141"/>
   <outline>
     <contour>
-      <point x="50" y="270" type="line"/>
-      <point x="378" y="514" type="line"/>
-      <point x="378" y="424" type="line"/>
-      <point x="50" y="180" type="line"/>
+      <point x="48" y="285" type="line"/>
+      <point x="340" y="514" type="line"/>
+      <point x="321" y="433" type="line"/>
+      <point x="29" y="204" type="line"/>
     </contour>
     <component base="L"/>
   </outline>
@@ -21,22 +21,19 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>33</integer>
+            <integer>19</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>697</integer>
+            <integer>494</integer>
             <key>width</key>
-            <integer>33</integer>
+            <integer>20</integer>
           </dict>
-        </array>
-        <key>vhints</key>
-        <array>
           <dict>
             <key>position</key>
-            <integer>111</integer>
+            <integer>710</integer>
             <key>width</key>
-            <integer>192</integer>
+            <integer>20</integer>
           </dict>
         </array>
       </dict>

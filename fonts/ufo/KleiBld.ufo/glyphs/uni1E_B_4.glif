@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EB4" format="1">
-  <advance width="835"/>
+  <advance width="825"/>
   <unicode hex="1EB4"/>
   <outline>
     <component base="tildecomb" xOffset="224.608" yOffset="447.728"/>

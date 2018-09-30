@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni1EAC" format="1">
-  <advance width="825"/>
-  <unicode hex="1EAC"/>
+<glyph name="lslash" format="1">
+  <advance width="284"/>
+  <unicode hex="0142"/>
   <outline>
-    <component base="circumflex" xOffset="240" yOffset="302.571"/>
-    <component base="uni1EA0"/>
+    <contour>
+      <point x="24" y="354" type="line"/>
+      <point x="289" y="561" type="line"/>
+      <point x="275" y="501" type="line"/>
+      <point x="10" y="294" type="line"/>
+    </contour>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
@@ -14,48 +19,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-169</integer>
+            <integer>-10</integer>
             <key>width</key>
-            <integer>148</integer>
+            <integer>49</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>733</integer>
             <key>width</key>
-            <integer>30</integer>
+            <integer>14</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>295</integer>
-            <key>width</key>
-            <integer>53</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>715</integer>
+            <integer>754</integer>
             <key>width</key>
             <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>787</integer>
-            <key>width</key>
-            <integer>268</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>279</integer>
+            <integer>10</integer>
             <key>width</key>
-            <integer>307</integer>
+            <integer>279</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>326</integer>
+            <integer>26</integer>
             <key>width</key>
-            <integer>152</integer>
+            <integer>71</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>177</integer>
+            <key>width</key>
+            <integer>80</integer>
           </dict>
         </array>
       </dict>

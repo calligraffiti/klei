@@ -367,7 +367,7 @@ feature kern {
 	\uni01C3 \uniFB06 \uniFB05 \uni0180 \uni01F6 \ordfeminine \Eth \uni2120 \uni2121 
 	\uni20BA \uni20B9 \fraction \minus \ordmasculine \quotesinglbase 
 	\quotereversed \uni0302 \uni0307 \uni0308 \dotbelowcomb \uni030C \uni0304 
-	\uni0305 \uni030A \uni0327 \uni0326 ];
+	\uni0305 \uni030A \uni0327 \uni0326 \Lslash \lslash ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

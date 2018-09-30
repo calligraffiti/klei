@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="835"/>
+  <advance width="825"/>
   <unicode hex="00C5"/>
   <outline>
     <component base="degree" xOffset="302.5" yOffset="270.919"/>

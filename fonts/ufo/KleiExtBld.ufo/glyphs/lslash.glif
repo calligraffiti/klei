@@ -4,10 +4,10 @@
   <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="46" y="427" type="line"/>
-      <point x="310" y="634.333" type="line"/>
-      <point x="310" y="577.333" type="line"/>
-      <point x="46" y="370" type="line"/>
+      <point x="12" y="285" type="line"/>
+      <point x="306" y="517" type="line"/>
+      <point x="306" y="430" type="line"/>
+      <point x="12" y="198" type="line"/>
     </contour>
     <component base="l"/>
     <component base="l"/>
@@ -33,6 +33,12 @@
         </array>
         <key>vhints</key>
         <array>
+          <dict>
+            <key>position</key>
+            <integer>12</integer>
+            <key>width</key>
+            <integer>294</integer>
+          </dict>
           <dict>
             <key>position</key>
             <integer>76</integer>

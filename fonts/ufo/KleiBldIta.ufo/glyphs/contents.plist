@@ -1394,5 +1394,9 @@
     <string>uni0326.glif</string>
     <key>uni0327</key>
     <string>uni0327.glif</string>
+    <key>Lslash</key>
+    <string>L_slash.glif</string>
+    <key>lslash</key>
+    <string>lslash.glif</string>
   </dict>
 </plist>

@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Adieresis" format="1">
-  <advance width="681"/>
-  <unicode hex="00C4"/>
+<glyph name="lslash" format="1">
+  <advance width="308"/>
+  <unicode hex="0142"/>
   <outline>
-    <component base="dieresis" xOffset="210.434" yOffset="170"/>
-    <component base="A"/>
+    <contour>
+      <point x="40" y="331" type="line"/>
+      <point x="292" y="528" type="line"/>
+      <point x="273" y="446" type="line"/>
+      <point x="21" y="249" type="line"/>
+    </contour>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
@@ -14,42 +19,36 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-10</integer>
             <key>width</key>
-            <integer>30</integer>
+            <integer>53</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>295</integer>
-            <key>width</key>
-            <integer>63</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>716</integer>
+            <integer>754</integer>
             <key>width</key>
             <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>785</integer>
-            <key>width</key>
-            <integer>111</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>339</integer>
+            <integer>21</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>271</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>557</integer>
+            <integer>27</integer>
             <key>width</key>
-            <integer>107</integer>
+            <integer>103</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>173</integer>
+            <key>width</key>
+            <integer>121</integer>
           </dict>
         </array>
       </dict>

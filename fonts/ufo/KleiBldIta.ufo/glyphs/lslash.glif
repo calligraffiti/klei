@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Lslash" format="1">
-  <advance width="617"/>
-  <unicode hex="0141"/>
+<glyph name="lslash" format="1">
+  <advance width="326"/>
+  <unicode hex="0142"/>
   <outline>
     <contour>
-      <point x="50" y="284" type="line"/>
-      <point x="342" y="513" type="line"/>
-      <point x="342" y="446" type="line"/>
-      <point x="50" y="217" type="line"/>
+      <point x="41" y="305" type="line"/>
+      <point x="351" y="549" type="line"/>
+      <point x="326" y="442" type="line"/>
+      <point x="16" y="198" type="line"/>
     </contour>
-    <component base="L"/>
+    <component base="l"/>
   </outline>
   <lib>
     <dict>
@@ -19,36 +19,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-10</integer>
             <key>width</key>
-            <integer>29</integer>
+            <integer>54</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>493</integer>
+            <integer>754</integer>
             <key>width</key>
             <integer>20</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>701</integer>
-            <key>width</key>
-            <integer>29</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>111</integer>
+            <integer>37</integer>
             <key>width</key>
-            <integer>112</integer>
+            <integer>143</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>528</integer>
+            <integer>183</integer>
             <key>width</key>
-            <integer>30</integer>
+            <integer>161</integer>
           </dict>
         </array>
       </dict>
