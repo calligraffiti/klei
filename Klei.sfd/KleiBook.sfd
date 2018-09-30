@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1538264273
+ModificationTime: 1538350695
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 319 11 6
+WinInfo: 341 11 6
 BeginPrivate: 1
 BlueValues 39 [-10 0 506 512 638 644 730 735 746 766]
 EndPrivate
@@ -163,7 +163,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 251658 125829 83886 519132 1048576 83886 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-1""" 
-BeginChars: 1114112 690
+BeginChars: 1114112 691
 
 StartChar: s
 Encoding: 115 115 0
@@ -13296,17 +13296,17 @@ GlifName: longs
 Width: 486
 VWidth: 0
 Flags: W
-HStem: 0 18.8242<58.8408 89.2508 179.626 210.964> 642.073 21G<381.594 421.482> 725.104 31.085<234.687 340.851>
-VStem: 95.0674 78.7255<19.7805 456.514 498.46 657.703>
+HStem: 0 18.6689<58.8408 89.2508 186.626 217.964> 642.073 21G<381.594 421.482> 725.104 31.085<234.6 340.851>
+VStem: 95.0674 81.6831<20.8001 456.514 498.46 657.703>
 LayerCount: 2
 Fore
 SplineSet
 176.750499555 547.551757812 m 1
- 173.79296875 43.86328125 l 2
- 173.792893551 43.7970000992 l 0
- 173.792893551 28.814885903 185.329220514 19.063622212 204.056640625 18.82421875 c 2
- 210.963867188 18.7353515625 l 1
- 210.963867188 0 l 1
+ 180.79296875 43.86328125 l 2
+ 180.79296875 43.796875 l 0
+ 180.79296875 28.814453125 192.329101562 19.0634765625 211.056640625 18.82421875 c 2
+ 217.963867188 18.7353515625 l 1
+ 217.963867188 0 l 1
  58.8408203125 0 l 1
  58.8408203125 18.6689453125 l 1
  65.748046875 18.7578125 l 2
@@ -13324,10 +13324,9 @@ SplineSet
  354.272460938 756.188476562 457.1953125 737.1015625 457.1953125 677 c 0
  457.1953125 653.487304688 428.963867188 642.073242188 414 642.073242188 c 0
  349.1875 642.073242188 371.624023438 725.103515625 301.381835938 725.103515625 c 0
- 195.57421875 725.103515625 179.409179688 648.157226562 177.268554688 575.217773438 c 0
+ 195.57421875 725.103515625 178.409179688 648.157226562 176.268554688 575.217773438 c 0
  176.750499555 547.551757812 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: Tbar
@@ -14360,7 +14359,7 @@ Encoding: 322 322 658
 GlifName: lslash
 Width: 265
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 18.8799<50 77.5626 50 77.5626 178.743 206.123 178.743 206.123> 726.916 15.9609<52.4092 79.1866 52.4092 79.1866>
 VStem: 20 218 86.2266 83.7275<20.1742 726.556 20.1742 726.556>
 LayerCount: 2
@@ -14604,6 +14603,7 @@ EndChar
 
 StartChar: fraction
 Encoding: 8260 8260 665
+GlifName: fraction
 Width: 102
 VWidth: 0
 Flags: W
@@ -14620,6 +14620,7 @@ EndChar
 
 StartChar: minus
 Encoding: 8722 8722 666
+GlifName: minus
 Width: 403
 VWidth: 0
 Flags: W
@@ -14641,6 +14642,7 @@ EndChar
 
 StartChar: ordmasculine
 Encoding: 186 186 667
+GlifName: ordmasculine
 Width: 255
 VWidth: 0
 Flags: W
@@ -14664,6 +14666,7 @@ EndChar
 
 StartChar: quotesinglbase
 Encoding: 8218 8218 668
+GlifName: quotesinglbase
 Width: 246
 VWidth: 0
 Flags: W
@@ -14690,6 +14693,7 @@ EndChar
 
 StartChar: quotereversed
 Encoding: 8219 8219 669
+GlifName: quotereversed
 Width: 236
 VWidth: 0
 Flags: W
@@ -14712,6 +14716,7 @@ EndChar
 
 StartChar: quotedblbase
 Encoding: 8222 8222 670
+GlifName: quotedblbase
 Width: 401
 VWidth: 0
 Flags: W
@@ -14751,6 +14756,7 @@ EndChar
 
 StartChar: uni201F
 Encoding: 8223 8223 671
+GlifName: uni201F_
 Width: 422
 VWidth: 0
 Flags: W
@@ -14796,6 +14802,7 @@ EndChar
 
 StartChar: eth
 Encoding: 240 240 672
+GlifName: eth
 Width: 534
 VWidth: 0
 Flags: W
@@ -14828,6 +14835,7 @@ EndChar
 
 StartChar: exclamdown
 Encoding: 161 161 673
+GlifName: exclamdown
 Width: 238
 VWidth: 0
 Flags: W
@@ -14855,6 +14863,7 @@ EndChar
 
 StartChar: uni2120
 Encoding: 8480 8480 674
+GlifName: uni2120
 Width: 444
 VWidth: 0
 Flags: W
@@ -14922,6 +14931,7 @@ EndChar
 
 StartChar: uni2121
 Encoding: 8481 8481 675
+GlifName: uni2121
 Width: 1311
 VWidth: 0
 Flags: W
@@ -15030,6 +15040,7 @@ EndChar
 
 StartChar: trademark
 Encoding: 8482 8482 676
+GlifName: trademark
 Width: 513
 VWidth: 0
 Flags: W
@@ -15114,6 +15125,7 @@ EndChar
 
 StartChar: uni2116
 Encoding: 8470 8470 677
+GlifName: uni2116
 Width: 1153
 VWidth: 0
 Flags: W
@@ -15177,6 +15189,7 @@ EndChar
 
 StartChar: prescription
 Encoding: 8478 8478 678
+GlifName: prescription
 Width: 675
 VWidth: 0
 Flags: W
@@ -15255,6 +15268,7 @@ EndChar
 
 StartChar: uni0302
 Encoding: 770 770 679
+GlifName: uni0302
 Width: 553
 VWidth: 0
 Flags: W
@@ -15267,6 +15281,7 @@ EndChar
 
 StartChar: uni0307
 Encoding: 775 775 680
+GlifName: uni0307
 Width: 224
 VWidth: 0
 Flags: W
@@ -15285,6 +15300,7 @@ EndChar
 
 StartChar: uni0308
 Encoding: 776 776 681
+GlifName: uni0308
 Width: 553
 VWidth: 0
 Flags: W
@@ -15297,6 +15313,7 @@ EndChar
 
 StartChar: dotbelowcomb
 Encoding: 803 803 682
+GlifName: dotbelowcomb
 Width: 539
 VWidth: 0
 Flags: W
@@ -15309,6 +15326,7 @@ EndChar
 
 StartChar: uni0304
 Encoding: 772 772 683
+GlifName: uni0304
 Width: 305
 VWidth: 0
 Flags: W
@@ -15321,6 +15339,7 @@ EndChar
 
 StartChar: uni0305
 Encoding: 773 773 684
+GlifName: uni0305
 Width: 305
 VWidth: 0
 Flags: W
@@ -15333,6 +15352,7 @@ EndChar
 
 StartChar: uni030C
 Encoding: 780 780 685
+GlifName: uni030C_
 Width: 539
 VWidth: 0
 Flags: W
@@ -15345,6 +15365,7 @@ EndChar
 
 StartChar: uni030A
 Encoding: 778 778 686
+GlifName: uni030A_
 Width: 553
 VWidth: 0
 Flags: W
@@ -15357,6 +15378,7 @@ EndChar
 
 StartChar: uni0326
 Encoding: 806 806 687
+GlifName: uni0326
 Width: 561
 VWidth: 0
 Flags: W
@@ -15369,6 +15391,7 @@ EndChar
 
 StartChar: uni0327
 Encoding: 807 807 688
+GlifName: uni0327
 Width: 709
 VWidth: 0
 Flags: W
@@ -15381,6 +15404,7 @@ EndChar
 
 StartChar: uniFB06
 Encoding: 64262 64262 689
+GlifName: uniF_B_06
 Width: 761
 VWidth: 0
 Flags: W
@@ -15439,6 +15463,27 @@ SplineSet
  76.6416015625 123.54296875 77.69140625 122.498046875 77.9189453125 120.418945312 c 0
  81.779296875 85.2255859375 104.831054688 17.443359375 192.697265625 17.443359375 c 0x5c80
 EndSplineSet
+EndChar
+
+StartChar: uni0180
+Encoding: 384 384 690
+Width: 561
+VWidth: 0
+Flags: WO
+HStem: -3.78906 18.8643<51 77.6659 264.466 331.294> 478.08 33.9219<205.03 352.357> 579 48<38.2197 305.823> 705.34 15.9609<53.4092 80.1866> 727.506 20G<157.311 164.384>
+VStem: 87.2266 83.7871<68.0476 455.579 478.947 704.979> 447.152 90.0205<113.931 370.452>
+LayerCount: 2
+Fore
+SplineSet
+47 579 m 5
+ 41 581 38 597 38 605 c 4
+ 38 613 41 627 47 627 c 5
+ 300 627 l 5
+ 304 627 306 609 306 600 c 4
+ 306 593 305 579 300 579 c 5
+ 47 579 l 5
+EndSplineSet
+Refer: 22 98 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
