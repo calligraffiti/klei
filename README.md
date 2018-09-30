@@ -33,8 +33,10 @@ The Klei.sfd folder contains the native FontForge source files.
 
 ## TODO
 
-- Greek Glyphs
-- Cyrillic Glyphs
+- Greek glyphs
+- Cyrillic glyphs
+- Small caps
+- Alt glyphs
 - ~~Create a heavy black weight~~
 - ~~Post UFO files~~
 - ~~Upload Web Fonts~~ **!Untested!**
