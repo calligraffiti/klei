@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424325067
-ModificationTime: 1538349887
+ModificationTime: 1538351459
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -140,7 +140,7 @@ DisplaySize: -128
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 150
-WinInfo: 330 11 6
+WinInfo: 253 11 6
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -14053,22 +14053,21 @@ Encoding: 273 273 658
 GlifName: dcroat
 Width: 545
 VWidth: 0
-Flags: W
-HStem: -10 29.8711<211.337 345.783> -7.39941 21G<407.156 430.088> 491.64 20.5264<210.586 314.371> 592 44<238.035 505.947> 709.496 13.584<355.644 369.867>
+Flags: WO
+HStem: -10 29.8711<211.337 345.783> -7.39941 21G<407.156 430.088> 491.64 20.5264<210.586 314.371> 582 44<238.035 505.947> 709.496 13.584<355.644 369.867>
 VStem: 37.001 76.0225<128.834 384.877> 389.465 65.7246<45.0815 432.297 469.122 705.974>
 LayerCount: 2
 Fore
 SplineSet
-247 592 m 5x3e
- 241 594 238 605 238 616 c 4
- 238 627 241 636 247 636 c 5
- 500 636 l 5
- 504 636 506 623 506 611 c 4
- 506 601 505 592 500 592 c 5
- 247 592 l 5x3e
+247 582 m 5x3e
+ 241 584 238 595 238 606 c 4
+ 238 617 241 626 247 626 c 5
+ 500 626 l 5
+ 504 626 506 613 506 601 c 4
+ 506 591 505 582 500 582 c 5
+ 247 582 l 5x3e
 EndSplineSet
 Refer: 10 100 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: perthousand
