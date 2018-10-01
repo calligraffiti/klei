@@ -384,7 +384,8 @@ feature kern {
 	\uniFB05 \uniFB06 \uni20B9 \uni20BA \ordfeminine \fraction \minus \ordmasculine 
 	\uni201F \quotedblbase \quotereversed \quotesinglbase \exclamdown \uni2120 
 	\trademark \uni2121 \prescription \uni0302 \uni0307 \uni0308 \dotbelowcomb 
-	\uni030C \uni0304 \uni0305 \uni0327 \uni0326 \uni030A \lslash \Lslash ];
+	\uni030C \uni0304 \uni0305 \uni0327 \uni0326 \uni030A \lslash \Lslash \uni0180 
+	\Dcroat \dcroat ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

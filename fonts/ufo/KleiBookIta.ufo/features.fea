@@ -385,7 +385,7 @@ feature kern {
 	\uni201F \quotedblbase \quotereversed \quotesinglbase \eth \exclamdown 
 	\trademark \uni2123 \uni2124 \uni2125 \Omega \uni2120 \uni2121 \prescription 
 	\uni0302 \uni0307 \uni0308 \dotbelowcomb \uni0304 \uni0305 \uni030C \uni030A 
-	\uni0326 \uni0327 \Lslash \lslash ];
+	\uni0326 \uni0327 \Lslash \lslash \uni0180 \Dcroat \dcroat ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 

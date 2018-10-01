@@ -4,17 +4,15 @@
   <unicode hex="0127"/>
   <outline>
     <contour>
-      <point x="345.287" y="549" type="curve" smooth="yes"/>
-      <point x="104.197" y="549" type="line"/>
-      <point x="108.363" y="558.751" type="line" smooth="yes"/>
-      <point x="108.363" y="558.751"/>
-      <point x="122.161" y="603"/>
-      <point x="140.801" y="603" type="curve" smooth="yes"/>
-      <point x="368.462" y="603" type="line"/>
-      <point x="388.358" y="629.769" type="line"/>
-      <point x="381.54" y="596.85" type="line" smooth="yes"/>
-      <point x="380.582" y="591.469"/>
-      <point x="367.374" y="549"/>
+      <point x="504" y="613" type="line"/>
+      <point x="503.041" y="607.619"/>
+      <point x="487.374" y="559"/>
+      <point x="465.287" y="559" type="curve" smooth="yes"/>
+      <point x="104.197" y="559" type="line"/>
+      <point x="108.363" y="568.751" type="line" smooth="yes"/>
+      <point x="108.363" y="568.751"/>
+      <point x="122" y="613"/>
+      <point x="140.801" y="613" type="curve" smooth="yes"/>
     </contour>
     <component base="h" xOffset="25"/>
   </outline>
@@ -44,7 +42,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>549</integer>
+            <integer>559</integer>
             <key>width</key>
             <integer>54</integer>
           </dict>

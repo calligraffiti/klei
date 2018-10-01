@@ -1382,5 +1382,11 @@
     <string>uni0327.glif</string>
     <key>uniFB06</key>
     <string>uniF_B_06.glif</string>
+    <key>uni0180</key>
+    <string>uni0180.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
+    <key>Dcroat</key>
+    <string>D_croat.glif</string>
   </dict>
 </plist>

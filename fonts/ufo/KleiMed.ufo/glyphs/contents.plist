@@ -1378,5 +1378,11 @@
     <string>uni0304.glif</string>
     <key>uni0305</key>
     <string>uni0305.glif</string>
+    <key>uni0180</key>
+    <string>uni0180.glif</string>
+    <key>Dcroat</key>
+    <string>D_croat.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
   </dict>
 </plist>

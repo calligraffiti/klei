@@ -1398,5 +1398,11 @@
     <string>L_slash.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
+    <key>uni0180</key>
+    <string>uni0180.glif</string>
+    <key>Dcroat</key>
+    <string>D_croat.glif</string>
+    <key>dcroat</key>
+    <string>dcroat.glif</string>
   </dict>
 </plist>

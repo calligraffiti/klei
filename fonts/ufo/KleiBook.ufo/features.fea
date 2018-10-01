@@ -313,7 +313,7 @@ feature kern {
 	\ordmasculine \quotesinglbase \quotereversed \quotedblbase \uni201F \eth 
 	\exclamdown \uni2120 \uni2121 \trademark \uni2116 \prescription \uni0302 
 	\uni0307 \uni0308 \dotbelowcomb \uni0304 \uni0305 \uni030C \uni030A \uni0326 
-	\uni0327 \uniFB06 ];
+	\uni0327 \uniFB06 \uni0180 \dcroat \Dcroat ];
 @GDEF_Ligature = [\uniFB02 \uniFB00 \uniFB01 \uniFB03 \uniFB04 ];
 @GDEF_Mark = [\uni0328 ];
 
