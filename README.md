@@ -58,6 +58,10 @@ Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
 
 We would really welcome any help finishing and extending Klei. We would especially welcome any help with Greek and Cyrillic glyphs and testing on different platforms.
 
+Please consider a small **[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PULU375X94PXJ&source=url)** donation to help us finish Klei.
+
+---
+
 Special thanks to [Dave Crossland](http://understandingfonts.com/who/dave-crossland/) for inspiring me to start on this journey and for encouraging me to continue on. It turns out that the magic ingredient for any typeface is perseverance. To James Puckett [DunwichType](https://github.com/DunwichType) for making his DTF_Proofs available. They continue to prove invaluable in the continuing effort to refine this typeface.
 
 ![Klei Dickens sample](https://raw.githubusercontent.com/Rocketroom/klei/master/specimens/klei_samp1.jpg)
