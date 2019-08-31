@@ -4,8 +4,8 @@
   <unicode hex="03A3"/>
   <outline>
     <contour>
-      <point x="62.0029" y="714.458" type="curve" smooth="yes"/>
-      <point x="62.0029" y="730.333" type="line"/>
+      <point x="42.0029" y="714.458" type="curve" smooth="yes"/>
+      <point x="42.0029" y="730.333" type="line"/>
       <point x="222.047" y="730.333" type="line"/>
       <point x="222.047" y="730" type="line"/>
       <point x="457.509" y="730" type="line"/>
@@ -23,7 +23,13 @@
       <point x="182.514" y="703.611"/>
       <point x="171.967" y="693"/>
       <point x="171.813" y="681.031" type="curve" smooth="yes"/>
-      <point x="417.372" y="409.077" type="line"/>
+      <point x="414.733" y="412" type="line"/>
+      <point x="415.751" y="410.872"/>
+      <point x="416.242" y="409.925"/>
+      <point x="416.242" y="408.973" type="curve" smooth="yes"/>
+      <point x="416.242" y="408.044"/>
+      <point x="415.774" y="407.11"/>
+      <point x="414.872" y="406" type="curve"/>
       <point x="161.81" y="94.5195" type="line" smooth="yes"/>
       <point x="161.939" y="80.999"/>
       <point x="170.326" y="66.709"/>
@@ -40,11 +46,17 @@
       <point x="499" y="180" type="line"/>
       <point x="482" y="0" type="line"/>
       <point x="204.05" y="0" type="line" smooth="yes"/>
-      <point x="41" y="0" type="line"/>
-      <point x="41" y="15.9473" type="line" smooth="yes"/>
-      <point x="348.292" y="390" type="line"/>
-      <point x="348.292" y="390"/>
-      <point x="73.7451" y="695.57"/>
+      <point x="31" y="0" type="line"/>
+      <point x="31" y="15.9473" type="line" smooth="yes"/>
+      <point x="325" y="381" type="line" smooth="yes"/>
+      <point x="326.093" y="382.357"/>
+      <point x="326.596" y="383.574"/>
+      <point x="326.596" y="384.811" type="curve" smooth="yes"/>
+      <point x="326.596" y="386.122"/>
+      <point x="326.03" y="387.456"/>
+      <point x="325" y="389" type="curve"/>
+      <point x="303.942" y="417.543"/>
+      <point x="53.1926" y="696.459"/>
     </contour>
   </outline>
   <lib>

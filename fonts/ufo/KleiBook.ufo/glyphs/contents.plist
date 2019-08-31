@@ -1388,5 +1388,7 @@
     <string>dcroat.glif</string>
     <key>Dcroat</key>
     <string>D_croat.glif</string>
+    <key>estimated</key>
+    <string>estimated.glif</string>
   </dict>
 </plist>

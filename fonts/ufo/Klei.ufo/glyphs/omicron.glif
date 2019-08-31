@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="1">
-  <advance width="534"/>
+  <advance width="488"/>
   <unicode hex="03BF"/>
   <outline>
-    <component base="o"/>
+    <contour>
+      <point x="213.978" y="-10.0254" type="curve" smooth="yes"/>
+      <point x="90.2549" y="-10.0254"/>
+      <point x="43.1611" y="120.712"/>
+      <point x="43.1611" y="244.316" type="curve" smooth="yes"/>
+      <point x="43.1611" y="383.31"/>
+      <point x="124.656" y="511.135"/>
+      <point x="262.953" y="511.135" type="curve" smooth="yes"/>
+      <point x="394.341" y="511.135"/>
+      <point x="446.911" y="375.274"/>
+      <point x="446.911" y="244.316" type="curve" smooth="yes"/>
+      <point x="446.911" y="106.707"/>
+      <point x="351.3" y="-10.0254"/>
+    </contour>
+    <contour>
+      <point x="404.726" y="294.395" type="curve" smooth="yes"/>
+      <point x="404.726" y="355.901"/>
+      <point x="358.346" y="429.277"/>
+      <point x="297.032" y="429.277" type="curve" smooth="yes"/>
+      <point x="182.01" y="429.277"/>
+      <point x="87.8369" y="315.106"/>
+      <point x="87.8369" y="200.176" type="curve" smooth="yes"/>
+      <point x="87.8369" y="138.453"/>
+      <point x="127.539" y="68.9863"/>
+      <point x="188.721" y="68.9863" type="curve" smooth="yes"/>
+      <point x="307.429" y="68.9863"/>
+      <point x="404.726" y="176.304"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -15,28 +42,28 @@
             <key>position</key>
             <integer>-10</integer>
             <key>width</key>
-            <integer>30</integer>
+            <integer>79</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>481</integer>
+            <integer>429</integer>
             <key>width</key>
-            <integer>29</integer>
+            <integer>82</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>41</integer>
+            <integer>43</integer>
             <key>width</key>
-            <integer>76</integer>
+            <integer>45</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>411</integer>
+            <integer>405</integer>
             <key>width</key>
-            <integer>76</integer>
+            <integer>42</integer>
           </dict>
         </array>
       </dict>

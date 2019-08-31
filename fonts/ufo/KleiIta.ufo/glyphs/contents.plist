@@ -1414,5 +1414,7 @@
     <string>L_slash.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
+    <key>estimated</key>
+    <string>estimated.glif</string>
   </dict>
 </plist>

@@ -1400,5 +1400,7 @@
     <string>dcroat.glif</string>
     <key>uni0180</key>
     <string>uni0180.glif</string>
+    <key>estimated</key>
+    <string>estimated.glif</string>
   </dict>
 </plist>

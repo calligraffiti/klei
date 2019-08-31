@@ -1540,5 +1540,61 @@
     <string>uni0327.glif</string>
     <key>uni0326</key>
     <string>uni0326.glif</string>
+    <key>estimated</key>
+    <string>estimated.glif</string>
+    <key>Upsilon</key>
+    <string>U_psilon.glif</string>
+    <key>gamma</key>
+    <string>gamma.glif</string>
+    <key>eta</key>
+    <string>eta.glif</string>
+    <key>nu</key>
+    <string>nu.glif</string>
+    <key>tau</key>
+    <string>tau.glif</string>
+    <key>lambda</key>
+    <string>lambda.glif</string>
+    <key>chi</key>
+    <string>chi.glif</string>
+    <key>rho</key>
+    <string>rho.glif</string>
+    <key>tonos</key>
+    <string>tonos.glif</string>
+    <key>alphatonos</key>
+    <string>alphatonos.glif</string>
+    <key>epsilontonos</key>
+    <string>epsilontonos.glif</string>
+    <key>etatonos</key>
+    <string>etatonos.glif</string>
+    <key>omicrontonos</key>
+    <string>omicrontonos.glif</string>
+    <key>upsilon</key>
+    <string>upsilon.glif</string>
+    <key>upsilontonos</key>
+    <string>upsilontonos.glif</string>
+    <key>upsilondieresis</key>
+    <string>upsilondieresis.glif</string>
+    <key>iotadieresis</key>
+    <string>iotadieresis.glif</string>
+    <key>upsilondieresistonos</key>
+    <string>upsilondieresistonos.glif</string>
+    <key>Omegatonos</key>
+    <string>O_megatonos.glif</string>
+    <key>iotadieresistonos</key>
+    <string>iotadieresistonos.glif</string>
+    <key>Omicrontonos</key>
+    <string>O_microntonos.glif</string>
+    <key>Upsilontonos</key>
+    <string>U_psilontonos.glif</string>
+    <key>Iotatonos</key>
+    <string>I_otatonos.glif</string>
+    <key>Etatonos</key>
+    <string>E_tatonos.glif</string>
+    <key>Epsilontonos</key>
+    <string>E_psilontonos.glif</string>
+    <key>Alphatonos</key>
+    <string>A_lphatonos.glif</string>
+    <key>dieresistonos</key>
+    <string>dieresistonos.glif</string>
   </dict>
 </plist>

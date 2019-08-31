@@ -3,7 +3,7 @@
   <advance width="684"/>
   <unicode hex="0176"/>
   <outline>
-    <component base="circumflex" xOffset="179.749" yOffset="302.571"/>
+    <component base="circumflex" xOffset="178.749" yOffset="302.571"/>
     <component base="Y"/>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>216</integer>
+            <integer>215</integer>
             <key>width</key>
             <integer>274</integer>
           </dict>
