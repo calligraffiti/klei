@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni019C" format="1">
-  <advance width="806"/>
+  <advance width="857"/>
   <unicode hex="019C"/>
   <outline>
-    <component base="m" xScale="-1" yScale="-1" xOffset="818" yOffset="503"/>
+    <component base="m" xScale="-1" yScale="-1" xOffset="857"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +19,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-09-01 02:59:00 +0000</string>
+      <string>2019-09-01 04:35:48 +0000</string>
     </dict>
   </lib>
 </glyph>

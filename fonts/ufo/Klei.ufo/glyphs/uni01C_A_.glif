@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01CA" format="1">
-  <advance width="1049"/>
+  <advance width="1128"/>
   <unicode hex="01CA"/>
   <outline>
-    <component base="J" xOffset="650"/>
-    <component base="N"/>
+    <component base="J"/>
+    <component base="N" xOffset="305"/>
   </outline>
   <lib>
     <dict>
@@ -85,7 +85,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-09-01 02:59:00 +0000</string>
+      <string>2019-09-01 04:35:48 +0000</string>
     </dict>
   </lib>
 </glyph>
