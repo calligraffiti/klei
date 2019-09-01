@@ -1,46 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
-    <key>familyName</key>
-    <string>Klei</string>
-    <key>styleName</key>
-    <string>Regular</string>
-    <key>styleMapFamilyName</key>
-    <string>Klei</string>
-    <key>styleMapStyleName</key>
-    <string>regular</string>
-    <key>versionMajor</key>
-    <integer>1</integer>
-    <key>versionMinor</key>
-    <integer>0</integer>
-    <key>copyright</key>
-    <string>Copyright (c) 2015, Joseph Steck, Rocketroom, LLC. All rights reserved.</string>
-    <key>unitsPerEm</key>
-    <integer>1000</integer>
-    <key>ascender</key>
-    <integer>768</integer>
-    <key>descender</key>
-    <integer>-232</integer>
-    <key>italicAngle</key>
-    <real>0</real>
-    <key>note</key>
-    <string>For my beloved Alisa "Clay" Steck
+<dict>
+	<key>ascender</key>
+	<integer>768</integer>
+	<key>capHeight</key>
+	<integer>0</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2015, Joseph Steck, Rocketroom, LLC. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-232</integer>
+	<key>familyName</key>
+	<string>Klei</string>
+	<key>note</key>
+	<string>For my beloved Alisa "Clay" Steck
 2015-02-14: Created with FontForge (http://fontforge.org)</string>
-    <key>openTypeHeadCreated</key>
-    <string>2015/02/19 05:51:07</string>
-    <key>openTypeHheaAscender</key>
-    <integer>1264</integer>
-    <key>openTypeHheaDescender</key>
-    <integer>-392</integer>
-    <key>openTypeHheaLineGap</key>
-    <integer>90</integer>
-    <key>openTypeNameDesigner</key>
-    <string>Joseph Steck</string>
-    <key>openTypeNameDesignerURL</key>
-    <string>http://rocketroom.com</string>
-    <key>openTypeNameLicense</key>
-    <string>Copyright (c) 2015, joseph steck (&lt;http://rocketroom.com|joseph@rocketroom.com&gt;),
+	<key>openTypeHeadCreated</key>
+	<string>2015/02/19 05:51:07</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1264</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-392</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>90</integer>
+	<key>openTypeNameDesigner</key>
+	<string>Joseph Steck</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>http://rocketroom.com</string>
+	<key>openTypeNameLicense</key>
+	<string>Copyright (c) 2015, joseph steck (&amp;lt;http://rocketroom.com|joseph@rocketroom.com&amp;gt;),
 with Reserved Font Name Klei.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -134,65 +122,88 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
-    <key>openTypeNameLicenseURL</key>
-    <string>http://scripts.sil.org/OFL</string>
-    <key>openTypeNameVersion</key>
-    <string>Version 1.000</string>
-    <key>openTypeOS2Panose</key>
-    <array>
-      <integer>2</integer>
-      <integer>0</integer>
-      <integer>5</integer>
-      <integer>3</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
-    <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
-    <key>openTypeOS2VendorID</key>
-    <string>PfEd</string>
-    <key>openTypeOS2FamilyClass</key>
-    <array>
-      <integer>0</integer>
-      <integer>0</integer>
-    </array>
-    <key>openTypeOS2Type</key>
-    <array/>
-    <key>openTypeOS2TypoAscender</key>
-    <integer>768</integer>
-    <key>openTypeOS2TypoDescender</key>
-    <integer>-232</integer>
-    <key>openTypeOS2TypoLineGap</key>
-    <integer>90</integer>
-    <key>openTypeOS2WinAscent</key>
-    <integer>1264</integer>
-    <key>openTypeOS2WinDescent</key>
-    <integer>392</integer>
-    <key>openTypeOS2UnicodeRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>2</integer>
-    </array>
-    <key>openTypeOS2CodePageRanges</key>
-    <array>
-      <integer>0</integer>
-      <integer>29</integer>
-    </array>
-    <key>postscriptFontName</key>
-    <string>Klei</string>
-    <key>postscriptFullName</key>
-    <string>Klei</string>
-    <key>postscriptWeightName</key>
-    <string>Regular</string>
-    <key>postscriptUnderlineThickness</key>
-    <integer>50</integer>
-    <key>postscriptUnderlinePosition</key>
-    <integer>-100</integer>
-  </dict>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Klei</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.000</string>
+	<key>openTypeOS2CodePageRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>29</integer>
+	</array>
+	<key>openTypeOS2FamilyClass</key>
+	<array>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Panose</key>
+	<array>
+		<integer>2</integer>
+		<integer>0</integer>
+		<integer>5</integer>
+		<integer>3</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+		<integer>0</integer>
+	</array>
+	<key>openTypeOS2Type</key>
+	<array>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>768</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-232</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>90</integer>
+	<key>openTypeOS2UnicodeRanges</key>
+	<array>
+		<integer>0</integer>
+		<integer>2</integer>
+	</array>
+	<key>openTypeOS2VendorID</key>
+	<string>PfEd</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1264</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>392</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Klei</string>
+	<key>postscriptFullName</key>
+	<string>Klei</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>styleMapFamilyName</key>
+	<string>Klei</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>0</integer>
+	<key>xHeight</key>
+	<integer>0</integer>
+</dict>
 </plist>

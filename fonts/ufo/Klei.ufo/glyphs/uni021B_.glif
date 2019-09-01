@@ -3,7 +3,7 @@
   <advance width="343"/>
   <unicode hex="021B"/>
   <outline>
-    <component base="comma" xOffset="113.5" yOffset="-161.186"/>
+    <component base="comma" xOffset="113.500" yOffset="-161.186"/>
     <component base="t"/>
   </outline>
   <lib>

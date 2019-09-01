@@ -2,4 +2,6 @@
 <glyph name="periodcentered" format="1">
   <advance width="1000"/>
   <unicode hex="00B7"/>
+  <outline>
+  </outline>
 </glyph>

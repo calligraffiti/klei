@@ -3,6 +3,23 @@
   <advance width="525"/>
   <unicode hex="0250"/>
   <outline>
-    <component base="a" xScale="-1" yScale="-1" xyScale="1.22465e-16" yxScale="-1.22465e-16" xOffset="520" yOffset="499"/>
+    <component base="a" xScale="-1" yScale="-1" xOffset="520" yOffset="499"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>a</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-08-31 22:03:06 +0000</string>
+    </dict>
+  </lib>
 </glyph>

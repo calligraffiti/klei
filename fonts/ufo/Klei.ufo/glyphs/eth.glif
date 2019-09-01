@@ -4,51 +4,51 @@
   <unicode hex="00F0"/>
   <outline>
     <contour>
-      <point x="168.827" y="534.662" type="line"/>
-      <point x="327.964" y="639.253" type="line"/>
-      <point x="345.741" y="614.979" type="line"/>
-      <point x="186.604" y="510.388" type="line"/>
-    </contour>
-    <contour>
-      <point x="130.176" y="249.466" type="curve" smooth="yes"/>
-      <point x="130.176" y="151.364"/>
-      <point x="157.191" y="18.5742"/>
-      <point x="277.646" y="18.5742" type="curve" smooth="yes"/>
-      <point x="362.252" y="18.5742"/>
-      <point x="397.308" y="112.632"/>
-      <point x="397.308" y="194.079" type="curve" smooth="yes"/>
-      <point x="397.308" y="292.181"/>
-      <point x="382.12" y="432.982"/>
-      <point x="249.838" y="432.982" type="curve" smooth="yes"/>
-      <point x="165.282" y="432.982"/>
-      <point x="130.176" y="348.137"/>
-    </contour>
-    <contour>
       <point x="271.92" y="-11.1484" type="curve" smooth="yes"/>
-      <point x="158.771" y="-11.1484"/>
-      <point x="60.748" y="47.2969"/>
-      <point x="60.748" y="224.79" type="curve" smooth="yes"/>
-      <point x="60.748" y="392.828"/>
-      <point x="142.6" y="462.795"/>
-      <point x="252.81" y="462.795" type="curve" smooth="yes"/>
-      <point x="278.103" y="462.795"/>
-      <point x="304.173" y="458.857"/>
-      <point x="329.037" y="450.258" type="curve"/>
-      <point x="304.989" y="493.045"/>
-      <point x="273.281" y="532.503"/>
-      <point x="233.721" y="560.762" type="curve" smooth="yes"/>
-      <point x="177.756" y="600.736"/>
-      <point x="117.215" y="622.974"/>
-      <point x="77.625" y="633.153" type="curve"/>
-      <point x="92" y="661.647" type="line" smooth="yes"/>
-      <point x="150.008" y="647.205"/>
-      <point x="239.868" y="614.851"/>
-      <point x="292.54" y="574.335" type="curve" smooth="yes"/>
-      <point x="369.289" y="515.298"/>
-      <point x="472.733" y="408.059"/>
-      <point x="472.733" y="229.34" type="curve" smooth="yes"/>
-      <point x="472.733" y="71.8418"/>
       <point x="388.904" y="-11.1484"/>
+      <point x="472.733" y="71.8418"/>
+      <point x="472.733" y="229.34" type="curve" smooth="yes"/>
+      <point x="472.733" y="408.059"/>
+      <point x="369.289" y="515.298"/>
+      <point x="292.54" y="574.335" type="curve" smooth="yes"/>
+      <point x="239.868" y="614.851"/>
+      <point x="150.008" y="647.205"/>
+      <point x="92" y="661.647" type="curve" smooth="yes"/>
+      <point x="77.625" y="633.153" type="line"/>
+      <point x="117.215" y="622.974"/>
+      <point x="177.756" y="600.736"/>
+      <point x="233.721" y="560.762" type="curve" smooth="yes"/>
+      <point x="273.281" y="532.503"/>
+      <point x="304.989" y="493.045"/>
+      <point x="329.037" y="450.258" type="curve"/>
+      <point x="304.173" y="458.857"/>
+      <point x="278.103" y="462.795"/>
+      <point x="252.81" y="462.795" type="curve" smooth="yes"/>
+      <point x="142.6" y="462.795"/>
+      <point x="60.748" y="392.828"/>
+      <point x="60.748" y="224.79" type="curve" smooth="yes"/>
+      <point x="60.748" y="47.2969"/>
+      <point x="158.771" y="-11.1484"/>
+    </contour>
+    <contour>
+      <point x="277.646" y="18.5742" type="curve" smooth="yes"/>
+      <point x="157.191" y="18.5742"/>
+      <point x="130.176" y="151.364"/>
+      <point x="130.176" y="249.466" type="curve" smooth="yes"/>
+      <point x="130.176" y="348.137"/>
+      <point x="165.282" y="432.982"/>
+      <point x="249.838" y="432.982" type="curve" smooth="yes"/>
+      <point x="382.12" y="432.982"/>
+      <point x="397.308" y="292.181"/>
+      <point x="397.308" y="194.079" type="curve" smooth="yes"/>
+      <point x="397.308" y="112.632"/>
+      <point x="362.252" y="18.5742"/>
+    </contour>
+    <contour>
+      <point x="186.604" y="510.388" type="line"/>
+      <point x="345.741" y="614.979" type="line"/>
+      <point x="327.964" y="639.253" type="line"/>
+      <point x="168.827" y="534.662" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -98,6 +98,8 @@
           </dict>
         </array>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-01 00:49:25 +0000</string>
     </dict>
   </lib>
 </glyph>

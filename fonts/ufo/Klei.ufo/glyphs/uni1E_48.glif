@@ -3,7 +3,7 @@
   <advance width="823"/>
   <unicode hex="1E48"/>
   <outline>
-    <component base="macron" xOffset="228.434" yOffset="-618.99"/>
+    <component base="macron" xOffset="228.434" yOffset="-618.990"/>
     <component base="N"/>
   </outline>
   <lib>

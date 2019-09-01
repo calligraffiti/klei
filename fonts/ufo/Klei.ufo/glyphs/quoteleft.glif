@@ -4,28 +4,28 @@
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="158.71" y="597.761" type="curve" smooth="yes"/>
-      <point x="158.71" y="569.197"/>
-      <point x="137.661" y="547.389"/>
-      <point x="105.601" y="547.389" type="curve" smooth="yes"/>
-      <point x="79.725" y="547.389"/>
-      <point x="51.9617" y="563.574"/>
-      <point x="45.8135" y="592.716" type="curve" smooth="yes"/>
-      <point x="42.2234" y="609.733"/>
-      <point x="40.564" y="625.902"/>
-      <point x="40.564" y="641.135" type="curve" smooth="yes"/>
-      <point x="40.564" y="726.051"/>
-      <point x="92.1302" y="781.895"/>
-      <point x="148.248" y="793.734" type="curve"/>
-      <point x="151.658" y="769.767" type="line"/>
-      <point x="107.906" y="760.536"/>
-      <point x="89.9237" y="711.369"/>
-      <point x="89.9237" y="679.594" type="curve" smooth="yes"/>
-      <point x="89.9237" y="674.749"/>
-      <point x="90.3418" y="670.308"/>
-      <point x="91.1504" y="666.475" type="curve" smooth="yes"/>
-      <point x="96.7538" y="639.915"/>
-      <point x="158.71" y="646.586"/>
+      <point x="106" y="547" type="curve" smooth="yes"/>
+      <point x="138" y="547"/>
+      <point x="159" y="569"/>
+      <point x="159" y="598" type="curve" smooth="yes"/>
+      <point x="159" y="647"/>
+      <point x="97" y="640"/>
+      <point x="91" y="666" type="curve" smooth="yes"/>
+      <point x="90" y="670"/>
+      <point x="90" y="675"/>
+      <point x="90" y="680" type="curve" smooth="yes"/>
+      <point x="90" y="711"/>
+      <point x="108" y="761"/>
+      <point x="152" y="770" type="curve"/>
+      <point x="148" y="794" type="line"/>
+      <point x="92" y="782"/>
+      <point x="41" y="726"/>
+      <point x="41" y="641" type="curve" smooth="yes"/>
+      <point x="41" y="626"/>
+      <point x="42" y="610"/>
+      <point x="46" y="593" type="curve" smooth="yes"/>
+      <point x="53" y="564"/>
+      <point x="80" y="547"/>
     </contour>
   </outline>
   <lib>
@@ -57,6 +57,8 @@
           </dict>
         </array>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-01 01:17:27 +0000</string>
     </dict>
   </lib>
 </glyph>

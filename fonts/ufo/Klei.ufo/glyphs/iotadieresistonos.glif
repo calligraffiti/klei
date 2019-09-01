@@ -3,7 +3,7 @@
   <advance width="251"/>
   <unicode hex="0390"/>
   <outline>
-    <component base="dieresistonos" xOffset="-54.875" yOffset="-53.0293"/>
+    <component base="dieresistonos" xOffset="-54.875" yOffset="-53.029"/>
     <component base="iota"/>
   </outline>
   <lib>

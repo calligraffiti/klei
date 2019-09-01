@@ -3,7 +3,7 @@
   <advance width="561"/>
   <unicode hex="1E05"/>
   <outline>
-    <component base="period" xOffset="164.5" yOffset="-161.156"/>
+    <component base="period" xOffset="164.500" yOffset="-161.156"/>
     <component base="b"/>
   </outline>
   <lib>

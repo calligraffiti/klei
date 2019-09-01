@@ -1,10 +1,11 @@
+@kc43_first_2 = [  ];
+
+# Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
-
+# Prefix: Prefix
 # GSUB 
-
-
 lookup ligaStandardLigaturesinLatinlookup0 {
   lookupflag 0;
     sub \f \f \l  by \uniFB04;
@@ -14,20 +15,7 @@ lookup ligaStandardLigaturesinLatinlookup0 {
     sub \f \l  by \uniFB02;
 } ligaStandardLigaturesinLatinlookup0;
 
-feature liga {
-
- script DFLT;
-     language dflt ;
-      lookup ligaStandardLigaturesinLatinlookup0;
-
- script latn;
-     language dflt ;
-      lookup ligaStandardLigaturesinLatinlookup0;
-} liga;
-
 # GPOS 
-
-
 lookup kernHorizontalKerninginLatinlookup0 {
   lookupflag 0;
     pos \f \o -150;
@@ -174,8 +162,7 @@ lookup kernHorizontalKerninginLatinlookup0 {
     pos @kc42_first_1 @kc42_second_1 -80;
   subtable;
     @kc43_first_1 = [\D \P \R ];
-    @kc43_first_2 = [];
-    @kc43_second_1 = [\A \V \W \Y ];
+        @kc43_second_1 = [\A \V \W \Y ];
     pos @kc43_first_1 @kc43_second_1 -80;
   subtable;
   subtable;
@@ -230,16 +217,6 @@ lookup kernHorizontalKerninginLatinlookup0 {
     pos @kc54_first_1 @kc54_second_1 -50;
 } kernHorizontalKerninginLatinlookup0;
 
-feature kern {
-
- script DFLT;
-     language dflt ;
-      lookup kernHorizontalKerninginLatinlookup0;
-
- script latn;
-     language dflt ;
-      lookup kernHorizontalKerninginLatinlookup0;
-} kern;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\s \W \A \O \V \H \m \w \x \X \d \f \j \g \q \p \o \I \y \v \u \n \b \h \t \z \l \r \k \e 
@@ -341,4 +318,24 @@ table GDEF {
 
   LigatureCaretByPos \uniFB00 -4;
 } GDEF;
+
+feature liga {
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinlookup0;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinlookup0;
+} liga;
+
+feature kern {
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninginLatinlookup0;
+} kern;
 

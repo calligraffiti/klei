@@ -3,7 +3,7 @@
   <advance width="251"/>
   <unicode hex="00EF"/>
   <outline>
-    <component base="dieresis" xScale="0.895257" yScale="0.962796" xOffset="-62.5593" yOffset="-26.3735"/>
+    <component base="dieresis" xScale="0.8953" yScale="0.9628" xOffset="-62.559" yOffset="-26.373"/>
     <component base="dotlessi"/>
   </outline>
   <lib>
