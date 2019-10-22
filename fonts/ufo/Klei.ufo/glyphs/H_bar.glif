@@ -7,12 +7,11 @@
       <point x="27" y="507" type="curve"/>
       <point x="730" y="507" type="line" smooth="yes"/>
       <point x="744" y="507"/>
-      <point x="750.132" y="543.602"/>
-      <point x="750.132" y="549.284" type="curve" smooth="yes"/>
-      <point x="750" y="549" type="line"/>
+      <point x="750" y="544"/>
+      <point x="750" y="549" type="curve"/>
       <point x="47" y="549" type="line" smooth="yes"/>
-      <point x="36" y="549"/>
-      <point x="27" y="507"/>
+      <point x="39" y="549"/>
+      <point x="31" y="525"/>
     </contour>
     <component base="H"/>
   </outline>
@@ -64,7 +63,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-08-31 23:16:52 +0000</string>
+      <string>2019-10-22 23:37:02 +0000</string>
     </dict>
   </lib>
 </glyph>

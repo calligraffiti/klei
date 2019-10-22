@@ -3,7 +3,7 @@
   <advance width="525"/>
   <unicode hex="0250"/>
   <outline>
-    <component base="a" xScale="-1" yScale="-1" xOffset="525"/>
+    <component base="a" xScale="-1" yScale="-1" xOffset="525" yOffset="507"/>
   </outline>
   <lib>
     <dict>
@@ -19,7 +19,7 @@
         </dict>
       </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-09-01 02:59:00 +0000</string>
+      <string>2019-10-22 23:16:31 +0000</string>
     </dict>
   </lib>
 </glyph>

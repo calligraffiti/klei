@@ -32,8 +32,8 @@
       <point x="537" y="115"/>
       <point x="513" y="121"/>
       <point x="512" y="141" type="curve"/>
-      <point x="544" y="305" type="line" smooth="yes"/>
-      <point x="550" y="338"/>
+      <point x="543" y="305" type="line" smooth="yes"/>
+      <point x="549" y="338"/>
       <point x="554" y="364"/>
       <point x="562" y="383" type="curve"/>
       <point x="556" y="389"/>
@@ -42,8 +42,11 @@
       <point x="533" y="390"/>
       <point x="524" y="382"/>
       <point x="514" y="382" type="curve" smooth="yes"/>
-      <point x="507" y="382"/>
-      <point x="466" y="393"/>
+      <point x="512" y="382"/>
+      <point x="505" y="383"/>
+      <point x="497" y="385" type="curve" smooth="yes"/>
+      <point x="482" y="388"/>
+      <point x="456" y="393"/>
       <point x="437" y="393" type="curve" smooth="yes"/>
       <point x="350" y="393"/>
       <point x="229" y="331"/>
@@ -51,11 +54,17 @@
       <point x="229" y="121"/>
       <point x="283" y="73"/>
       <point x="359" y="73" type="curve" smooth="yes"/>
-      <point x="417" y="73"/>
-      <point x="446" y="109"/>
+      <point x="396" y="73"/>
+      <point x="425" y="89"/>
+      <point x="441" y="100" type="curve" smooth="yes"/>
+      <point x="451" y="107"/>
+      <point x="455" y="109"/>
       <point x="459" y="109" type="curve" smooth="yes"/>
-      <point x="469" y="109"/>
-      <point x="467" y="77"/>
+      <point x="462" y="109"/>
+      <point x="464" y="107"/>
+      <point x="467" y="100" type="curve" smooth="yes"/>
+      <point x="470" y="93"/>
+      <point x="478" y="77"/>
       <point x="500" y="77" type="curve" smooth="yes"/>
       <point x="626" y="77"/>
       <point x="717" y="158"/>
@@ -145,7 +154,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-09-01 01:20:23 +0000</string>
+      <string>2019-10-22 23:57:00 +0000</string>
     </dict>
   </lib>
 </glyph>
