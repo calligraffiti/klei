@@ -4,7 +4,7 @@
 <dict>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>z</string>
+		<string>A</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
@@ -814,5 +814,12 @@
 		<string>tonos</string>
 		<string>dieresistonos</string>
 	</array>
+	<key>public.postscriptNames</key>
+	<dict>
+		<key>onethird</key>
+		<string>uni2153</string>
+		<key>twothirds</key>
+		<string>uni2154</string>
+	</dict>
 </dict>
 </plist>
