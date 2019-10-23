@@ -6,14 +6,14 @@
     <contour>
       <point x="294.057" y="0" type="line"/>
       <point x="481.106" y="0" type="line"/>
-      <point x="481.106" y="15.9473" type="line"/>
-      <point x="472.814" y="16.0586"/>
-      <point x="464.693" y="16.7852"/>
-      <point x="456.736" y="18.3945" type="curve" smooth="yes"/>
-      <point x="437.632" y="22.2588"/>
-      <point x="428.866" y="35.2354"/>
-      <point x="428.866" y="48.5195" type="curve"/>
-      <point x="428.66" y="48.5195" type="line"/>
+      <point x="481.106" y="15.947" type="line"/>
+      <point x="472.814" y="16.059"/>
+      <point x="464.693" y="16.785"/>
+      <point x="456.736" y="18.395" type="curve" smooth="yes"/>
+      <point x="437.632" y="22.259"/>
+      <point x="428.866" y="35.235"/>
+      <point x="428.866" y="48.52" type="curve"/>
+      <point x="428.66" y="48.52" type="line"/>
       <point x="427.43" y="117.754"/>
       <point x="426.925" y="187.062"/>
       <point x="425.925" y="256" type="curve"/>
@@ -60,14 +60,14 @@
       <point x="349.296" y="257" type="line"/>
       <point x="349.296" y="187.735"/>
       <point x="347.669" y="118.064"/>
-      <point x="346.522" y="48.5195" type="curve"/>
-      <point x="346.298" y="48.5195" type="line"/>
-      <point x="346.298" y="35.2354"/>
-      <point x="337.53" y="22.2656"/>
-      <point x="318.428" y="18.3945" type="curve" smooth="yes"/>
-      <point x="310.472" y="16.7822"/>
-      <point x="302.349" y="16.0586"/>
-      <point x="294.057" y="15.9473" type="curve"/>
+      <point x="346.522" y="48.52" type="curve"/>
+      <point x="346.298" y="48.52" type="line"/>
+      <point x="346.298" y="35.235"/>
+      <point x="337.53" y="22.266"/>
+      <point x="318.428" y="18.395" type="curve" smooth="yes"/>
+      <point x="310.472" y="16.782"/>
+      <point x="302.349" y="16.059"/>
+      <point x="294.057" y="15.947" type="curve"/>
     </contour>
     <component base="dieresis" xOffset="150.874" yOffset="170.235"/>
   </outline>
