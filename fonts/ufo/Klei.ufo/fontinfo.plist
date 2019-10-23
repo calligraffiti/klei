@@ -5,7 +5,7 @@
 	<key>ascender</key>
 	<integer>768</integer>
 	<key>capHeight</key>
-	<integer>0</integer>
+	<integer>730</integer>
 	<key>copyright</key>
 	<string>Copyright (c) 2015, Joseph Steck, Rocketroom, LLC. All rights reserved.</string>
 	<key>descender</key>
@@ -204,6 +204,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>0</integer>
+	<integer>507</integer>
 </dict>
 </plist>
