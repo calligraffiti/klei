@@ -5,14 +5,12 @@
 @kc43_first_2 = [  ];
 
 # Prefix: Languagesystems
+# automatic
 languagesystem DFLT dflt;
-languagesystem latn dflt;
+languagesystem DFLT ;
 
-languagesystem DFLT dflt;
 languagesystem latn dflt;
-
-languagesystem DFLT dflt;
-languagesystem latn dflt;
+languagesystem latn ;
 
 # Prefix: Prefix
 # GSUB 
