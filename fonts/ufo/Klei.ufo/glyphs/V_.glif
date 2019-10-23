@@ -6,7 +6,7 @@
     <contour>
       <point x="385" y="-8" type="curve" smooth="yes"/>
       <point x="390" y="-8"/>
-      <point x="391" y="-6"/>
+      <point x="392" y="-6"/>
       <point x="395" y="2" type="curve" smooth="yes"/>
       <point x="670" y="678" type="line"/>
       <point x="677" y="695"/>
@@ -50,7 +50,7 @@
       <point x="86" y="712"/>
       <point x="93" y="701"/>
       <point x="100" y="684" type="curve" smooth="yes"/>
-      <point x="176" y="496"/>
+      <point x="177" y="496"/>
       <point x="370" y="18"/>
       <point x="376" y="2" type="curve" smooth="yes"/>
       <point x="379" y="-6"/>
@@ -93,7 +93,7 @@
         </array>
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-08-31 23:43:42 +0000</string>
+      <string>2019-10-23 00:56:08 +0000</string>
     </dict>
   </lib>
 </glyph>
