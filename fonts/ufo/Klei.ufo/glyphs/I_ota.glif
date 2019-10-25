@@ -3,50 +3,7 @@
   <advance width="291"/>
   <unicode hex="0399"/>
   <outline>
-    <contour>
-      <point x="53.95" y="0" type="line"/>
-      <point x="241" y="0" type="line"/>
-      <point x="241" y="15.947" type="line"/>
-      <point x="232.708" y="16.059"/>
-      <point x="224.587" y="16.785"/>
-      <point x="216.63" y="18.395" type="curve" smooth="yes"/>
-      <point x="198.047" y="22.153"/>
-      <point x="189.246" y="36.101"/>
-      <point x="188.779" y="49" type="curve" smooth="yes"/>
-      <point x="187.085" y="164.068"/>
-      <point x="185.915" y="279.087"/>
-      <point x="185.915" y="394" type="curve" smooth="yes"/>
-      <point x="185.915" y="490.391"/>
-      <point x="186.742" y="586.707"/>
-      <point x="188.775" y="682.912" type="curve" smooth="yes"/>
-      <point x="189.227" y="695.516"/>
-      <point x="198.028" y="708.244"/>
-      <point x="216.626" y="712.012" type="curve" smooth="yes"/>
-      <point x="224.583" y="713.624"/>
-      <point x="232.704" y="714.349"/>
-      <point x="240.997" y="714.458" type="curve"/>
-      <point x="240.997" y="730.333" type="line"/>
-      <point x="53.953" y="730.333" type="line"/>
-      <point x="53.953" y="714.458" type="line"/>
-      <point x="62.245" y="714.349"/>
-      <point x="70.367" y="713.622"/>
-      <point x="78.324" y="712.012" type="curve" smooth="yes"/>
-      <point x="97.428" y="708.146"/>
-      <point x="106.194" y="694.819"/>
-      <point x="106.194" y="681.888" type="curve" smooth="yes"/>
-      <point x="107.453" y="585.988"/>
-      <point x="107.987" y="490.031"/>
-      <point x="107.987" y="394" type="curve" smooth="yes"/>
-      <point x="107.987" y="279.113"/>
-      <point x="107.201" y="164.122"/>
-      <point x="105.95" y="49" type="curve" smooth="yes"/>
-      <point x="105.95" y="35.716"/>
-      <point x="97.424" y="22.266"/>
-      <point x="78.321" y="18.395" type="curve" smooth="yes"/>
-      <point x="70.365" y="16.782"/>
-      <point x="62.242" y="16.059"/>
-      <point x="53.95" y="15.947" type="curve"/>
-    </contour>
+    <component base="I"/>
   </outline>
   <lib>
     <dict>
