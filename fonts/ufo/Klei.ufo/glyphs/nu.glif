@@ -17,19 +17,22 @@
       <point x="375" y="511"/>
       <point x="371" y="502"/>
       <point x="371" y="495" type="curve" smooth="yes"/>
-      <point x="371" y="488"/>
-      <point x="381" y="457"/>
+      <point x="371" y="494"/>
+      <point x="371" y="491"/>
+      <point x="373" y="483" type="curve" smooth="yes"/>
+      <point x="377" y="467"/>
+      <point x="381" y="442"/>
       <point x="381" y="404" type="curve" smooth="yes"/>
       <point x="381" y="284"/>
       <point x="283" y="145"/>
       <point x="213" y="110" type="curve" smooth="yes"/>
       <point x="211" y="109"/>
-      <point x="208" y="106"/>
-      <point x="207" y="106" type="curve" smooth="yes"/>
-      <point x="206" y="106"/>
-      <point x="204" y="106"/>
-      <point x="204" y="108" type="curve" smooth="yes"/>
-      <point x="204" y="222"/>
+      <point x="207" y="107"/>
+      <point x="206" y="107" type="curve" smooth="yes"/>
+      <point x="205" y="107"/>
+      <point x="204" y="107"/>
+      <point x="204" y="109" type="curve" smooth="yes"/>
+      <point x="204" y="223"/>
       <point x="200" y="511"/>
       <point x="117" y="511" type="curve" smooth="yes"/>
       <point x="35" y="511"/>
@@ -38,17 +41,23 @@
       <point x="29" y="415"/>
       <point x="33" y="409"/>
       <point x="39" y="409" type="curve" smooth="yes"/>
-      <point x="52" y="409"/>
-      <point x="63" y="430"/>
+      <point x="45" y="409"/>
+      <point x="49" y="412"/>
+      <point x="57" y="418" type="curve" smooth="yes"/>
+      <point x="65" y="424"/>
+      <point x="75" y="430"/>
       <point x="89" y="430" type="curve" smooth="yes"/>
       <point x="148" y="430"/>
-      <point x="157" y="237"/>
+      <point x="156" y="237"/>
       <point x="162" y="78" type="curve" smooth="yes"/>
       <point x="163" y="47"/>
       <point x="169" y="31"/>
       <point x="185" y="0" type="curve" smooth="yes"/>
       <point x="188" y="-6"/>
       <point x="193" y="-12"/>
+    </contour>
+    <contour>
+      <point x="160" y="145" type="move"/>
     </contour>
   </outline>
   <lib>
