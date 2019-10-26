@@ -392,6 +392,8 @@
 	<string>chi.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
+	<key>circumflexcomb.case</key>
+	<string>circumflexcomb.case.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -420,6 +422,8 @@
 	<string>divide.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dotaccent</key>
+	<string>dotaccent.glif</string>
 	<key>dotbelowcomb</key>
 	<string>dotbelowcomb.glif</string>
 	<key>dotlessi</key>
@@ -594,6 +598,8 @@
 	<string>nacute.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
+	<key>newGlyph</key>
+	<string>newG_lyph.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>ntilde</key>
@@ -1034,8 +1040,6 @@
 	<string>uni0305.glif</string>
 	<key>uni0306</key>
 	<string>uni0306.glif</string>
-	<key>uni0307</key>
-	<string>uni0307.glif</string>
 	<key>uni0308</key>
 	<string>uni0308.glif</string>
 	<key>uni030A</key>

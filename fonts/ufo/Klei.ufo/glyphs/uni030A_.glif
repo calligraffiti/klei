@@ -4,6 +4,9 @@
   <unicode hex="030A"/>
   <outline>
     <component base="degree" xOffset="163.500" yOffset="81.624"/>
+    <contour>
+      <point x="254" y="507" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

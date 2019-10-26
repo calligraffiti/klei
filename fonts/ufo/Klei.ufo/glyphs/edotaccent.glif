@@ -5,6 +5,7 @@
   <outline>
     <component base="period" xOffset="178.062" yOffset="581.682"/>
     <component base="e"/>
+    <component base="dotaccent" xOffset="-12" yOffset="2"/>
   </outline>
   <lib>
     <dict>

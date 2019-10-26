@@ -3,8 +3,8 @@
   <advance width="789"/>
   <unicode hex="0124"/>
   <outline>
-    <component base="asciicircum" xOffset="135" yOffset="243.225"/>
     <component base="H"/>
+    <component base="circumflexcomb.case" xOffset="9"/>
   </outline>
   <lib>
     <dict>
