@@ -84,8 +84,6 @@
 	<string>E_tatonos.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
-	<key>Euro</key>
-	<string>E_uro.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -424,6 +422,8 @@
 	<string>dollar.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
+	<key>dotaccentcomb</key>
+	<string>dotaccentcomb.glif</string>
 	<key>dotbelowcomb</key>
 	<string>dotbelowcomb.glif</string>
 	<key>dotlessi</key>
@@ -470,6 +470,8 @@
 	<string>etatonos.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>euro</key>
+	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclamdbl</key>
@@ -822,8 +824,6 @@
 	<string>uni0180.glif</string>
 	<key>uni0189</key>
 	<string>uni0189.glif</string>
-	<key>uni019C</key>
-	<string>uni019C_.glif</string>
 	<key>uni019E</key>
 	<string>uni019E_.glif</string>
 	<key>uni01C3</key>
@@ -1018,12 +1018,8 @@
 	<string>uni0250.glif</string>
 	<key>uni0254</key>
 	<string>uni0254.glif</string>
-	<key>uni026F</key>
-	<string>uni026F_.glif</string>
 	<key>uni0270</key>
 	<string>uni0270.glif</string>
-	<key>uni0279</key>
-	<string>uni0279.glif</string>
 	<key>uni027A</key>
 	<string>uni027A_.glif</string>
 	<key>uni02B9</key>

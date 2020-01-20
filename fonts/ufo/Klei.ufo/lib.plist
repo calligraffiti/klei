@@ -2,6 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.fontMasterID</key>
@@ -142,7 +145,6 @@
 		<string>uni0156</string>
 		<string>uni0162</string>
 		<string>uni0189</string>
-		<string>uni019C</string>
 		<string>uni01C4</string>
 		<string>uni01C5</string>
 		<string>uni01C7</string>
@@ -447,9 +449,7 @@
 		<string>uni0233</string>
 		<string>uni0250</string>
 		<string>uni0254</string>
-		<string>uni026F</string>
 		<string>uni0270</string>
-		<string>uni0279</string>
 		<string>uni027A</string>
 		<string>uni1E01</string>
 		<string>uni1E03</string>
@@ -730,10 +730,10 @@
 		<string>quotedbl</string>
 		<string>quotesingle</string>
 		<string>space</string>
-		<string>Euro</string>
 		<string>cent</string>
 		<string>currency</string>
 		<string>dollar</string>
+		<string>euro</string>
 		<string>franc</string>
 		<string>lira</string>
 		<string>sterling</string>
@@ -777,6 +777,7 @@
 		<string>uni02B9</string>
 		<string>uni02BA</string>
 		<string>uni0308</string>
+		<string>dotaccentcomb</string>
 		<string>gravecomb</string>
 		<string>acutecomb</string>
 		<string>uni030B</string>

@@ -19,7 +19,7 @@
       <point x="98" y="219"/>
       <point x="106" y="210"/>
     </contour>
-    <component base="period" xOffset="7"/>
+    <component base="period" xOffset="7" yOffset="-563"/>
   </outline>
   <lib>
     <dict>
