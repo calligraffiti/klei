@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0213" format="1">
+  <advance width="377"/>
+  <unicode hex="0213"/>
+  <outline>
+    <contour>
+      <point x="142.098" y="573.351" type="curve" smooth="yes"/>
+      <point x="151.63" y="573.351"/>
+      <point x="155.397" y="586.65"/>
+      <point x="160.298" y="595.75" type="curve" smooth="yes"/>
+      <point x="166.579" y="607.415"/>
+      <point x="176.498" y="629.351"/>
+      <point x="205.798" y="629.351" type="curve" smooth="yes"/>
+      <point x="244.81" y="629.351"/>
+      <point x="252.786" y="607.818"/>
+      <point x="269.637" y="582.543" type="curve" smooth="yes"/>
+      <point x="272.954" y="577.567"/>
+      <point x="275.738" y="574.109"/>
+      <point x="280.697" y="574.109" type="curve" smooth="yes"/>
+      <point x="289.101" y="574.109"/>
+      <point x="290.407" y="579.548"/>
+      <point x="290.407" y="585.25" type="curve" smooth="yes"/>
+      <point x="290.407" y="619.052"/>
+      <point x="253.283" y="680.45"/>
+      <point x="200.197" y="680.45" type="curve" smooth="yes"/>
+      <point x="155.659" y="680.45"/>
+      <point x="130.538" y="626.911"/>
+      <point x="130.538" y="588.051" type="curve" smooth="yes"/>
+      <point x="130.538" y="579.918"/>
+      <point x="134.751" y="573.351"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>16</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>450</integer>
+            <key>width</key>
+            <integer>53</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>473</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>629</integer>
+            <key>width</key>
+            <integer>51</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>92</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>131</integer>
+            <key>width</key>
+            <integer>30</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-01 00:49:25 +0000</string>
+    </dict>
+  </lib>
+</glyph>

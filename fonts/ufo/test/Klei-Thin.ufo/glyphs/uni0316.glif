@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0316" format="1">
+  <advance width="285"/>
+  <unicode hex="0316"/>
+  <outline>
+    <contour>
+      <point x="225" y="-128" type="curve"/>
+      <point x="233" y="-128" type="line"/>
+      <point x="197" y="-76"/>
+      <point x="144" y="11"/>
+      <point x="129" y="26" type="curve" smooth="yes"/>
+      <point x="120" y="35"/>
+      <point x="110" y="39"/>
+      <point x="98" y="39" type="curve" smooth="yes"/>
+      <point x="81" y="39"/>
+      <point x="63" y="30"/>
+      <point x="60" y="12" type="curve" smooth="yes"/>
+      <point x="57" y="-4"/>
+      <point x="78" y="-24"/>
+      <point x="91" y="-37" type="curve" smooth="yes"/>
+      <point x="106" y="-52"/>
+      <point x="172" y="-93"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-128</integer>
+            <key>width</key>
+            <integer>167</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>60</integer>
+            <key>width</key>
+            <integer>173</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-01 01:22:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

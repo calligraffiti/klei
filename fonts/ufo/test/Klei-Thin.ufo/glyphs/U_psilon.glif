@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon" format="1">
+  <advance width="753"/>
+  <unicode hex="03A5"/>
+  <outline>
+    <contour>
+      <point x="294" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="481" y="16" type="line"/>
+      <point x="473" y="16"/>
+      <point x="463" y="16"/>
+      <point x="457" y="18" type="curve" smooth="yes"/>
+      <point x="438" y="24"/>
+      <point x="429" y="35"/>
+      <point x="429" y="49" type="curve" smooth="yes"/>
+      <point x="427" y="111"/>
+      <point x="427" y="206"/>
+      <point x="427" y="257" type="curve" smooth="yes"/>
+      <point x="427" y="294"/>
+      <point x="427" y="339"/>
+      <point x="428" y="367" type="curve" smooth="yes"/>
+      <point x="428" y="375"/>
+      <point x="428" y="384"/>
+      <point x="429" y="392" type="curve" smooth="yes"/>
+      <point x="431" y="420"/>
+      <point x="432" y="430"/>
+      <point x="435" y="449" type="curve" smooth="yes"/>
+      <point x="455" y="559"/>
+      <point x="503" y="674"/>
+      <point x="601" y="674" type="curve" smooth="yes"/>
+      <point x="650" y="674"/>
+      <point x="699" y="651"/>
+      <point x="723" y="629" type="curve"/>
+      <point x="727" y="629"/>
+      <point x="733" y="630"/>
+      <point x="733" y="633" type="curve" smooth="yes"/>
+      <point x="733" y="635"/>
+      <point x="732" y="642"/>
+      <point x="721" y="655" type="curve" smooth="yes"/>
+      <point x="708" y="671"/>
+      <point x="646" y="730"/>
+      <point x="583" y="730" type="curve" smooth="yes"/>
+      <point x="456" y="730"/>
+      <point x="402" y="580"/>
+      <point x="393" y="545" type="curve" smooth="yes"/>
+      <point x="392" y="540"/>
+      <point x="389" y="532"/>
+      <point x="388" y="532" type="curve" smooth="yes"/>
+      <point x="387" y="532"/>
+      <point x="383" y="540"/>
+      <point x="381" y="545" type="curve" smooth="yes"/>
+      <point x="359" y="591"/>
+      <point x="288" y="730"/>
+      <point x="161" y="730" type="curve" smooth="yes"/>
+      <point x="100" y="730"/>
+      <point x="63" y="696"/>
+      <point x="36" y="669" type="curve" smooth="yes"/>
+      <point x="32" y="665"/>
+      <point x="25" y="657"/>
+      <point x="25" y="653" type="curve" smooth="yes"/>
+      <point x="25" y="650"/>
+      <point x="30" y="648"/>
+      <point x="34" y="647" type="curve"/>
+      <point x="64" y="670"/>
+      <point x="107" y="679"/>
+      <point x="148" y="679" type="curve" smooth="yes"/>
+      <point x="244" y="679"/>
+      <point x="321" y="572"/>
+      <point x="341" y="449" type="curve" smooth="yes"/>
+      <point x="345" y="423"/>
+      <point x="347" y="396"/>
+      <point x="348" y="368" type="curve" smooth="yes"/>
+      <point x="349" y="339"/>
+      <point x="349" y="294"/>
+      <point x="349" y="257" type="curve" smooth="yes"/>
+      <point x="349" y="206"/>
+      <point x="349" y="111"/>
+      <point x="347" y="49" type="curve" smooth="yes"/>
+      <point x="347" y="35"/>
+      <point x="338" y="23"/>
+      <point x="318" y="18" type="curve" smooth="yes"/>
+      <point x="310" y="16"/>
+      <point x="302" y="16"/>
+      <point x="294" y="16" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>16</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>679</integer>
+            <key>width</key>
+            <integer>51</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>347</integer>
+            <key>width</key>
+            <integer>82</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-01 01:25:33 +0000</string>
+    </dict>
+  </lib>
+</glyph>
