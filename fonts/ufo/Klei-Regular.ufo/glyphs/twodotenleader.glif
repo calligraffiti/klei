@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twodotenleader" format="1">
-  <advance width="448"/>
+  <advance width="600"/>
   <unicode hex="2025"/>
   <outline>
-    <component base="period" xOffset="224"/>
-    <component base="period"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-18</integer>
-            <key>width</key>
-            <integer>116</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>53</integer>
-            <key>width</key>
-            <integer>117</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>277</integer>
-            <key>width</key>
-            <integer>117</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

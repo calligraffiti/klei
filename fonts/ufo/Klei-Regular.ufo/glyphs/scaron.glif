@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scaron" format="1">
-  <advance width="449"/>
+  <advance width="600"/>
   <unicode hex="0161"/>
   <outline>
-    <component base="caron" xOffset="71" yOffset="85.4697"/>
-    <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-10</integer>
-            <key>width</key>
-            <integer>30</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>480</integer>
-            <key>width</key>
-            <integer>26</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>564</integer>
-            <key>width</key>
-            <integer>257</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>49</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>83</integer>
-            <key>width</key>
-            <integer>76</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>100</integer>
-            <key>width</key>
-            <integer>289</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>325</integer>
-            <key>width</key>
-            <integer>74</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

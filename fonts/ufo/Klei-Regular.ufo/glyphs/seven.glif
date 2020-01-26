@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven" format="1">
-  <advance width="480"/>
+  <advance width="600"/>
   <unicode hex="0037"/>
   <outline>
-    <contour>
-      <point x="362.423" y="558" type="curve"/>
-      <point x="93.7607" y="558" type="line" smooth="yes"/>
-      <point x="77.9678" y="558"/>
-      <point x="72.2588" y="546.43"/>
-      <point x="70.3975" y="542" type="curve"/>
-      <point x="64.7607" y="542" type="line" smooth="yes"/>
-      <point x="57.2363" y="542"/>
-      <point x="55.8867" y="548.977"/>
-      <point x="55.8867" y="548.977" type="curve" smooth="yes"/>
-      <point x="56.085" y="555.694" type="line" smooth="yes"/>
-      <point x="59.2432" y="572.608"/>
-      <point x="62.9385" y="591.763"/>
-      <point x="66.2617" y="607.6" type="curve" smooth="yes"/>
-      <point x="67.8379" y="615.11"/>
-      <point x="69.1318" y="622"/>
-      <point x="78.7607" y="622" type="curve" smooth="yes"/>
-      <point x="431.761" y="622" type="line" smooth="yes"/>
-      <point x="444.179" y="622"/>
-      <point x="447.751" y="621.14"/>
-      <point x="447.751" y="617.461" type="curve" smooth="yes"/>
-      <point x="447.751" y="614.694"/>
-      <point x="445.73" y="609.899"/>
-      <point x="443.933" y="606.093" type="curve"/>
-      <point x="440.6" y="599.59" type="line" smooth="yes"/>
-      <point x="317.37" y="414.295"/>
-      <point x="199.739" y="169.026"/>
-      <point x="171.785" y="0" type="curve"/>
-      <point x="95.6201" y="0" type="line"/>
-      <point x="121.256" y="164.938"/>
-      <point x="250.295" y="407.516"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>21</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>558</integer>
-            <key>width</key>
-            <integer>64</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>96</integer>
-            <key>width</key>
-            <integer>76</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

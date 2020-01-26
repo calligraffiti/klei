@@ -1,52 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acutecomb" format="1">
-  <advance width="285"/>
+  <advance width="600"/>
   <unicode hex="0301"/>
   <outline>
-    <contour>
-      <point x="196.247" y="663.023" type="curve" smooth="yes"/>
-      <point x="179.809" y="646.585"/>
-      <point x="114.114" y="606.498"/>
-      <point x="61.6246" y="571.192" type="curve" smooth="yes"/>
-      <point x="59.7563" y="569.935" type="line"/>
-      <point x="36.3469" y="570.644" type="line"/>
-      <point x="43.7211" y="581.247" type="line" smooth="yes"/>
-      <point x="79.6929" y="632.967"/>
-      <point x="131.9" y="719.19"/>
-      <point x="148.491" y="735.78" type="curve"/>
-      <point x="158.477" y="746.858"/>
-      <point x="177.979" y="750.905"/>
-      <point x="184.749" y="750.905" type="curve" smooth="yes"/>
-      <point x="204.103" y="750.905"/>
-      <point x="227.092" y="736.659"/>
-      <point x="227.092" y="714.074" type="curve" smooth="yes"/>
-      <point x="227.092" y="693.893"/>
-      <point x="207.914" y="674.69"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>571</integer>
-            <key>width</key>
-            <integer>180</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>36</integer>
-            <key>width</key>
-            <integer>191</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

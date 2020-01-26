@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acute" format="1">
-  <advance width="251"/>
+  <advance width="600"/>
   <unicode hex="00B4"/>
   <outline>
-    <contour>
-      <point x="41.8429" y="524.975" type="line"/>
-      <point x="20.378" y="546.44" type="line"/>
-      <point x="23.7211" y="551.247" type="line" smooth="yes"/>
-      <point x="59.9346" y="603.315"/>
-      <point x="142.253" y="719.543"/>
-      <point x="158.491" y="735.78" type="curve" smooth="yes"/>
-      <point x="168.55" y="745.839"/>
-      <point x="181.725" y="750.904"/>
-      <point x="194.87" y="750.904" type="curve" smooth="yes"/>
-      <point x="208.014" y="750.904"/>
-      <point x="221.189" y="745.839"/>
-      <point x="231.247" y="735.78" type="curve" smooth="yes"/>
-      <point x="241.307" y="725.721"/>
-      <point x="246.371" y="712.547"/>
-      <point x="246.371" y="699.403" type="curve" smooth="yes"/>
-      <point x="246.371" y="686.258"/>
-      <point x="241.306" y="673.083"/>
-      <point x="231.247" y="663.023" type="curve" smooth="yes"/>
-      <point x="215.046" y="646.823"/>
-      <point x="99.5363" y="563.782"/>
-      <point x="46.6246" y="528.192" type="curve" smooth="yes"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>525</integer>
-            <key>width</key>
-            <integer>226</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>20</integer>
-            <key>width</key>
-            <integer>226</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

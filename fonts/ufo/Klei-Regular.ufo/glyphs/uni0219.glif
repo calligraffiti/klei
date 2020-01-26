@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0219" format="1">
-  <advance width="449"/>
+  <advance width="600"/>
   <unicode hex="0219"/>
   <outline>
-    <component base="comma" xOffset="105.934" yOffset="-161"/>
-    <component base="s"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-247</integer>
-            <key>width</key>
-            <integer>26</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>-10</integer>
-            <key>width</key>
-            <integer>30</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>480</integer>
-            <key>width</key>
-            <integer>26</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>49</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>83</integer>
-            <key>width</key>
-            <integer>76</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>210</integer>
-            <key>width</key>
-            <integer>81</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>325</integer>
-            <key>width</key>
-            <integer>74</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

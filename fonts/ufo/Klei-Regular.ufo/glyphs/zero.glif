@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zero" format="1">
-  <advance width="480"/>
+  <advance width="600"/>
   <unicode hex="0030"/>
   <outline>
-    <contour>
-      <point x="241" y="597" type="curve" smooth="yes"/>
-      <point x="171.514" y="597"/>
-      <point x="105" y="475.549"/>
-      <point x="105" y="317" type="curve" smooth="yes"/>
-      <point x="105" y="158.452"/>
-      <point x="171.513" y="37"/>
-      <point x="241" y="37" type="curve" smooth="yes"/>
-      <point x="310.486" y="37"/>
-      <point x="377" y="158.451"/>
-      <point x="377" y="317" type="curve" smooth="yes"/>
-      <point x="377" y="475.548"/>
-      <point x="310.487" y="597"/>
-    </contour>
-    <contour>
-      <point x="241" y="-7" type="curve" smooth="yes"/>
-      <point x="110.683" y="-7"/>
-      <point x="18" y="140.491"/>
-      <point x="18" y="317" type="curve" smooth="yes"/>
-      <point x="18" y="493.509"/>
-      <point x="110.683" y="640"/>
-      <point x="241" y="640" type="curve" smooth="yes"/>
-      <point x="371.317" y="640"/>
-      <point x="464" y="493.509"/>
-      <point x="464" y="317" type="curve" smooth="yes"/>
-      <point x="464" y="140.491"/>
-      <point x="371.317" y="-7"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-7</integer>
-            <key>width</key>
-            <integer>44</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>597</integer>
-            <key>width</key>
-            <integer>43</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>18</integer>
-            <key>width</key>
-            <integer>87</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>377</integer>
-            <key>width</key>
-            <integer>87</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

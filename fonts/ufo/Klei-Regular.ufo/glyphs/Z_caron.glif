@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zcaron" format="1">
-  <advance width="680"/>
+  <advance width="600"/>
   <unicode hex="017D"/>
   <outline>
-    <component base="asciicircum" xScale="-1" yScale="-1" xyScale="1.22465e-16" yxScale="-1.22465e-16" xOffset="613" yOffset="1532.78"/>
-    <component base="Z"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>36</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>697</integer>
-            <key>width</key>
-            <integer>33</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="311"/>
+  <advance width="600"/>
   <unicode hex="005B"/>
   <outline>
-    <contour>
-      <point x="135" y="745" type="line"/>
-      <point x="135" y="-84" type="line"/>
-      <point x="258" y="-84" type="line" smooth="yes"/>
-      <point x="271.694" y="-84"/>
-      <point x="273.629" y="-97.3477"/>
-      <point x="273.629" y="-106.284" type="curve" smooth="yes"/>
-      <point x="273.629" y="-115.485"/>
-      <point x="271.779" y="-128"/>
-      <point x="258" y="-128" type="curve" smooth="yes"/>
-      <point x="93" y="-128" type="line" smooth="yes"/>
-      <point x="76.6279" y="-128"/>
-      <point x="67" y="-117.958"/>
-      <point x="67" y="-101" type="curve" smooth="yes"/>
-      <point x="67" y="761" type="line" smooth="yes"/>
-      <point x="67" y="778.853"/>
-      <point x="78.6328" y="789"/>
-      <point x="97" y="789" type="curve" smooth="yes"/>
-      <point x="258" y="789" type="line" smooth="yes"/>
-      <point x="271.694" y="789"/>
-      <point x="273.629" y="775.652"/>
-      <point x="273.629" y="766.716" type="curve" smooth="yes"/>
-      <point x="273.629" y="757.515"/>
-      <point x="271.779" y="745"/>
-      <point x="258" y="745" type="curve" smooth="yes"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-128</integer>
-            <key>width</key>
-            <integer>44</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>745</integer>
-            <key>width</key>
-            <integer>44</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>67</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

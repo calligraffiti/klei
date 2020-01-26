@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E20" format="1">
-  <advance width="823"/>
+  <advance width="600"/>
   <unicode hex="1E20"/>
   <outline>
-    <component base="macron" xOffset="228.434" yOffset="296.001"/>
-    <component base="G"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-10</integer>
-            <key>width</key>
-            <integer>46</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>290</integer>
-            <key>width</key>
-            <integer>19</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>701</integer>
-            <key>width</key>
-            <integer>41</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>795</integer>
-            <key>width</key>
-            <integer>58</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>55</integer>
-            <key>width</key>
-            <integer>103</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>289</integer>
-            <key>width</key>
-            <integer>287</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>641</integer>
-            <key>width</key>
-            <integer>81</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>695</integer>
-            <key>width</key>
-            <integer>23</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

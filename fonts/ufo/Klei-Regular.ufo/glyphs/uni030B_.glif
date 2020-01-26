@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni030B" format="1">
-  <advance width="435"/>
+  <advance width="600"/>
   <unicode hex="030B"/>
   <outline>
-    <contour>
-      <point x="378.208" y="712.805" type="curve" smooth="yes"/>
-      <point x="378.208" y="692.273"/>
-      <point x="363.334" y="676.11"/>
-      <point x="350.247" y="663.022" type="curve" smooth="yes"/>
-      <point x="333.763" y="646.539"/>
-      <point x="265.94" y="605.035"/>
-      <point x="213.756" y="569.935" type="curve"/>
-      <point x="190.347" y="570.645" type="line"/>
-      <point x="228.037" y="624.836"/>
-      <point x="260.614" y="692.536"/>
-      <point x="302.491" y="735.78" type="curve" smooth="yes"/>
-      <point x="313.263" y="746.903"/>
-      <point x="332.165" y="750.905"/>
-      <point x="338.749" y="750.905" type="curve" smooth="yes"/>
-      <point x="355.879" y="750.905"/>
-      <point x="378.208" y="735.698"/>
-    </contour>
-    <contour>
-      <point x="224.208" y="712.805" type="curve" smooth="yes"/>
-      <point x="224.208" y="692.273"/>
-      <point x="209.334" y="676.11"/>
-      <point x="196.247" y="663.023" type="curve" smooth="yes"/>
-      <point x="179.763" y="646.539"/>
-      <point x="111.94" y="605.035"/>
-      <point x="59.7563" y="569.935" type="curve"/>
-      <point x="36.3469" y="570.644" type="line"/>
-      <point x="74.0374" y="624.836"/>
-      <point x="106.614" y="692.536"/>
-      <point x="148.491" y="735.78" type="curve" smooth="yes"/>
-      <point x="159.262" y="746.903"/>
-      <point x="178.165" y="750.905"/>
-      <point x="184.749" y="750.905" type="curve" smooth="yes"/>
-      <point x="201.879" y="750.905"/>
-      <point x="224.208" y="735.698"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>570</integer>
-            <key>width</key>
-            <integer>181</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

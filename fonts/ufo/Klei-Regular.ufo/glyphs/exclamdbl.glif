@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdbl" format="1">
-  <advance width="472"/>
+  <advance width="600"/>
   <unicode hex="203C"/>
   <outline>
-    <component base="exclam" xOffset="236"/>
-    <component base="exclam"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-18</integer>
-            <key>width</key>
-            <integer>116</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>731</integer>
-            <key>width</key>
-            <integer>20</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>60</integer>
-            <key>width</key>
-            <integer>117</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>67</integer>
-            <key>width</key>
-            <integer>102</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>90</integer>
-            <key>width</key>
-            <integer>58</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>296</integer>
-            <key>width</key>
-            <integer>117</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>303</integer>
-            <key>width</key>
-            <integer>102</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>326</integer>
-            <key>width</key>
-            <integer>58</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

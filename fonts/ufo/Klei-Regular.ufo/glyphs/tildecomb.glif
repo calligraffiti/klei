@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tildecomb" format="1">
-  <advance width="399"/>
+  <advance width="600"/>
   <unicode hex="0303"/>
   <outline>
-    <contour>
-      <point x="138.405" y="572.669" type="curve" smooth="yes"/>
-      <point x="198.112" y="572.669"/>
-      <point x="209.453" y="526.818"/>
-      <point x="261.605" y="526.818" type="curve" smooth="yes"/>
-      <point x="300.258" y="526.818"/>
-      <point x="328.586" y="561.393"/>
-      <point x="342.805" y="561.393" type="curve" smooth="yes"/>
-      <point x="348.34" y="561.393"/>
-      <point x="356.936" y="558.135"/>
-      <point x="356.936" y="549.228" type="curve" smooth="yes"/>
-      <point x="356.936" y="526.735"/>
-      <point x="304.738" y="466.181"/>
-      <point x="254.605" y="466.181" type="curve" smooth="yes"/>
-      <point x="194.551" y="466.181"/>
-      <point x="183.75" y="512.506"/>
-      <point x="134.905" y="512.506" type="curve" smooth="yes"/>
-      <point x="104.558" y="512.506"/>
-      <point x="71.1374" y="484.727"/>
-      <point x="57.2051" y="484.727" type="curve" smooth="yes"/>
-      <point x="48.8833" y="484.727"/>
-      <point x="43.0986" y="491.734"/>
-      <point x="43.0986" y="499.527" type="curve" smooth="yes"/>
-      <point x="43.0986" y="510.866"/>
-      <point x="91.6221" y="572.669"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>466</integer>
-            <key>width</key>
-            <integer>61</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>513</integer>
-            <key>width</key>
-            <integer>60</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>43</integer>
-            <key>width</key>
-            <integer>314</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

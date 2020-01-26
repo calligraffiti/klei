@@ -1,64 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslashacute" format="1">
-  <advance width="800"/>
+  <advance width="600"/>
   <unicode hex="01FE"/>
   <outline>
-    <component base="acutecomb" xOffset="346.693" yOffset="216.809"/>
-    <component base="Oslash"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.fontlab.hintData</key>
-      <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>-10</integer>
-            <key>width</key>
-            <integer>37</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>699</integer>
-            <key>width</key>
-            <integer>35</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>788</integer>
-            <key>width</key>
-            <integer>180</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>55</integer>
-            <key>width</key>
-            <integer>89</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>56</integer>
-            <key>width</key>
-            <integer>56</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>383</integer>
-            <key>width</key>
-            <integer>191</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>658</integer>
-            <key>width</key>
-            <integer>87</integer>
-          </dict>
-        </array>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
