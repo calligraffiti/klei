@@ -7,19 +7,25 @@
       <point x="119" y="210" type="curve" smooth="yes"/>
       <point x="131" y="210"/>
       <point x="140" y="219"/>
-      <point x="141" y="234" type="curve" smooth="yes"/>
+      <point x="141" y="234" type="curve"/>
       <point x="161" y="701" type="line"/>
-      <point x="161" y="730"/>
-      <point x="139" y="744"/>
+      <point x="161" y="703"/>
+      <point x="161" y="705"/>
+      <point x="161" y="707" type="curve" smooth="yes"/>
+      <point x="159" y="732"/>
+      <point x="137" y="744"/>
       <point x="117" y="744" type="curve" smooth="yes"/>
-      <point x="95" y="744"/>
-      <point x="74" y="730"/>
+      <point x="97" y="744"/>
+      <point x="76" y="732"/>
+      <point x="74" y="707" type="curve" smooth="yes"/>
+      <point x="74" y="705"/>
+      <point x="74" y="703"/>
       <point x="74" y="701" type="curve"/>
-      <point x="97" y="234" type="line" smooth="yes"/>
+      <point x="97" y="234" type="line"/>
       <point x="98" y="219"/>
       <point x="106" y="210"/>
     </contour>
-    <component base="period" xOffset="7" yOffset="-563"/>
+    <component base="period" xOffset="7"/>
   </outline>
   <lib>
     <dict>
