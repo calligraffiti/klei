@@ -46,7 +46,7 @@ Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
 
 ## License
 
-  Copyright (c) 2015, 2019 Joseph Steck, Rocketroom LLC. (http://rocketroom.com),
+  Copyright (c) 2015, 2020 Joseph Steck, Rocketroom LLC. (http://rocketroom.com),
   with Reserved Font Name 'Klei'. All rights reserved.
 
   This Font Software is licensed under the SIL Open Font License, Version 1.1.
