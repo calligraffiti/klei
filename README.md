@@ -41,7 +41,8 @@ The Klei.sfd folder contains the native FontForge source files.
 - ~~Post UFO files~~
 - ~~Upload Web Fonts~~ **!Untested!**
 
-Originally released 'Valentines Day' or '[Love Free Software Day](https://fsfe.org/campaigns/ilovefs/)' Feb 14, 2018
+Originally released 'Valentines Day' or '[I Love Free Software Day](https://ilovefs.org)' Feb 14, 2018<br>
+<a href="https://ilovefs.org"><img src="https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-button-small-en.png" style="border: 0 !important;" alt="I love Free Software!"></a>
 
 
 ## License
