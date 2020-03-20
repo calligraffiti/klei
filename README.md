@@ -58,7 +58,7 @@ Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
 
 We would really welcome any help finishing and extending Klei. We would especially welcome any help with Greek and Cyrillic glyphs and testing on different platforms.
 
-Please consider a small donation through **[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PULU375X94PXJ&source=url)** or the become a sponsor to help us with Klei.<br>
+Please consider a small donation through **[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PULU375X94PXJ&source=url)** or become a sponsor to help us with Klei.<br>
 <a href="https://www.buymeacoffee.com/calligraffiti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ---
