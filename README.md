@@ -41,12 +41,13 @@ The Klei.sfd folder contains the native FontForge source files.
 - ~~Post UFO files~~
 - ~~Upload Web Fonts~~ **!Untested!**
 
-Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
+Originally released 'Valentines Day' or '[I Love Free Software Day](https://ilovefs.org)' Feb 14, 2018<br>
+<a href="https://ilovefs.org"><img src="https://fsfe.org/campaigns/ilovefs/artwork/graphics/ilovefs-button-small-en.png" style="border: 0 !important;" alt="I love Free Software!"></a>
 
 
 ## License
 
-  Copyright (c) 2015, 2019 Joseph Steck, Rocketroom LLC. (http://rocketroom.com),
+  Copyright (c) 2015, 2020 Joseph Steck, Rocketroom LLC. (http://rocketroom.com),
   with Reserved Font Name 'Klei'. All rights reserved.
 
   This Font Software is licensed under the SIL Open Font License, Version 1.1.
@@ -58,7 +59,8 @@ Originally released 'Valentines Day' or 'Love Free Software Day' Feb 14, 2018
 
 We would really welcome any help finishing and extending Klei. We would especially welcome any help with Greek and Cyrillic glyphs and testing on different platforms.
 
-Please consider a small **[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PULU375X94PXJ&source=url)** donation to help us finish Klei.
+Please consider a small donation through **[PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PULU375X94PXJ&source=url)** or become a [sponsor](https://github.com/calligraffiti/klei) to help us finish Klei. Thank you so much!<br><br>
+<a href="https://www.buymeacoffee.com/calligraffiti" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 ---
 
