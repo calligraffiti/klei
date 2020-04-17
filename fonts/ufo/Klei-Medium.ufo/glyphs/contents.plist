@@ -480,12 +480,22 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f_f_i</key>
+	<string>f_f_i.glif</string>
+	<key>f_f_l</key>
+	<string>f_f_l.glif</string>
+	<key>ff</key>
+	<string>ff.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
 	<key>figuredash</key>
 	<string>figuredash.glif</string>
 	<key>five</key>
 	<string>five.glif</string>
 	<key>fiveeighths</key>
 	<string>fiveeighths.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
 	<key>fraction</key>
@@ -1538,16 +1548,6 @@
 	<string>uni215A_.glif</string>
 	<key>uni215F</key>
 	<string>uni215F_.glif</string>
-	<key>uniFB00</key>
-	<string>uniF_B_00.glif</string>
-	<key>uniFB01</key>
-	<string>uniF_B_01.glif</string>
-	<key>uniFB02</key>
-	<string>uniF_B_02.glif</string>
-	<key>uniFB03</key>
-	<string>uniF_B_03.glif</string>
-	<key>uniFB04</key>
-	<string>uniF_B_04.glif</string>
 	<key>uniFB05</key>
 	<string>uniF_B_05.glif</string>
 	<key>uniFB06</key>
