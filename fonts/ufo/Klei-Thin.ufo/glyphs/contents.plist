@@ -622,6 +622,8 @@
 	<string>odieresis.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>ogonek</key>
+	<string>ogonek.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
 	<key>ohorn</key>
@@ -714,6 +716,8 @@
 	<string>registered.glif</string>
 	<key>rho</key>
 	<string>rho.glif</string>
+	<key>ring</key>
+	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -758,6 +762,8 @@
 	<string>threeeighths.glif</string>
 	<key>threequarters</key>
 	<string>threequarters.glif</string>
+	<key>tilde</key>
+	<string>tilde.glif</string>
 	<key>tildecomb</key>
 	<string>tildecomb.glif</string>
 	<key>tonos</key>

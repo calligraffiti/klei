@@ -6,20 +6,23 @@
     <contour>
       <point x="225" y="-128" type="curve"/>
       <point x="233" y="-128" type="line"/>
-      <point x="197" y="-76"/>
-      <point x="144" y="11"/>
+      <point x="219" y="-108"/>
+      <point x="203" y="-84"/>
+      <point x="186" y="-57" type="curve" smooth="yes"/>
+      <point x="162" y="-19"/>
+      <point x="138" y="17"/>
       <point x="129" y="26" type="curve" smooth="yes"/>
       <point x="120" y="35"/>
-      <point x="110" y="39"/>
-      <point x="98" y="39" type="curve" smooth="yes"/>
-      <point x="81" y="39"/>
-      <point x="63" y="30"/>
+      <point x="104" y="40"/>
+      <point x="91" y="40" type="curve" smooth="yes"/>
+      <point x="74" y="40"/>
+      <point x="60" y="29"/>
       <point x="60" y="12" type="curve" smooth="yes"/>
-      <point x="57" y="-4"/>
+      <point x="60" y="-4"/>
       <point x="78" y="-24"/>
       <point x="91" y="-37" type="curve" smooth="yes"/>
       <point x="106" y="-52"/>
-      <point x="172" y="-93"/>
+      <point x="172" y="-95"/>
     </contour>
   </outline>
   <lib>

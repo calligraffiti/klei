@@ -803,8 +803,11 @@
 		<string>circumflex</string>
 		<string>caron</string>
 		<string>breve</string>
+		<string>ring</string>
+		<string>tilde</string>
 		<string>macron</string>
 		<string>cedilla</string>
+		<string>ogonek</string>
 		<string>circumflexcomb.case</string>
 		<string>tonos</string>
 		<string>dieresistonos</string>

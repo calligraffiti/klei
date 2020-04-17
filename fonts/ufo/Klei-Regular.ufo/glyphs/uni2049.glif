@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2049" format="1">
-  <advance width="600"/>
+  <advance width="525"/>
   <unicode hex="2049"/>
   <outline>
+    <component base="question" xOffset="150"/>
+    <component base="exclam" xOffset="-47" yOffset="7"/>
   </outline>
 </glyph>

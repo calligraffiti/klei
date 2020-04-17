@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="1">
-  <advance width="406"/>
+  <advance width="399"/>
   <unicode hex="00B1"/>
   <outline>
-    <component base="hyphen" xScale="0.9" yScale="0.9" xOffset="20.300" yOffset="-83.350"/>
-    <component base="plus" xScale="0.9" yScale="0.9" xOffset="20.300" yOffset="114.650"/>
+    <component base="hyphen" xScale="0.9" yScale="0.9" xOffset="17" yOffset="-83"/>
+    <component base="plus" xScale="0.9" yScale="0.9" xOffset="17" yOffset="115"/>
   </outline>
   <lib>
     <dict>

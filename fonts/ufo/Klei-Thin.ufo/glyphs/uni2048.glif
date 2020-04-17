@@ -3,8 +3,8 @@
   <advance width="698"/>
   <unicode hex="2048"/>
   <outline>
-    <component base="exclam" xOffset="412"/>
-    <component base="question"/>
+    <component base="exclam" xOffset="401"/>
+    <component base="question" xOffset="-2"/>
   </outline>
   <lib>
     <dict>

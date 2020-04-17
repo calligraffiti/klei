@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresistonos" format="1">
-  <advance width="600"/>
+  <advance width="427"/>
   <unicode hex="0385"/>
   <outline>
+    <component base="tonos" xOffset="52" yOffset="120"/>
+    <component base="dieresis" yOffset="6"/>
   </outline>
 </glyph>
