@@ -569,7 +569,6 @@
 		<string>zdotaccent</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
-		<string>ff</string>
 		<string>fi</string>
 		<string>fl</string>
 		<string>uniFB05</string>
@@ -811,6 +810,7 @@
 		<string>circumflexcomb.case</string>
 		<string>tonos</string>
 		<string>dieresistonos</string>
+		<string>ff</string>
 		<string>newGlyph</string>
 	</array>
 	<key>public.postscriptNames</key>
