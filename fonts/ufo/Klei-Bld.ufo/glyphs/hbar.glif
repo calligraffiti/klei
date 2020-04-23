@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="1">
+  <advance width="619"/>
+  <unicode hex="0127"/>
+  <outline>
+    <contour>
+      <point x="409" y="619" type="line"/>
+      <point x="409" y="616.771"/>
+      <point x="408.936" y="610.741"/>
+      <point x="408.226" y="606.199" type="curve"/>
+      <point x="405.508" y="592.44"/>
+      <point x="400.361" y="565"/>
+      <point x="379.361" y="565" type="curve" smooth="yes"/>
+      <point x="22" y="565" type="line"/>
+      <point x="23.9502" y="573.556" type="line" smooth="yes"/>
+      <point x="23.9502" y="573.556"/>
+      <point x="30" y="619"/>
+      <point x="50.7754" y="619" type="curve" smooth="yes"/>
+    </contour>
+    <component base="h"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>467</integer>
+            <key>width</key>
+            <integer>45</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>565</integer>
+            <key>width</key>
+            <integer>54</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>684</integer>
+            <key>width</key>
+            <integer>26</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>726</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>92</integer>
+            <key>width</key>
+            <integer>134</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>408</integer>
+            <key>width</key>
+            <integer>124</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
