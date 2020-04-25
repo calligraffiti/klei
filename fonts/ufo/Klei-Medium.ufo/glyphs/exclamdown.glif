@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="exclamdown" format="1">
-  <advance width="246"/>
+  <advance width="278"/>
   <unicode hex="00A1"/>
   <outline>
     <component base="exclam" xScale="-0.9997" xyScale="-0.0265" yScale="-0.9997" yxScale="0.0265" xOffset="251" yOffset="508"/>
