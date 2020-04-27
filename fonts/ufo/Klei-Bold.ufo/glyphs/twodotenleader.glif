@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twodotenleader" format="1">
-  <advance width="600"/>
+  <advance width="481"/>
   <unicode hex="2025"/>
   <outline>
+    <component base="period" xOffset="242"/>
+    <component base="period" xOffset="14"/>
   </outline>
 </glyph>
