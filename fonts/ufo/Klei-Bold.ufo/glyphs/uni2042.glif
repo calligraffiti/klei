@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2042" format="1">
-  <advance width="600"/>
+  <advance width="735"/>
   <unicode hex="2042"/>
   <outline>
+    <component base="asterisk" xOffset="-53" yOffset="-326"/>
+    <component base="asterisk" xOffset="314" yOffset="-326"/>
+    <component base="asterisk" xOffset="130" yOffset="-46"/>
   </outline>
 </glyph>
