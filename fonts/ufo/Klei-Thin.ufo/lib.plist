@@ -4,6 +4,21 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.fontMaster.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>underlineThickness</string>
+			<key>value</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>underlinePosition</string>
+			<key>value</key>
+			<integer>-100</integer>
+		</dict>
+	</array>
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>master01</string>
 	<key>com.schriftgestaltung.glyphOrder</key>

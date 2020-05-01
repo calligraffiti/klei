@@ -119,10 +119,6 @@ FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	<key>openTypeNameLicenseURL</key>
 	<string>http://scripts.sil.org/OFL</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Klei</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Regular</string>
 	<key>openTypeNameVersion</key>
 	<string>Version 1.000</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -158,24 +154,14 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
 	</array>
 	<key>openTypeOS2VendorID</key>
 	<string>PfEd</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
 	<key>postscriptFontName</key>
-	<string>Klei</string>
-	<key>postscriptFullName</key>
-	<string>Klei</string>
+	<string>Klei-Regular</string>
 	<key>postscriptOtherBlues</key>
 	<array>
 	</array>
-	<key>styleMapFamilyName</key>
-	<string>Klei</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>unitsPerEm</key>
