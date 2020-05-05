@@ -7,12 +7,4 @@
     <component base="period" xOffset="452"/>
     <component base="period" xOffset="227"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>.</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>.</string>
-    </dict>
-  </lib>
 </glyph>
