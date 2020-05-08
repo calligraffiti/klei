@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni2034" format="1">
-  <advance width="600"/>
+  <advance width="432"/>
   <unicode hex="2034"/>
   <outline>
+    <component base="quotesingle" xOffset="232"/>
+    <component base="quotesingle" xOffset="116"/>
+    <component base="quotesingle"/>
   </outline>
 </glyph>
