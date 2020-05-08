@@ -3,5 +3,21 @@
   <advance width="600"/>
   <unicode hex="2013"/>
   <outline>
+    <contour>
+      <point x="127" y="256" type="curve"/>
+      <point x="472" y="256" type="line" smooth="yes"/>
+      <point x="487" y="256"/>
+      <point x="488" y="280"/>
+      <point x="488" y="299" type="curve" smooth="yes"/>
+      <point x="488" y="318"/>
+      <point x="487" y="342"/>
+      <point x="472" y="342" type="curve" smooth="yes"/>
+      <point x="127" y="342" type="line" smooth="yes"/>
+      <point x="112" y="342"/>
+      <point x="111" y="321"/>
+      <point x="111" y="299" type="curve" smooth="yes"/>
+      <point x="111" y="277"/>
+      <point x="112" y="256"/>
+    </contour>
   </outline>
 </glyph>
