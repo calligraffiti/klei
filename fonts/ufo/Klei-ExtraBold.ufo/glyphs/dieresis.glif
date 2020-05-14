@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="600"/>
+  <advance width="268"/>
   <unicode hex="00A8"/>
   <outline>
+    <component base="period" xOffset="122" yOffset="615"/>
+    <component base="period" xOffset="-115" yOffset="615"/>
   </outline>
 </glyph>
