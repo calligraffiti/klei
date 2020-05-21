@@ -3,5 +3,6 @@
   <advance width="600"/>
   <unicode hex="0303"/>
   <outline>
+    <component base="tilde"/>
   </outline>
 </glyph>
