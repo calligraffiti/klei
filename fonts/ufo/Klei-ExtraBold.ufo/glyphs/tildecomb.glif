@@ -4,5 +4,8 @@
   <unicode hex="0303"/>
   <outline>
     <component base="tilde"/>
+    <contour>
+      <point x="300" y="507" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>
