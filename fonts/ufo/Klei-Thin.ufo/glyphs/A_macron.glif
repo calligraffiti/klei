@@ -3,8 +3,8 @@
   <advance width="777"/>
   <unicode hex="0100"/>
   <outline>
-    <component base="macron" xOffset="195.434" yOffset="287.809"/>
     <component base="A"/>
+    <component base="macron" xOffset="132" yOffset="228"/>
   </outline>
   <lib>
     <dict>
