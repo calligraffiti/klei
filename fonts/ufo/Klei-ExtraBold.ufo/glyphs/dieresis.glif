@@ -5,5 +5,11 @@
   <outline>
     <component base="period" xOffset="122" yOffset="615"/>
     <component base="period" xOffset="-115" yOffset="615"/>
+    <contour>
+      <point x="139" y="771" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="129" y="547" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>

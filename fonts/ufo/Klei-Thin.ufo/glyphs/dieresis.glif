@@ -4,35 +4,35 @@
   <unicode hex="00A8"/>
   <outline>
     <contour>
-      <point x="320" y="634" type="curve" smooth="yes"/>
-      <point x="345" y="634"/>
-      <point x="366" y="654"/>
-      <point x="366" y="680" type="curve" smooth="yes"/>
-      <point x="366" y="706"/>
-      <point x="345" y="726"/>
-      <point x="320" y="726" type="curve" smooth="yes"/>
-      <point x="294" y="726"/>
-      <point x="273" y="706"/>
-      <point x="273" y="680" type="curve" smooth="yes"/>
-      <point x="273" y="654"/>
-      <point x="294" y="634"/>
+      <point x="315" y="604" type="curve" smooth="yes"/>
+      <point x="340" y="604"/>
+      <point x="361" y="624"/>
+      <point x="361" y="650" type="curve" smooth="yes"/>
+      <point x="361" y="676"/>
+      <point x="340" y="696"/>
+      <point x="315" y="696" type="curve" smooth="yes"/>
+      <point x="289" y="696"/>
+      <point x="268" y="676"/>
+      <point x="268" y="650" type="curve" smooth="yes"/>
+      <point x="268" y="624"/>
+      <point x="289" y="604"/>
     </contour>
     <contour>
-      <point x="96" y="634" type="curve" smooth="yes"/>
-      <point x="122" y="634"/>
-      <point x="143" y="654"/>
-      <point x="143" y="680" type="curve" smooth="yes"/>
-      <point x="143" y="706"/>
-      <point x="122" y="726"/>
-      <point x="96" y="726" type="curve" smooth="yes"/>
-      <point x="71" y="726"/>
-      <point x="50" y="706"/>
-      <point x="50" y="680" type="curve" smooth="yes"/>
-      <point x="50" y="654"/>
-      <point x="71" y="634"/>
+      <point x="91" y="604" type="curve" smooth="yes"/>
+      <point x="117" y="604"/>
+      <point x="138" y="624"/>
+      <point x="138" y="650" type="curve" smooth="yes"/>
+      <point x="138" y="676"/>
+      <point x="117" y="696"/>
+      <point x="91" y="696" type="curve" smooth="yes"/>
+      <point x="66" y="696"/>
+      <point x="45" y="676"/>
+      <point x="45" y="650" type="curve" smooth="yes"/>
+      <point x="45" y="624"/>
+      <point x="66" y="604"/>
     </contour>
     <contour>
-      <point x="208" y="791" type="move" name="_bottom"/>
+      <point x="203" y="761" type="move" name="_bottom"/>
     </contour>
     <contour>
       <point x="208" y="507" type="move" name="_top"/>
