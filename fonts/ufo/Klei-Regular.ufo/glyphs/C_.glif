@@ -50,7 +50,10 @@
       <point x="295" y="-10"/>
     </contour>
     <contour>
-      <point x="410" y="730" type="move" name="top"/>
+      <point x="390" y="1" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="420" y="740" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

@@ -4,5 +4,8 @@
   <unicode hex="0307"/>
   <outline>
     <component base="dotaccent" yOffset="-81"/>
+    <contour>
+      <point x="112" y="507" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>

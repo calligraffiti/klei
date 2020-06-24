@@ -3,6 +3,9 @@
   <advance width="268"/>
   <unicode hex="0307"/>
   <outline>
-    <component base="dotaccent"/>
+    <component base="dotaccent" yOffset="-60"/>
+    <contour>
+      <point x="112" y="507" type="move" name="_top"/>
+    </contour>
   </outline>
 </glyph>
