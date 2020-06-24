@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gcaron" format="1">
-  <advance width="600"/>
+  <advance width="795"/>
   <unicode hex="01E6"/>
   <outline>
+    <component base="G"/>
+    <component base="caron" xOffset="160" yOffset="237"/>
   </outline>
 </glyph>
