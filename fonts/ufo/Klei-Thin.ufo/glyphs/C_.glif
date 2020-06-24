@@ -50,6 +50,9 @@
       <point x="286" y="-10"/>
     </contour>
     <contour>
+      <point x="402" y="5" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="410" y="730" type="move" name="top"/>
     </contour>
   </outline>
