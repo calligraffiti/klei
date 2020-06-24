@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="600"/>
+  <advance width="828"/>
   <unicode hex="00D8"/>
   <outline>
+    <contour>
+      <point x="638" y="646" type="curve"/>
+      <point x="670" y="604" type="line"/>
+      <point x="692" y="626"/>
+      <point x="711" y="645"/>
+      <point x="727" y="662" type="curve"/>
+      <point x="727" y="680"/>
+      <point x="692" y="696"/>
+      <point x="684" y="696" type="curve"/>
+      <point x="671" y="680"/>
+      <point x="652" y="660"/>
+    </contour>
+    <contour>
+      <point x="181" y="164" type="curve"/>
+      <point x="209" y="126" type="line"/>
+      <point x="319" y="244"/>
+      <point x="497" y="428"/>
+      <point x="643" y="576" type="curve"/>
+      <point x="613" y="619" type="line"/>
+      <point x="475" y="468"/>
+      <point x="337" y="323"/>
+    </contour>
+    <contour>
+      <point x="182" y="102" type="curve"/>
+      <point x="147" y="127" type="line"/>
+      <point x="119" y="101"/>
+      <point x="92" y="73"/>
+      <point x="66" y="46" type="curve"/>
+      <point x="66" y="39"/>
+      <point x="95" y="35"/>
+      <point x="112" y="35" type="curve" smooth="yes"/>
+      <point x="119" y="35"/>
+      <point x="128" y="35"/>
+      <point x="128" y="37" type="curve" smooth="yes"/>
+      <point x="128" y="40"/>
+      <point x="148" y="64"/>
+    </contour>
+    <component base="O"/>
   </outline>
 </glyph>

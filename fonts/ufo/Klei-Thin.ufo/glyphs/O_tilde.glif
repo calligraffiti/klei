@@ -3,8 +3,8 @@
   <advance width="800"/>
   <unicode hex="00D5"/>
   <outline>
-    <component base="tildecomb" xOffset="200.270" yOffset="320.628"/>
     <component base="O"/>
+    <component base="tildecomb" xOffset="101" yOffset="223"/>
   </outline>
   <lib>
     <dict>
