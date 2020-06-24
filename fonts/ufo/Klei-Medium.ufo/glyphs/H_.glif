@@ -155,5 +155,8 @@
       <point x="50" y="7"/>
       <point x="52" y="3"/>
     </contour>
+    <contour>
+      <point x="399" y="753" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>
