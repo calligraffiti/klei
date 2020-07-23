@@ -48,13 +48,13 @@
       <point x="139" y="317"/>
     </contour>
     <contour>
-      <point x="135" y="457" type="line"/>
-      <point x="123" y="457"/>
-      <point x="86" y="457"/>
       <point x="63" y="457" type="curve"/>
       <point x="83" y="480"/>
       <point x="114" y="515"/>
       <point x="135" y="543" type="curve"/>
+      <point x="135" y="457" type="line"/>
+      <point x="123" y="457"/>
+      <point x="86" y="457"/>
     </contour>
     <contour>
       <point x="422" y="60" type="curve" smooth="yes"/>

@@ -79,13 +79,13 @@
       <point x="92" y="326" type="line"/>
     </contour>
     <contour>
-      <point x="386" y="202" type="line"/>
-      <point x="374" y="202"/>
-      <point x="337" y="202"/>
       <point x="314" y="202" type="curve"/>
       <point x="334" y="225"/>
       <point x="365" y="260"/>
       <point x="386" y="288" type="curve"/>
+      <point x="386" y="202" type="line"/>
+      <point x="374" y="202"/>
+      <point x="337" y="202"/>
     </contour>
   </outline>
   <lib>
