@@ -4,6 +4,15 @@
   <unicode hex="0066"/>
   <outline>
     <contour>
+      <point x="69" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+      <point x="207" y="16" type="line"/>
+      <point x="201" y="16"/>
+      <point x="196" y="16"/>
+      <point x="190" y="17" type="curve"/>
+      <point x="177" y="19"/>
+      <point x="171" y="28"/>
+      <point x="171" y="37" type="curve"/>
       <point x="171" y="478" type="line"/>
       <point x="162" y="496" type="line"/>
       <point x="162" y="572" type="line"/>
@@ -38,29 +47,16 @@
       <point x="80" y="16"/>
       <point x="75" y="16"/>
       <point x="69" y="16" type="curve"/>
-      <point x="69" y="0" type="line"/>
-      <point x="207" y="0" type="line"/>
-      <point x="207" y="16" type="line"/>
-      <point x="201" y="16"/>
-      <point x="196" y="16"/>
-      <point x="190" y="17" type="curve"/>
-      <point x="177" y="19"/>
-      <point x="171" y="28"/>
-      <point x="171" y="37" type="curve"/>
     </contour>
     <contour>
-      <point x="113" y="469" type="curve"/>
-      <point x="113" y="501" type="line"/>
-      <point x="57" y="501" type="line"/>
       <point x="49" y="465" type="line"/>
       <point x="73" y="468"/>
       <point x="90" y="469"/>
+      <point x="113" y="469" type="curve"/>
+      <point x="113" y="501" type="line"/>
+      <point x="57" y="501" type="line"/>
     </contour>
     <contour>
-      <point x="153" y="505" type="line"/>
-      <point x="163" y="469" type="line"/>
-      <point x="201" y="469"/>
-      <point x="302" y="466"/>
       <point x="308" y="465" type="curve"/>
       <point x="312" y="481" type="line" smooth="yes"/>
       <point x="313" y="485"/>
@@ -69,6 +65,10 @@
       <point x="314" y="500"/>
       <point x="308" y="505"/>
       <point x="287" y="505" type="curve"/>
+      <point x="153" y="505" type="line"/>
+      <point x="163" y="469" type="line"/>
+      <point x="201" y="469"/>
+      <point x="302" y="466"/>
     </contour>
     <contour>
       <point x="279" y="772" type="move" name="top"/>
