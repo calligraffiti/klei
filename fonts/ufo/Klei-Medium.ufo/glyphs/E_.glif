@@ -99,6 +99,9 @@
       <point x="430" y="339"/>
     </contour>
     <contour>
+      <point x="314" y="-1" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="289" y="729" type="move" name="top"/>
     </contour>
   </outline>

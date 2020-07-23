@@ -45,5 +45,11 @@
       <point x="47" y="64"/>
       <point x="159" y="-11"/>
     </contour>
+    <contour>
+      <point x="283" y="-11" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="288" y="517" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

@@ -125,6 +125,9 @@
       <point x="241" y="0" type="line"/>
     </contour>
     <contour>
+      <point x="399" y="-4" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="394" y="730" type="move" name="top"/>
     </contour>
   </outline>

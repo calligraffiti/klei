@@ -151,5 +151,8 @@
       <point x="549" y="651" type="curve"/>
       <point x="419" y="470" type="line"/>
     </contour>
+    <contour>
+      <point x="417" y="730" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>

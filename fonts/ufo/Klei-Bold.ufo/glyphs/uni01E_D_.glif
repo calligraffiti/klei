@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01ED" format="1">
-  <advance width="600"/>
+  <advance width="587"/>
   <unicode hex="01ED"/>
   <outline>
+    <component base="o"/>
+    <component base="ogonek" xOffset="198" yOffset="-6"/>
+    <component base="macron" xOffset="41" yOffset="9"/>
   </outline>
 </glyph>

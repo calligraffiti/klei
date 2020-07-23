@@ -3,5 +3,6 @@
   <advance width="600"/>
   <unicode hex="030C"/>
   <outline>
+    <component base="caron"/>
   </outline>
 </glyph>

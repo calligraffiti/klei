@@ -34,9 +34,6 @@
       <point x="123" y="521"/>
     </contour>
     <contour>
-      <point x="250" y="790" type="move" name="_bottom"/>
-    </contour>
-    <contour>
       <point x="250" y="507" type="move" name="_top"/>
     </contour>
   </outline>

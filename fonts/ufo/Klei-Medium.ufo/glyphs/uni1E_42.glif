@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E42" format="1">
-  <advance width="600"/>
+  <advance width="873"/>
   <unicode hex="1E42"/>
   <outline>
+    <component base="M"/>
+    <component base="dotbelowcomb" xOffset="147" yOffset="-1"/>
   </outline>
 </glyph>

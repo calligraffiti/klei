@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E90" format="1">
-  <advance width="600"/>
+  <advance width="680"/>
   <unicode hex="1E90"/>
   <outline>
+    <component base="Z"/>
+    <component base="circumflexcomb.case" xOffset="105" yOffset="-31"/>
   </outline>
 </glyph>

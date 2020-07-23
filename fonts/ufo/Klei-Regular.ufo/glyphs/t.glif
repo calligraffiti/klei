@@ -81,5 +81,11 @@
       <point x="222" y="511"/>
       <point x="186" y="511" type="curve"/>
     </contour>
+    <contour>
+      <point x="193" y="-6" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="178" y="591" type="move" name="top"/>
+    </contour>
   </outline>
 </glyph>
