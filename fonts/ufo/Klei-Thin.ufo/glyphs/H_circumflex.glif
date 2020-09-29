@@ -4,7 +4,7 @@
   <unicode hex="0124"/>
   <outline>
     <component base="H"/>
-    <component base="circumflexcomb.case" xOffset="16" yOffset="-1014"/>
+    <component base="circumflexcomb.case" xOffset="7" yOffset="9"/>
   </outline>
   <lib>
     <dict>
@@ -53,6 +53,17 @@
           </dict>
         </array>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>circumflexcomb.case</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-10-22 23:37:20 +0000</string>
     </dict>

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Hbar" format="1">
-  <advance width="600"/>
+  <advance width="817"/>
   <unicode hex="0126"/>
   <outline>
+    <contour>
+      <point x="36" y="502" type="curve"/>
+      <point x="745" y="502" type="line" smooth="yes"/>
+      <point x="759" y="502"/>
+      <point x="767" y="549"/>
+      <point x="767" y="554" type="curve"/>
+      <point x="58" y="554" type="line" smooth="yes"/>
+      <point x="50" y="554"/>
+      <point x="40" y="520"/>
+    </contour>
+    <component base="H"/>
   </outline>
 </glyph>
