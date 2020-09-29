@@ -31,10 +31,6 @@
       <point x="432" y="16"/>
       <point x="422" y="16" type="curve"/>
       <point x="422" y="0" type="line"/>
-      <point x="508" y="0" type="line"/>
-      <point x="521" y="0" type="line"/>
-      <point x="535" y="0" type="line"/>
-      <point x="615" y="0" type="line"/>
       <point x="856" y="0" type="line"/>
       <point x="873" y="140" type="line"/>
       <point x="857" y="139" type="line"/>
@@ -93,8 +89,6 @@
       <point x="823" y="591" type="curve"/>
       <point x="839" y="590" type="line"/>
       <point x="822" y="730" type="line"/>
-      <point x="623" y="730" type="line"/>
-      <point x="623" y="730" type="line"/>
       <point x="363" y="730" type="line"/>
       <point x="363" y="714" type="line"/>
       <point x="371" y="714"/>
@@ -200,6 +194,10 @@
       </dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-08-31 23:16:51 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
     </dict>
   </lib>
 </glyph>
