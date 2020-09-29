@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2E" format="1">
-  <advance width="600"/>
+  <advance width="305"/>
   <unicode hex="1E2E"/>
   <outline>
+    <component base="I"/>
+    <component base="dieresis" xOffset="-53" yOffset="233"/>
+    <component base="acutecomb" xOffset="83" yOffset="294"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>acutecomb</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
 </glyph>

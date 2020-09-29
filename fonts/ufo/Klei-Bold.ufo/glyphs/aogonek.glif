@@ -3,7 +3,39 @@
   <advance width="573"/>
   <unicode hex="0105"/>
   <outline>
+    <contour>
+      <point x="422" y="-153" type="curve" smooth="yes"/>
+      <point x="465" y="-153"/>
+      <point x="512" y="-115"/>
+      <point x="512" y="-86" type="curve" smooth="yes"/>
+      <point x="512" y="-75"/>
+      <point x="504" y="-63"/>
+      <point x="491" y="-63" type="curve" smooth="yes"/>
+      <point x="478" y="-63"/>
+      <point x="470" y="-72"/>
+      <point x="465" y="-78" type="curve" smooth="yes"/>
+      <point x="460" y="-84"/>
+      <point x="452" y="-86"/>
+      <point x="444" y="-86" type="curve" smooth="yes"/>
+      <point x="432" y="-86"/>
+      <point x="423" y="-76"/>
+      <point x="423" y="-52" type="curve" smooth="yes"/>
+      <point x="423" y="-32"/>
+      <point x="432" y="-2"/>
+      <point x="473" y="25" type="curve"/>
+      <point x="435" y="25" type="line"/>
+      <point x="362" y="-13"/>
+      <point x="352" y="-59"/>
+      <point x="352" y="-84" type="curve" smooth="yes"/>
+      <point x="352" y="-122"/>
+      <point x="379" y="-153"/>
+    </contour>
     <component base="a"/>
-    <component base="ogonek" xOffset="108" yOffset="-1"/>
+    <contour>
+      <point x="233" y="-2" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="-346" y="-5" type="move" name="_right"/>
+    </contour>
   </outline>
 </glyph>

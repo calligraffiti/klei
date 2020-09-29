@@ -6,4 +6,12 @@
     <component base="dotlessi"/>
     <component base="dieresis" xOffset="-67"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>i</string>
+    </dict>
+  </lib>
 </glyph>
