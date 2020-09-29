@@ -4,7 +4,7 @@
   <unicode hex="01ED"/>
   <outline>
     <component base="o"/>
-    <component base="ogonek" xOffset="172" yOffset="-5"/>
+    <component base="ogonek" xOffset="-26" yOffset="-17"/>
     <component base="macron" xOffset="22" yOffset="9"/>
   </outline>
 </glyph>
